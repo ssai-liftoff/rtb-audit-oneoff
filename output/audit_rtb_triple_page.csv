@@ -1,0 +1,43 @@
+connection_id,connection_name,account_id,account_name,daily_spend,supported_placements,matched_placements,allow_triple_page
+696a8b40850b5555fd0cb734,Albatross Americas - Fullscreen Display EP Test,66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,94447.87,"appopen, interstitial, rewarded","interstitial, rewarded",False
+66d7fe326ca72c3b7f276659,Meister-Winazon,561e8d976b8d90f61a004143,Exchange  - Programmatic,26641.11,"appopen, banner, interstitial, mrec, native, rewarded","interstitial, rewarded",False
+67a243669a82038cc57dc441,RTB - Start.io - Hybrid Interstitial Test Unlimited,65660afecebd4a0011dcc2ac,Exchange - RTB - Start.io,22731.96,"appopen, interstitial",interstitial,False
+695d62a965f848fb8e72b523,RTB - Adikteev Video (DID PF),5f06518e8421a500152881bb,Exchange - RTB - Adikteev,21436.6,"appopen, in_line, interstitial, rewarded","interstitial, rewarded",False
+699ccb2e74d791ee71fa048c,RTB - Albatross EU Fullscreen Display Test,66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,12288.88,"appopen, interstitial, rewarded","interstitial, rewarded",False
+66d733acb6de74f94003eaa3,RTB - Remerge Video - IDFA - Top Geos,61936e419aca75001740e38a,Exchange - RTB - Remerge,12271.85,"appopen, in_line, interstitial, rewarded","interstitial, rewarded",False
+67f9678f665fb3221ee9d624,RTB - Thunder Monetize - Americas - Video,67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,8753.11,"appopen, in_line, interstitial, mrec, rewarded","interstitial, rewarded",False
+680a6c96c788ddae0e26b7a3,RTB - Rhebus HK Thunder - US - Video,66cde67e3db5f70011e66c74,Exchange - RTB - Rhebus HK Limited,8139.24,"appopen, in_line, interstitial, mrec, rewarded","interstitial, rewarded",False
+69c325d3ade9a1a007b14150,Criteo - EMEA EP - Fullscreen Video,67ef127dc1727d00118d86e2,Exchange - RTB - Criteo,8136.85,"appopen, interstitial, rewarded","interstitial, rewarded",False
+680a6df1c788ddae0e26b7a7,RTB - Rhebus HK Thunder - EMEA - Video,66cde67e3db5f70011e66c74,Exchange - RTB - Rhebus HK Limited,7976.28,"appopen, in_line, interstitial, mrec, rewarded","interstitial, rewarded",False
+663168de875e54ea5d18aebe,RTB - Acuityads Static Interstitial [New EP],61c23cfa1958de001706a194,Exchange- RTB- Acuityads,7125.9,"appopen, in_line, interstitial, rewarded","interstitial, rewarded",False
+67f966197026cf29aeaabc48,RTB - Thunder Monetize - Americas - Banner,67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,6405.34,"appopen, banner, in_line, interstitial, mrec, rewarded","interstitial, rewarded",False
+67accef8ad5bfbdfbe83a124,RTB - Start.io - Rewarded Hybrid,65660afecebd4a0011dcc2ac,Exchange - RTB - Start.io,5815.65,rewarded,rewarded,False
+64c171571a7ef661763e2fe1,RTB - RevX Video US,64c165a37c1dd00011cb65f1,Exchange - RTB - RevX,5736.24,"appopen, interstitial, rewarded","interstitial, rewarded",False
+66312df8f1c607e22b2a6e4e,RTB - BetweenX NWS Static Interstitial EP,644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,4926.76,"appopen, interstitial, rewarded","interstitial, rewarded",False
+66cde92cfef7bbff52d0d6d1,RTB - Rhebus HK Thunder - EMEA - Banner,66cde67e3db5f70011e66c74,Exchange - RTB - Rhebus HK Limited,4279.28,"appopen, banner, in_line, interstitial, mrec, rewarded","interstitial, rewarded",False
+645009811e3a53ba53810b74,RTB - BetweenX NWS Video EP,644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,4165.08,"appopen, in_line, interstitial",interstitial,False
+5f8f4aceda7fd800163b064c,RTB - Bidmachine - Video (US Endpoint),5f8f4996f2a95d39439fccf1,Exchange - RTB - Bidmachine,4059.45,"appopen, in_line, interstitial, rewarded","interstitial, rewarded",False
+66678bb421064ac8d9f1e437,RTB - Start.io - Static Interstitial Limited Hybrid,65660afecebd4a0011dcc2ac,Exchange - RTB - Start.io,3789.09,"appopen, interstitial",interstitial,False
+61936f8d5972cc30ef6ad456,RTB - Remerge Video - IDFA,61936e419aca75001740e38a,Exchange - RTB - Remerge,3506.51,"appopen, in_line, interstitial, rewarded","interstitial, rewarded",False
+680a6ef9da8e5a572a733ba2,RTB - Rhebus HK Thunder - APAC - Video,66cde67e3db5f70011e66c74,Exchange - RTB - Rhebus HK Limited,3413.38,"appopen, in_line, interstitial, mrec, rewarded","interstitial, rewarded",False
+61936f32954556a188764b4c,RTB - Remerge Video - No ID,61936e419aca75001740e38a,Exchange - RTB - Remerge,3278.68,"appopen, in_line, interstitial, rewarded","interstitial, rewarded",False
+6169927d8a4854900a3f8d4e,RTB - Bidmachine - Video (EU Endpoint),5f8f4996f2a95d39439fccf1,Exchange - RTB - Bidmachine,2956.88,"appopen, in_line, interstitial, rewarded","interstitial, rewarded",False
+6502bd52453f6c5b7c68c3bf,Exchange - RTB - Shareit (Xtend) Static Interstitial - SG EP,624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,2665.09,"appopen, in_line, interstitial, rewarded","interstitial, rewarded",False
+64c17064a4e2a7e85a57c3f9,RTB - RevX Video APAC,64c165a37c1dd00011cb65f1,Exchange - RTB - RevX,2578.39,"appopen, interstitial, rewarded","interstitial, rewarded",False
+62563b253867021f8a470d50,Exchange - RTB - Smaato Video,62563a74f5c7a20011b32398,Exchange - RTB - Smaato,2298.91,"appopen, in_line, interstitial, mrec, rewarded","interstitial, rewarded",False
+69029c57be65a80d7a5618bf,RTB - Acuityads Static Interstitial [New EP] - APAC,61c23cfa1958de001706a194,Exchange- RTB- Acuityads,2281.52,"appopen, in_line, interstitial, rewarded","interstitial, rewarded",False
+66cde97c340c253115b70b75,RTB - Rhebus HK Thunder - APAC - Banner,66cde67e3db5f70011e66c74,Exchange - RTB - Rhebus HK Limited,2088.36,"appopen, banner, in_line, interstitial, mrec, rewarded","interstitial, rewarded",False
+66cde8e279ffc97e9107ca53,RTB - Rhebus HK Thunder - US - Banner,66cde67e3db5f70011e66c74,Exchange - RTB - Rhebus HK Limited,2001.91,"appopen, banner, in_line, interstitial, mrec, rewarded","interstitial, rewarded",False
+66e48c4a23fd6eeebcc80d55,RTB - Albatross Americas,66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,1851.11,"appopen, banner, interstitial, mrec, rewarded","interstitial, rewarded",False
+65b7131b8f74f03679858a18,RTB - Topon Static Interstitial,6526e0feb1392d001124df7d,Exchange - RTB - Topon,1840.21,"appopen, interstitial, rewarded","interstitial, rewarded",False
+64ecf86c2f56a48df271382d,RTB - LoopMe Static Interstitial,5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,1812.04,"appopen, interstitial, rewarded","interstitial, rewarded",False
+66e9e548c49ca9fc1118694e,RTB - Start.io - US CTR Test,65660afecebd4a0011dcc2ac,Exchange - RTB - Start.io,1812.04,"appopen, interstitial",interstitial,False
+68890089498e3deaaca65b83,RTB - Acuityads Static Interstitial [2024 r.one-bid EP],61c23cfa1958de001706a194,Exchange- RTB- Acuityads,1773.45,"appopen, in_line, interstitial, rewarded","interstitial, rewarded",False
+60c9b8690b948b0016617881,RTB - Appreciate Video Android,60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,1737.74,"appopen, in_line, interstitial, rewarded","interstitial, rewarded",False
+6494839e6fdf35233e02c1f5,RTB - InMobi iDSP Banner EP,649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,1656.01,"appopen, banner, interstitial, mrec, rewarded","interstitial, rewarded",False
+6926420c247abc20257195ba,RTB - Acuityads Banner [176742092 EP] - APAC,61c23cfa1958de001706a194,Exchange- RTB- Acuityads,1433.94,"banner, interstitial, mrec",interstitial,False
+5fdbcbeebd7bc300104c1821,RTB - Lifestreet Video Tier 1 Geo,5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,1342.53,"appopen, in_line, interstitial, rewarded","interstitial, rewarded",False
+617f9934da07ecc24df59988,Exchange - RTB - AdTiming Interstitial Display,617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,1288.15,"appopen, in_line, interstitial, rewarded","interstitial, rewarded",False
+69decfaaea191310d7fccd28,Albatross APAC Fullscreen Display Test,66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,1163.31,"appopen, interstitial, rewarded","interstitial, rewarded",False
+695d641b65f848fb8e72b53b,RTB - Adikteev Video (EXCLUDE DID PF + IDFA-less),5f06518e8421a500152881bb,Exchange - RTB - Adikteev,1095.67,"appopen, in_line, interstitial, rewarded","interstitial, rewarded",False
+6214b128bd9c2e4e2f4a470a,Exchange - RTB - Ignite Interstitial 17,61e94b2bc6dbdc0017ea3870,Exchange - RTB - Ignite,1080.51,"appopen, interstitial, rewarded","interstitial, rewarded",False
