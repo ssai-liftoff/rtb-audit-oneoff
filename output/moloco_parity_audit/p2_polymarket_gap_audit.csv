@@ -1,0 +1,9 @@
+Publisher Account ID,Publisher Account Name,Publisher App ID,Publisher App Name,Publisher App Market ID,kalshi.com Ad Spend (7D),polymarket.us Ad spend (7D),Adomain Blocked (Account),Adomain Blocked (App),Adv Market ID Blocked (Account),Adv Market ID Blocked (App),IAB12 Blocked,Analyzed Advertiser,Gap Type
+6698b45b60e2ea00114aa807,Poly.AI Android,66a0d468e33c9a548741a772,Poly.AI iOS,6449190344,$4263,nan,false,false,false,false,false,polymarket.us,polymarket_gap
+5ce32f41e15f77001148e36d,Zego Global Pte Ltd,6785d3c3d85b8663adee2cba,Screwdom_IOS_com.dino.screwdom,6740043080,$990,$0,false,false,false,false,false,polymarket.us,polymarket_gap
+68ed0a0c4cac2a9dc3250a10,Loom Games Oyun Yazilim ve Pazarlam,68ee72e79797ab8c2943d2d9,Pixel Flow!,6751056652,$774,nan,false,false,false,false,true,polymarket.us,polymarket_gap
+561e8d936b8d90f61a000455,Mobility Ware,5346f0f55cd3b9056a000074,iOS Solitaire,359917414,$371,nan,false,false,false,false,true,polymarket.us,polymarket_gap
+59fb487bbe77065f5800afc3,Azur Games,605dfa9a555e1e571854b077,State.io,1559032748,$217,nan,false,false,false,false,true,polymarket.us,polymarket_gap
+561e8d936b8d90f61a00059f,Wooga,593fb6104e118dfd71002055,June's Journey (iOS),1200391796,$152,nan,false,false,false,true,false,polymarket.us,polymarket_gap
+561e8d936b8d90f61a000455,Mobility Ware,5ee009ec8ca79a00013f1b95,IOS Spades,1487882541,$115,nan,false,false,false,false,true,polymarket.us,polymarket_gap
+59fb487bbe77065f5800afc3,Azur Games,5beda0e2ef11fa00128519a9,Go Escape!,1435951901,$80,nan,false,false,false,false,true,polymarket.us,polymarket_gap

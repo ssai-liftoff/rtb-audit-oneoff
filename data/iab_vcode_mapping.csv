@@ -1,0 +1,183 @@
+IAB Code,IAB Label,Internal Code (V codes),Internal Category name (V codes),Internal Category Description (V codes)
+IAB8-5,Cocktails/Beer,V1-1,Alcohol,"alcohol sales, bars, lounges with alcohol, vineyards, breweries"
+IAB8-18,Wine,V1-1,Alcohol,"alcohol sales, bars, lounges with alcohol, vineyards, breweries"
+IAB25-2,Extreme Graphic/Explicit Violence,V1-2,Associated with violence,"horror movies, scary costumes, combat sports"
+IAB13-2,Credit/Debt & Loans,V1-3,Credit & debit cards,"credit cards, debit cards, prepaid cards"
+IAB14-2,Divorce Support,V1-4,relationships,"Gay Life,Divorce Support, Marriage"
+IAB14-3,Gay Life,V1-4,relationships,"Gay Life,Divorce Support, Marriage"
+IAB14-4,Marriage,V1-4,relationships,"Gay Life,Divorce Support, Marriage"
+IAB7-3,AIDS/HIV,V1-5,Drugs & supplements,"personal nutrition, vitamins, supplements, over-the-counter drugs, prescription drugs"
+IAB7-5,Alternative Medicine,V1-5,Drugs & supplements,"personal nutrition, vitamins, supplements, over-the-counter drugs, prescription drugs"
+IAB7-28,Incest/Abuse Support,V1-5,Drugs & supplements,"personal nutrition, vitamins, supplements, over-the-counter drugs, prescription drugs"
+IAB7-29,Incontinence,V1-5,Drugs & supplements,"personal nutrition, vitamins, supplements, over-the-counter drugs, prescription drugs"
+IAB7-30,Infertility,V1-5,Drugs & supplements,"personal nutrition, vitamins, supplements, over-the-counter drugs, prescription drugs"
+IAB7-41,Smoking Cessation,V1-5,Drugs & supplements,"personal nutrition, vitamins, supplements, over-the-counter drugs, prescription drugs"
+IAB7-42,Substance Abuse,V1-5,Drugs & supplements,"personal nutrition, vitamins, supplements, over-the-counter drugs, prescription drugs"
+IAB9-7,Card Games,V1-6,Gambling,"online gambling, poker, casinos, sports betting"
+IAB11,"""Law",V1-7,Government & politics,"law, government services, government programs, political parties and election campaigns, law practitioners and firms, courts, judiciary, embassies, immigration, political messaging, public administration or policy, defense, licensing"
+n/a,n/a,V1-8,Loans,"personal loans, school loans, mortgage loans, auto loans, small business loans, peer-to-peer loans, scholarships, financial aid"
+IAB7-39,Sexuality,V1-9,Mature apps,mobile apps classified as 17+ by app stores
+IAB14-3,Gay Life,V1-9,Mature apps,mobile apps classified as 17+ by app stores
+IAB18-2,Body Art,V1-9,Mature apps,mobile apps classified as 17+ by app stores
+IAB25-3,Pornography,V1-9,Mature apps,mobile apps classified as 17+ by app stores
+IAB9-9,Cigars,V1-9,Mature apps,mobile apps classified as 17+ by app stores
+IAB8-18,Wine,V1-9,Mature apps,mobile apps classified as 17+ by app stores
+IAB25-1,Unmoderated UGC,V1-10,References to firearms,"props, toy guns, movies featuring guns"
+IAB23,Religion & Spirituality,V1-11,Religion & spiritual,"religious and spiritual beliefs, practices and services provided by religious institutions and practitioners, black magic, fortune telling"
+IAB14-8,Ethnic Specific,V1-11,Religion & spiritual,"religious and spiritual beliefs, practices and services provided by religious institutions and practitioners, black magic, fortune telling"
+IAB7-30,Infertility,V1-12,Reproductive health,"safe sex, contraception, fertility"
+IAB7-39,Sexuality,V1-13,Sexually suggestive,"people in bed together, massage, sheer clothing"
+IAB25-3,Pornography,V1-13,Sexually suggestive,"people in bed together, massage, sheer clothing"
+IAB25-4,Profane Content,V1-13,Sexually suggestive,"people in bed together, massage, sheer clothing"
+IAB25-5,Hate Content,V1-13,Sexually suggestive,"people in bed together, massage, sheer clothing"
+IAB25-6,Under Construction,V1-13,Sexually suggestive,"people in bed together, massage, sheer clothing"
+IAB26,Illegal Content,V1-14,Illegal Content,All illegal content
+IAB7-2,A.D.D.,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-6,Arthritis,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-7,Asthma,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-8,Autism/PDD,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-9,Bipolar Disorder,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-10,Brain Tumor,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-11,Cancer,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-12,Cholesterol,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-13,Chronic Fatigue Syndrome,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-14,Chronic Pain,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-15,Cold & Flu,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-16,Deafness,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-18,Depression,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-19,Dermatology,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-20,Diabetes,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-21,Epilepsy,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-22,GERD/Acid Reflux,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-23,Headaches/Migraines,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-24,Heart Disease,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-27,IBS/Crohn's Disease,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-33,Orthopedics,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-34,Panic/Anxiety Disorders,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-35,Pediatrics,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB7-43,Thyroid Disease,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB20-24,Spas,V2-1,Health & Fitness,"AIDS/HIV, Nutrition, ADD, Disease, Men's health and Women's health"
+IAB12,News,V2-2,News,"International News, National News, Local News"
+IAB1-2,Celebrity Fan/Gossip,V2-2,News,"International News, National News, Local News"
+IAB17-18,Hunting/Shooting,V2-3,Shooting,"hunting, shooting"
+IAB14-6,Teens,V2-4,Teen,Teen
+IAB24,Uncategorized,V2-5,Uncategorized,Uncategorized
+IAB17-4,Bodybuilding,V2-6,Sports,"Game & Fish
+Horse Racing
+Martial Arts
+Paintball
+Rodeo
+Rugby
+Bodybuilding
+Boxing
+Horses
+"
+IAB17-5,Boxing,V2-6,Sports,"Game & Fish
+Horse Racing
+Martial Arts
+Paintball
+Rodeo
+Rugby
+Bodybuilding
+Boxing
+Horses
+"
+IAB17-7,Cheerleading,V2-6,Sports,"Game & Fish
+Horse Racing
+Martial Arts
+Paintball
+Rodeo
+Rugby
+Bodybuilding
+Boxing
+Horses
+"
+IAB17-14,Game & Fish,V2-6,Sports,"Game & Fish
+Horse Racing
+Martial Arts
+Paintball
+Rodeo
+Rugby
+Bodybuilding
+Boxing
+Horses
+"
+IAB17-16,Horse Racing,V2-6,Sports,"Game & Fish
+Horse Racing
+Martial Arts
+Paintball
+Rodeo
+Rugby
+Bodybuilding
+Boxing
+Horses
+"
+IAB17-20,Martial Arts,V2-6,Sports,"Game & Fish
+Horse Racing
+Martial Arts
+Paintball
+Rodeo
+Rugby
+Bodybuilding
+Boxing
+Horses
+"
+IAB17-24,Paintball,V2-6,Sports,"Game & Fish
+Horse Racing
+Martial Arts
+Paintball
+Rodeo
+Rugby
+Bodybuilding
+Boxing
+Horses
+"
+IAB17-28,Rodeo,V2-6,Sports,"Game & Fish
+Horse Racing
+Martial Arts
+Paintball
+Rodeo
+Rugby
+Bodybuilding
+Boxing
+Horses
+"
+IAB17-29,Rugby,V2-6,Sports,"Game & Fish
+Horse Racing
+Martial Arts
+Paintball
+Rodeo
+Rugby
+Bodybuilding
+Boxing
+Horses
+"
+IAB8-6,Coffee/Tea,V2-7,Food & Drink,"Coffee/Tea
+Dining Out"
+IAB8-9,Dining Out,V2-7,Food & Drink,"Coffee/Tea
+Dining Out"
+IAB6-1,Adoption,V2-8,Family & Parenting,"Adoption
+Parenting teens
+Pregnancy"
+IAB6-6,Parenting teens,V2-8,Family & Parenting,"Adoption
+Parenting teens
+Pregnancy"
+IAB6-7,Pregnancy,V2-8,Family & Parenting,"Adoption
+Parenting teens
+Pregnancy"
+IAB22-1,Contests & Freebies,V2-9,Contests & Freebies,Contests & Freebies
+IAB13,Personal Finance,V2-10,Personal Finance,Personal Finance
+IAB14,Society,V2-11,Society,Society
+IAB16-7,Veterinary Medicine,V2-12,Veterinary Medicine,Veterinary Medicine
+IAB3-7,Government,V2-13,Government & U.S. Military,Government & U.S. Military
+IAB4-10,U.S. Military,V2-13,Government & U.S. Military,Government & U.S. Military
+IAB25-7,Incentivized,V2-14,Incentivized,Incentivized
+IAB25,Non-Standard Content,V2-15,Non-Standard Content,Non-Standard Content
+IAB14-1,Dating,V2-16,Dating,Dating
+IAB7-38,Senior Health,V2-17,Senior people,"Senior Living,Senior Health"
+IAB14-5,Senior Living,V2-17,Senior people,"Senior Living,Senior Health"
+IAB7-25,Herbs for Health,V2-18,Herbs and nature,"Herbs for Health,Holistic Healing"
+IAB7-26,Holistic Healing,V2-18,Herbs and nature,"Herbs for Health,Holistic Healing"
+IAB15-5,Paranormal Phenomena,V2-19,Mysteries and the Unexplained,Paranormal Phenomena
+IAB9-30,Video & Computer Games,V2-20,Video & Computer Games,Video & Computer Games
+IAB7-44,Weight Loss,V2-21,Weight loss,Weight loss

@@ -1,0 +1,95 @@
+blocklist_id,exchange,source_app_id,applies_to,blocklist_created_at_date,blocklist_expires_at_date,blocklist_origin,blocklist_reason_code,blocklist_comment,is_auto_blocklist,blocklist_creator_email,campaign_id,campaign_group_id,app_id,customer_id,block_level
+12394172,VUNGLE,622851626,all,2026-06-05,2026-06-19,internal,traffic-quality,Spend gate source app <> exchange ABL hourly,Yes,,-,None,-,-,global
+10097449,All exchanges,591560124,customer,2025-10-23,,client_request,misc,client requested to block Musi,No,nsidore@liftoff.io,76972.0,None,9100.0,3043.0,customer
+11712865,All exchanges,6744975195,customer,2026-04-07,,client_request,traffic-quality,client flagged source app | request to block,No,mday@liftoff.io,76973.0,None,9100.0,3043.0,customer
+11719876,All exchanges,1478870872,customer,2026-04-09,,client_request,brand,brand safety concerns,No,mday@liftoff.io,76506.0,None,9201.0,3043.0,customer
+11719876,All exchanges,357218860,customer,2026-04-09,,client_request,brand,brand safety concerns,No,mday@liftoff.io,77771.0,None,9100.0,3043.0,customer
+11780342,All exchanges,1406725978,customer,2026-04-15,,internal,traffic-quality,Kalshi keyword blocklist,Yes,,76975.0,None,9100.0,3043.0,customer
+12440436,All exchanges,6445881079,customer,2026-06-10,,internal,brand,proactive block due to brand concerns,No,mday@liftoff.io,75036.0,None,9100.0,3043.0,customer
+12440436,All exchanges,6502821354,customer,2026-06-10,,internal,brand,proactive block due to brand concerns,No,mday@liftoff.io,76506.0,None,9201.0,3043.0,customer
+10821198,All exchanges,1193154948,app,2026-01-16,,client_request,misc,VPN Block ,No,nsidore@liftoff.io,77429.0,None,9100.0,3043.0,advertiser_app
+10821198,All exchanges,1410235921,app,2026-01-16,,client_request,misc,VPN Block ,No,nsidore@liftoff.io,78304.0,None,9100.0,3043.0,advertiser_app
+10821198,All exchanges,1503251395,app,2026-01-16,,client_request,misc,VPN Block ,No,nsidore@liftoff.io,76975.0,None,9100.0,3043.0,advertiser_app
+10821193,All exchanges,6503184925,app,2026-01-16,,client_request,misc,Religion BL,No,nsidore@liftoff.io,76972.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,6751863406,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,76973.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,1055008110,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,78304.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,398129933,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,48310.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,1583884012,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,75036.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,912390687,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,76975.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,6444693400,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,77771.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,1445991661,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,76974.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,725215120,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,78304.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,314487667,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,76973.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,1534704608,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,76974.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,6615071731,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,78304.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,1619950778,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,78304.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,6755950527,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,78304.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,605569663,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,77771.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,6474685600,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,76974.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,396869519,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,76975.0,None,9100.0,3043.0,advertiser_app
+10912566,All exchanges,6472993326,app,2026-01-27,,client_request,misc,VPN+Utility+Passive App Blocks ,No,nsidore@liftoff.io,76974.0,None,9100.0,3043.0,advertiser_app
+11269650,All exchanges,6743738094,app,2026-03-12,,client_request,misc,client request ,No,nsidore@liftoff.io,76973.0,None,9100.0,3043.0,advertiser_app
+11269650,All exchanges,564540143,app,2026-03-12,,client_request,misc,client request ,No,nsidore@liftoff.io,76975.0,None,9100.0,3043.0,advertiser_app
+11269650,All exchanges,1324044770,app,2026-03-12,,client_request,misc,client request ,No,nsidore@liftoff.io,77429.0,None,9100.0,3043.0,advertiser_app
+11269650,All exchanges,1337578317,app,2026-03-12,,client_request,misc,client request ,No,nsidore@liftoff.io,48310.0,None,9100.0,3043.0,advertiser_app
+11269650,All exchanges,6449486871,app,2026-03-12,,client_request,misc,client request ,No,nsidore@liftoff.io,76972.0,None,9100.0,3043.0,advertiser_app
+11269650,All exchanges,1435807944,app,2026-03-12,,client_request,misc,client request ,No,nsidore@liftoff.io,77771.0,None,9100.0,3043.0,advertiser_app
+11269650,All exchanges,698255242,app,2026-03-12,,client_request,misc,client request ,No,nsidore@liftoff.io,76974.0,None,9100.0,3043.0,advertiser_app
+11269650,All exchanges,1146465836,app,2026-03-12,,client_request,misc,client request ,No,nsidore@liftoff.io,76975.0,None,9100.0,3043.0,advertiser_app
+11269650,All exchanges,6465175605,app,2026-03-12,,client_request,misc,client request ,No,nsidore@liftoff.io,76974.0,None,9100.0,3043.0,advertiser_app
+11260363,All exchanges,6449486871,app,2026-03-12,,client_request,misc,client requested blocked,No,nsidore@liftoff.io,76975.0,None,9100.0,3043.0,advertiser_app
+11269650,All exchanges,6504188939,app,2026-03-12,,client_request,misc,client request ,No,nsidore@liftoff.io,76972.0,None,9100.0,3043.0,advertiser_app
+11260363,All exchanges,6448104157,app,2026-03-12,,client_request,misc,client requested blocked,No,nsidore@liftoff.io,75036.0,None,9100.0,3043.0,advertiser_app
+11269650,All exchanges,981633844,app,2026-03-12,,client_request,misc,client request ,No,nsidore@liftoff.io,77771.0,None,9100.0,3043.0,advertiser_app
+11719891,All exchanges,6754384144,app,2026-04-09,,client_request,brand,no coloring apps,No,mday@liftoff.io,76973.0,None,9100.0,3043.0,advertiser_app
+11719891,All exchanges,6689494714,app,2026-04-09,,client_request,brand,no coloring apps,No,mday@liftoff.io,76975.0,None,9100.0,3043.0,advertiser_app
+11719891,All exchanges,6448392144,app,2026-04-09,,client_request,brand,no coloring apps,No,mday@liftoff.io,76975.0,None,9100.0,3043.0,advertiser_app
+11932005,VUNGLE,1660171117,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,1445691600,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,76509.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,766443283,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,295646461,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,77946.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,1073286211,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6463711142,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,77946.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,1193508329,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,70140.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,1545567989,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,70140.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,1452227871,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,76509.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,1619320898,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6746838116,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,593715088,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,1047246341,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,76509.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,1505735640,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,77946.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,595558452,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6446669987,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,70140.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6511238101,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,77946.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,356928178,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,70140.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6692629257,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,77946.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6756913359,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6468921495,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,76509.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,321916506,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6736755876,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,1516617231,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,70140.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,1176147574,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,1442749804,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,77946.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6748950306,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,77946.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,1523627747,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,468996152,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,76509.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6754900673,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6449570140,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6451403685,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6547858927,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,76509.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6741799909,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,1196764367,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,77946.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,1519174001,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,77946.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,1176027022,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6612024746,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6443484197,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6449427809,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,76509.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,1197041040,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,71757.0,None,9858.0,3092.0,advertiser_app
+11932005,VUNGLE,6498883328,app,2026-05-01,,client_request,misc,VX only sensitive pubs block to allow removing restrictive IAB category and boost performance,No,dmarsh@liftoff.io,76509.0,None,9858.0,3092.0,advertiser_app
+10120326,All exchanges,6743738094,campaign,2025-10-24,,client_request,misc,client requested to block ,No,nsidore@liftoff.io,48310.0,None,9100.0,3043.0,campaign
+11747705,All exchanges,6754384144,campaign,2026-04-10,,internal,brand,no coloring apps,No,mday@liftoff.io,70140.0,None,9858.0,3092.0,campaign
+11747705,All exchanges,6448392144,campaign,2026-04-10,,internal,brand,no coloring apps,No,mday@liftoff.io,70140.0,None,9858.0,3092.0,campaign
+11747705,All exchanges,6689494714,campaign,2026-04-10,,internal,brand,no coloring apps,No,mday@liftoff.io,70140.0,None,9858.0,3092.0,campaign
+11906807,All exchanges,1193508329,campaign,2026-04-30,2027-04-30,internal,traffic-quality,Strike system - source_app_id x campaign,Yes,,48310.0,None,9100.0,3043.0,campaign
+12414962,All exchanges,6468921495,campaign,2026-06-08,2026-07-08,internal,performance,high RPA,No,nsidore@liftoff.io,70140.0,None,9858.0,3092.0,campaign
+12568551,All exchanges,com.enflick.android.TextNow,campaign,2026-06-17,2026-07-01,internal,traffic-quality,Spend gate campaign <> source app ABL,Yes,,76506.0,None,9201.0,3043.0,campaign

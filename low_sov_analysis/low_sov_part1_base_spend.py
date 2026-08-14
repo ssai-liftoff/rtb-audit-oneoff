@@ -3,13 +3,14 @@ Low Share of Wallet Analysis — Part 1: Base Spend Data
 
 Fetches:
   A. Demand side spend per source app (90d + 30d) from accelerate_analytics
-  B. Supply side app metadata from dmx_reports/publisher_report
+  B. Supply side app metadata filtered to demand-side market IDs (90d date range)
   C. Joins on market_id, fills "-" where no match
 
 Filters:
   - vungle_publishers.has_vungle_sdk = Yes
-  - Total spend >= $90,000 over 90 complete days (~$1,000/day)
+  - Total spend >= $90,000 over 90 days (~$1,000/day)
   - 30d data fetched for the same apps identified in 90d (no re-filter)
+  - Supply metadata filtered to qualifying market IDs + 90d date range
 
 Output folder: output/low_sov_analysis/
   - raw_demand_90d.csv       — raw demand spend per app (90d)
@@ -33,19 +34,16 @@ LOOKER_CLIENT_SECRET = os.getenv("LOOKER_CLIENT_SECRET")
 OUTPUT_DIR = "output/low_sov_analysis"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-SPEND_THRESHOLD_90D = 90000   # $1,000/day × 90 days
+SPEND_THRESHOLD_90D = 90000
 DAYS_90 = 90
 DAYS_30 = 30
 
-# ── Logging ───────────────────────────────────────────────────────────────────
 
 def log(msg, level="INFO"):
     ts = datetime.now().strftime("%H:%M:%S")
     prefix = {"INFO": "✓", "STEP": "──", "WARN": "⚠", "ERROR": "✗"}.get(level, "·")
     print(f"[{ts}] {prefix} {msg}", flush=True)
 
-
-# ── Auth ──────────────────────────────────────────────────────────────────────
 
 def get_looker_token():
     log("Authenticating with Looker API...", "STEP")
@@ -64,7 +62,7 @@ def looker_headers(token):
     return {"Authorization": f"token {token}", "Content-Type": "application/json"}
 
 
-def run_query(token, model, view, fields, filters, sorts=None, limit=50000):
+def run_query(token, model, view, fields, filters, sorts=None, limit=100000):
     payload = {
         "model": model,
         "view": view,
@@ -109,8 +107,7 @@ def fetch_demand_90d(token):
             "revenue_summary.event_date": f"{DAYS_90} days ago for {DAYS_90} days",
             "vungle_publishers.has_vungle_sdk": "Yes"
         },
-        sorts=["revenue_summary.revenue desc"],
-        limit=100000
+        sorts=["revenue_summary.revenue desc"]
     )
 
     log(f"Raw rows returned: {len(data)}")
@@ -124,33 +121,24 @@ def fetch_demand_90d(token):
     return df
 
 
-# ── Step A2: Filter to qualifying apps (>= $90k over 90d) ────────────────────
-
 def get_qualifying_apps(df_90d):
     log("Calculating total spend per app and filtering ≥ $90,000 over 90d...", "STEP")
-
     total_per_app = df_90d.groupby("market_id")["revenue"].sum().reset_index()
     total_per_app.columns = ["market_id", "total_spend_90d"]
-
     qualifying = total_per_app[total_per_app["total_spend_90d"] >= SPEND_THRESHOLD_90D]["market_id"].tolist()
     log(f"Apps with total spend ≥ ${SPEND_THRESHOLD_90D:,} over 90d: {len(qualifying)}")
     return set(qualifying)
 
 
-# ── Step A3: Aggregate 90d spend per app (VX vs Non-VX) ──────────────────────
-
 def aggregate_90d(df_90d, qualifying_apps):
     log("Aggregating 90d VX vs Non-VX spend per app...", "STEP")
-
     df = df_90d[df_90d["market_id"].isin(qualifying_apps)].copy()
-
     pivot = df.pivot_table(
         index="market_id",
         columns="vungle_or_non_vungle",
         values="revenue",
         aggfunc="sum"
     ).reset_index().fillna(0)
-
     pivot.columns.name = None
     col_map = {}
     for col in pivot.columns:
@@ -163,17 +151,14 @@ def aggregate_90d(df_90d, qualifying_apps):
         else:
             col_map[col] = col.lower().replace(" ", "_") + "_90d"
     pivot = pivot.rename(columns=col_map)
-
     if "vx_spend_90d" not in pivot.columns:
         pivot["vx_spend_90d"] = 0
     if "non_vx_spend_90d" not in pivot.columns:
         pivot["non_vx_spend_90d"] = 0
-
     pivot["total_spend_90d"] = pivot["vx_spend_90d"] + pivot["non_vx_spend_90d"]
     pivot["vx_spend_pct_90d"] = (
         pivot["vx_spend_90d"] / pivot["total_spend_90d"] * 100
     ).round(2).where(pivot["total_spend_90d"] > 0, 0)
-
     log(f"90d aggregation complete: {len(pivot)} apps")
     return pivot
 
@@ -187,7 +172,7 @@ def fetch_demand_30d(token, qualifying_apps):
         return pd.read_csv(cache)
 
     log("Fetching 30d demand spend for qualifying apps (accelerate_spot)...", "STEP")
-    log("Fetching 30d data — please wait...")
+    log("Please wait...")
 
     id_filter = ",".join(list(qualifying_apps)[:5000])
 
@@ -205,8 +190,7 @@ def fetch_demand_30d(token, qualifying_apps):
             "vungle_publishers.has_vungle_sdk": "Yes",
             "revenue_summary.source_app_app_store_id": id_filter
         },
-        sorts=["revenue_summary.revenue desc"],
-        limit=100000
+        sorts=["revenue_summary.revenue desc"]
     )
 
     log(f"Raw rows returned: {len(data)}")
@@ -220,20 +204,15 @@ def fetch_demand_30d(token, qualifying_apps):
     return df
 
 
-# ── Step B2: Aggregate 30d spend per app ─────────────────────────────────────
-
 def aggregate_30d(df_30d, qualifying_apps):
     log("Aggregating 30d VX vs Non-VX spend per app...", "STEP")
-
     df = df_30d[df_30d["market_id"].isin(qualifying_apps)].copy()
-
     pivot = df.pivot_table(
         index="market_id",
         columns="vungle_or_non_vungle",
         values="revenue",
         aggfunc="sum"
     ).reset_index().fillna(0)
-
     pivot.columns.name = None
     col_map = {}
     for col in pivot.columns:
@@ -246,30 +225,30 @@ def aggregate_30d(df_30d, qualifying_apps):
         else:
             col_map[col] = col.lower().replace(" ", "_") + "_30d"
     pivot = pivot.rename(columns=col_map)
-
     if "vx_spend_30d" not in pivot.columns:
         pivot["vx_spend_30d"] = 0
     if "non_vx_spend_30d" not in pivot.columns:
         pivot["non_vx_spend_30d"] = 0
-
     pivot["total_spend_30d"] = pivot["vx_spend_30d"] + pivot["non_vx_spend_30d"]
     pivot["vx_spend_pct_30d"] = (
         pivot["vx_spend_30d"] / pivot["total_spend_30d"] * 100
     ).round(2).where(pivot["total_spend_30d"] > 0, 0)
-
     log(f"30d aggregation complete: {len(pivot)} apps")
     return pivot
 
 
-# ── Step C: Supply metadata (no date filter — dimensions only) ────────────────
+# ── Step C: Supply metadata — filtered to demand IDs + 90d date range ─────────
 
-def fetch_supply_metadata(token):
+def fetch_supply_metadata(token, qualifying_apps):
     cache = f"{OUTPUT_DIR}/raw_supply_metadata.csv"
     if os.path.exists(cache):
         log(f"Loading supply metadata from cache: {cache}")
         return pd.read_csv(cache)
 
-    log("Fetching supply metadata (publisher_report)...", "STEP")
+    log("Fetching supply metadata filtered to qualifying market IDs (90d)...", "STEP")
+    log(f"Filtering to {len(qualifying_apps)} market IDs...")
+
+    id_filter = ",".join([str(x) for x in list(qualifying_apps)[:5000]])
 
     data = run_query(
         token,
@@ -281,7 +260,10 @@ def fetch_supply_metadata(token):
             "publisher_accounts.name",
             "salesforce_accounts_monetize.am_user_name"
         ],
-        filters={},
+        filters={
+            "publisher_apps.market_id": id_filter,
+            "publisher_report.event_date": f"{DAYS_90} days ago for {DAYS_90} days"
+        },
         limit=50000
     )
 
@@ -290,9 +272,12 @@ def fetch_supply_metadata(token):
     df.columns = ["market_id", "app_name", "account_name", "am_name"]
     df = df[df["market_id"].notna() & (df["market_id"] != "")].copy()
     df = df.drop_duplicates(subset=["market_id"]).copy()
+    for col in ["app_name", "account_name", "am_name"]:
+        df[col] = df[col].fillna("-")
 
     df.to_csv(cache, index=False)
     log(f"Saved supply metadata → {cache}")
+    log(f"Match rate: {len(df)}/{len(qualifying_apps)} = {len(df)/len(qualifying_apps)*100:.1f}%")
     return df
 
 
@@ -311,7 +296,6 @@ def build_p1(agg_90d, agg_30d, supply_meta):
         df[["vx_spend_30d", "non_vx_spend_30d", "total_spend_30d", "vx_spend_pct_30d"]].fillna(0)
 
     df = df.merge(supply_meta, on="market_id", how="left")
-
     for col in ["app_name", "account_name", "am_name"]:
         df[col] = df[col].fillna("-")
 
@@ -356,7 +340,7 @@ if __name__ == "__main__":
     df_30d_raw = fetch_demand_30d(token, qualifying_apps)
     agg_30d = aggregate_30d(df_30d_raw, qualifying_apps)
 
-    supply_meta = fetch_supply_metadata(token)
+    supply_meta = fetch_supply_metadata(token, qualifying_apps)
 
     p1 = build_p1(agg_90d, agg_30d, supply_meta)
 

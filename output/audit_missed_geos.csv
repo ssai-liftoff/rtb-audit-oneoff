@@ -1,528 +1,944 @@
 rtb_account_id,rtb_account_name,rtb_contact_name,rtb_daily_spend,missed_geo,geo_network_rank,geo_daily_spend,geo_pct_of_network,potential_uplift
-5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,118708.27,US,1,1960705.22,46.65,55377.41
-67055dc40f05bd0011e279ae,Exchange - RTB - Temu,Robert Korepta,849185.74,RU,5,168841.2,4.02,34137.27
-5e89fcef428f870016d9e994,Exchange - RTB - Yeahmobi,Sudhansu Behera,66597.24,US,1,1960705.22,46.65,31067.61
-67055dc40f05bd0011e279ae,Exchange - RTB - Temu,Robert Korepta,849185.74,ID,9,118691.38,2.82,23947.04
-66cde67e3db5f70011e66c74,Exchange - RTB - Rhebus HK Limited,Lukasz Lebensztejn,38302.92,US,1,1960705.22,46.65,17868.31
-67055dc40f05bd0011e279ae,Exchange - RTB - Temu,Robert Korepta,849185.74,IN,17,43807.83,1.04,8831.53
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,US,1,1960705.22,46.65,8514.6
-5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,118708.27,GB,2,267256.61,6.36,7549.85
-66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,176731.03,RU,5,168841.2,4.02,7104.59
-67055dc40f05bd0011e279ae,Exchange - RTB - Temu,Robert Korepta,849185.74,VN,24,32592.09,0.78,6623.65
-67055dc40f05bd0011e279ae,Exchange - RTB - Temu,Robert Korepta,849185.74,PK,25,30535.54,0.73,6199.06
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,US,1,1960705.22,46.65,5944.54
-5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,118708.27,DE,3,209484.55,4.98,5911.67
-66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,176731.03,ID,9,118691.38,2.82,4983.81
-5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,118708.27,RU,5,168841.2,4.02,4772.07
-66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,176731.03,KR,10,111358.13,2.65,4683.37
-5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,118708.27,FR,7,149439.92,3.56,4226.01
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,US,1,1960705.22,46.65,3589.5
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,US,1,1960705.22,46.65,3118.12
-5fffe796e4fa2100156e364a,Exchange - RTB - Opera,Sudhansu Behera,74693.79,RU,5,168841.2,4.02,3002.69
-645a4ac71263430014fc0a33,Exchange - RTB - RTBHouse,Cenk Evirgen,70989.4,RU,5,168841.2,4.02,2853.77
-5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,118708.27,ES,11,85997.93,2.05,2433.52
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,GB,2,267256.61,6.36,2381.74
-66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,176731.03,PL,15,49501.32,1.18,2085.43
-602442ef9f0893001526406b,Exchange - RTB - Dataseat,Francis Torralba,50143.53,RU,5,168841.2,4.02,2015.77
-66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,176731.03,PH,16,47827.35,1.14,2014.73
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,DE,3,209484.55,4.98,1864.95
-66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,176731.03,CO,18,43556.9,1.04,1838.0
-5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,118708.27,IT,14,62281.13,1.48,1756.88
-66cde67e3db5f70011e66c74,Exchange - RTB - Rhebus HK Limited,Lukasz Lebensztejn,38302.92,BR,4,186499.58,4.44,1700.65
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,US,1,1960705.22,46.65,1660.04
-66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,176731.03,TH,19,38648.38,0.92,1625.93
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,RU,5,168841.2,4.02,1505.44
-66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,176731.03,MY,21,35731.56,0.85,1502.21
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,JP,6,160840.36,3.83,1434.29
-5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,118708.27,PL,15,49501.32,1.18,1400.76
-66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,176731.03,VN,24,32592.09,0.78,1378.5
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,FR,7,149439.92,3.56,1333.18
-66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,176731.03,PK,25,30535.54,0.73,1290.14
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,CA,8,138490.99,3.3,1235.81
-5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,118708.27,IN,17,43807.83,1.04,1234.57
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,GB,2,267256.61,6.36,1160.83
-5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,118708.27,NL,20,38095.67,0.91,1080.25
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,KR,10,111358.13,2.65,992.39
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,GB,2,267256.61,6.36,950.84
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,DE,3,209484.55,4.98,908.95
-5e56893e6c71d40018de3ad1,Exchange - RTB - Webeye,Sudhansu Behera,80899.29,IN,17,43807.83,1.04,841.35
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,GB,2,267256.61,6.36,810.45
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,BR,4,186499.58,4.44,810.39
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,BR,4,186499.58,4.44,787.18
-5fffe796e4fa2100156e364a,Exchange - RTB - Opera,Sudhansu Behera,74693.79,IN,17,43807.83,1.04,776.82
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,ES,11,85997.93,2.05,767.7
-61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17252.88,BR,4,186499.58,4.44,766.03
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,DE,3,209484.55,4.98,744.53
-6135c233b2f85d001747c3d2,Exchange - RTB - Bigodsp,Sudhansu Behera,62779.49,PL,15,49501.32,1.18,740.8
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,RU,5,168841.2,4.02,712.72
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,JP,6,160840.36,3.83,699.06
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,AU,12,78174.59,1.86,696.55
-63217c5d436480001cd32ae4,Exchange - RTB - Xiaomi,Sudhansu Behera,1460.96,US,1,1960705.22,46.65,681.54
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,BR,4,186499.58,4.44,663.8
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,GB,2,267256.61,6.36,654.59
-6135c233b2f85d001747c3d2,Exchange - RTB - Bigodsp,Sudhansu Behera,62779.49,CO,18,43556.9,1.04,652.91
-6135c233b2f85d001747c3d2,Exchange - RTB - Bigodsp,Sudhansu Behera,62779.49,IN,17,43807.83,1.04,652.91
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,FR,7,149439.92,3.56,649.77
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,DE,3,209484.55,4.98,634.59
-5fd73c61617f68000fb6584f,Exchange - RTB - Kayzen,Sudhansu Behera,23642.69,KR,10,111358.13,2.65,626.53
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,CA,8,138490.99,3.3,602.32
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,RU,5,168841.2,4.02,601.0
-5e150c8b5fd7df7b642140df,Exchange - RTB - YouAppi,Francis Torralba,20924.98,ID,9,118691.38,2.82,590.08
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,CA,8,138490.99,3.3,585.07
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,JP,6,160840.36,3.83,572.6
-6135c233b2f85d001747c3d2,Exchange - RTB - Bigodsp,Sudhansu Behera,62779.49,NL,20,38095.67,0.91,571.29
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,BR,4,186499.58,4.44,565.78
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,IT,14,62281.13,1.48,554.24
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,FR,7,149439.92,3.56,532.23
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,ID,9,118691.38,2.82,514.71
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,DE,3,209484.55,4.98,512.55
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,ID,9,118691.38,2.82,499.97
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,CA,8,138490.99,3.3,493.36
-649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,11100.84,BR,4,186499.58,4.44,492.88
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,GB,2,267256.61,6.36,489.37
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,JP,6,160840.36,3.83,488.05
-5e89fcef428f870016d9e994,Exchange - RTB - Yeahmobi,Sudhansu Behera,66597.24,PK,25,30535.54,0.73,486.16
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,KR,10,111358.13,2.65,483.68
-6135c233b2f85d001747c3d2,Exchange - RTB - Bigodsp,Sudhansu Behera,62779.49,PK,25,30535.54,0.73,458.29
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,BR,4,186499.58,4.44,456.98
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,FR,7,149439.92,3.56,453.65
-60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,11040.79,RU,5,168841.2,4.02,443.84
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,PL,15,49501.32,1.18,441.9
-624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,Sudhansu Behera,6885.87,GB,2,267256.61,6.36,437.94
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,PH,16,47827.35,1.14,426.92
-602442ef9f0893001526406b,Exchange - RTB - Dataseat,Francis Torralba,50143.53,MY,21,35731.56,0.85,426.22
-649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,11100.84,JP,6,160840.36,3.83,425.16
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,GB,2,267256.61,6.36,425.11
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,ID,9,118691.38,2.82,421.6
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,CA,8,138490.99,3.3,420.51
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,RU,5,168841.2,4.02,413.75
-66cde67e3db5f70011e66c74,Exchange - RTB - Rhebus HK Limited,Lukasz Lebensztejn,38302.92,IN,17,43807.83,1.04,398.35
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,KR,10,111358.13,2.65,396.18
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,JP,6,160840.36,3.83,394.19
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,IN,17,43807.83,1.04,389.47
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,CO,18,43556.9,1.04,389.47
-61e94b2bc6dbdc0017ea3870,Exchange - RTB - Ignite,Sudhansu Behera,37077.04,IN,17,43807.83,1.04,385.6
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,DE,3,209484.55,4.98,383.19
-671bd87469f356001105653b,Exchange - RTB - Tradplus,Robert Korepta,7663.54,DE,3,209484.55,4.98,381.64
-67ef127dc1727d00118d86e2,Exchange - RTB - Criteo,Robert Korepta,8429.77,BR,4,186499.58,4.44,374.28
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,ES,11,85997.93,2.05,374.17
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,FR,7,149439.92,3.56,366.4
-649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,11100.84,CA,8,138490.99,3.3,366.33
-602442ef9f0893001526406b,Exchange - RTB - Dataseat,Francis Torralba,50143.53,PK,25,30535.54,0.73,366.05
-5fbc06efdcdfdb0015dda411,Exchange - RTB - Personaly,Francis Torralba,49919.43,PK,25,30535.54,0.73,364.41
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,ID,9,118691.38,2.82,359.35
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,TH,19,38648.38,0.92,344.53
-624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,Sudhansu Behera,6885.87,DE,3,209484.55,4.98,342.92
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,BR,4,186499.58,4.44,341.64
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,NL,20,38095.67,0.91,340.78
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,CA,8,138490.99,3.3,339.64
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,AU,12,78174.59,1.86,339.49
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,KR,10,111358.13,2.65,337.69
-61e94b2bc6dbdc0017ea3870,Exchange - RTB - Ignite,Sudhansu Behera,37077.04,NL,20,38095.67,0.91,337.4
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,MX,13,76862.41,1.83,334.01
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,DE,3,209484.55,4.98,332.87
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,AU,12,78174.59,1.86,329.76
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,MX,13,76862.41,1.83,324.45
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,MY,21,35731.56,0.85,318.31
-649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,11100.84,ID,9,118691.38,2.82,313.04
-60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,11040.79,ID,9,118691.38,2.82,311.35
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,SA,22,34396.32,0.82,307.08
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,ES,11,85997.93,2.05,306.48
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,BR,4,186499.58,4.44,296.77
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,TR,23,33364.64,0.79,295.85
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,JP,6,160840.36,3.83,294.7
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,VN,24,32592.09,0.78,292.1
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,ID,9,118691.38,2.82,290.24
-61e94b2bc6dbdc0017ea3870,Exchange - RTB - Ignite,Sudhansu Behera,37077.04,VN,24,32592.09,0.78,289.2
-615ff7aacf8ca30017d834ea,Exchange - RTB - Bluesea,Sudhansu Behera,23863.55,PL,15,49501.32,1.18,281.59
-66cde67e3db5f70011e66c74,Exchange - RTB - Rhebus HK Limited,Lukasz Lebensztejn,38302.92,PK,25,30535.54,0.73,279.61
-5fd73c61617f68000fb6584f,Exchange - RTB - Kayzen,Sudhansu Behera,23642.69,PL,15,49501.32,1.18,278.98
-62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,4373.35,GB,2,267256.61,6.36,278.15
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,AU,12,78174.59,1.86,278.08
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,FR,7,149439.92,3.56,273.93
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,MX,13,76862.41,1.83,273.59
-65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,37448.79,PK,25,30535.54,0.73,273.38
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,KR,10,111358.13,2.65,272.74
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,IT,14,62281.13,1.48,270.13
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,RU,5,168841.2,4.02,268.7
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,IT,14,62281.13,1.48,262.39
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,ES,11,85997.93,2.05,261.23
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,JP,6,160840.36,3.83,256.0
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,CA,8,138490.99,3.3,253.92
-615ff7aacf8ca30017d834ea,Exchange - RTB - Bluesea,Sudhansu Behera,23863.55,IN,17,43807.83,1.04,248.18
-624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,Sudhansu Behera,6885.87,FR,7,149439.92,3.56,245.14
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,FR,7,149439.92,3.56,237.95
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,AU,12,78174.59,1.86,237.02
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,MX,13,76862.41,1.83,233.19
-649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,11100.84,ES,11,85997.93,2.05,227.57
-624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,Sudhansu Behera,6885.87,CA,8,138490.99,3.3,227.23
-60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,11040.79,ES,11,85997.93,2.05,226.34
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,GB,2,267256.61,6.36,226.32
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,IT,14,62281.13,1.48,221.27
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,CA,8,138490.99,3.3,220.57
-62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,4373.35,DE,3,209484.55,4.98,217.79
-5e150c8b5fd7df7b642140df,Exchange - RTB - YouAppi,Francis Torralba,20924.98,CO,18,43556.9,1.04,217.62
-5fd73c61617f68000fb6584f,Exchange - RTB - Kayzen,Sudhansu Behera,23642.69,TH,19,38648.38,0.92,217.51
-615ff7aacf8ca30017d834ea,Exchange - RTB - Bluesea,Sudhansu Behera,23863.55,NL,20,38095.67,0.91,217.16
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,ID,9,118691.38,2.82,216.99
-671bd87469f356001105653b,Exchange - RTB - Tradplus,Robert Korepta,7663.54,ID,9,118691.38,2.82,216.11
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,PL,15,49501.32,1.18,215.37
-561e8d936b8d90f61a000d2f,Exchange - RTB - Jampp,Julia Rodríguez,14368.66,IT,14,62281.13,1.48,212.66
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,ES,11,85997.93,2.05,210.99
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,PL,15,49501.32,1.18,209.21
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,PH,16,47827.35,1.14,208.07
-62451df8df1c7b0011064d0d,Exchange - RTB - DoMob,Sudhansu Behera,6221.39,CA,8,138490.99,3.3,205.31
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,KR,10,111358.13,2.65,203.91
-61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17252.88,PL,15,49501.32,1.18,203.58
-649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,11100.84,MX,13,76862.41,1.83,203.15
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,JP,6,160840.36,3.83,203.07
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,PH,16,47827.35,1.14,202.11
-60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,11040.79,MX,13,76862.41,1.83,202.05
-61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17252.88,PH,16,47827.35,1.14,196.68
-5fd73c61617f68000fb6584f,Exchange - RTB - Kayzen,Sudhansu Behera,23642.69,SA,22,34396.32,0.82,193.87
-60770b778d0e4a0015f20ea9,Exchange - RTB - Smadex,Francis Torralba,26479.07,PK,25,30535.54,0.73,193.3
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,AU,12,78174.59,1.86,191.44
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,IN,17,43807.83,1.04,189.82
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,CO,18,43556.9,1.04,189.82
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,FR,7,149439.92,3.56,188.75
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,IT,14,62281.13,1.48,188.59
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,ID,9,118691.38,2.82,188.49
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,MX,13,76862.41,1.83,188.35
-5fd73c61617f68000fb6584f,Exchange - RTB - Kayzen,Sudhansu Behera,23642.69,VN,24,32592.09,0.78,184.41
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,CO,18,43556.9,1.04,184.38
-61dba28ceabd16001728ae11,Exchange - RTB - Advlion,Sudhansu Behera,17383.49,IN,17,43807.83,1.04,180.79
-61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17252.88,CO,18,43556.9,1.04,179.43
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,DE,3,209484.55,4.98,177.21
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,PL,15,49501.32,1.18,176.41
-62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,4373.35,RU,5,168841.2,4.02,175.81
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,CA,8,138490.99,3.3,174.97
-5fd73c61617f68000fb6584f,Exchange - RTB - Kayzen,Sudhansu Behera,23642.69,PK,25,30535.54,0.73,172.59
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,PH,16,47827.35,1.14,170.43
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,TH,19,38648.38,0.92,167.92
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,NL,20,38095.67,0.91,166.09
-649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,11100.84,IT,14,62281.13,1.48,164.29
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,TH,19,38648.38,0.92,163.11
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,NL,20,38095.67,0.91,161.34
-61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17252.88,TH,19,38648.38,0.92,158.73
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,BR,4,186499.58,4.44,158.0
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,ES,11,85997.93,2.05,157.74
-67ef127dc1727d00118d86e2,Exchange - RTB - Criteo,Robert Korepta,8429.77,AU,12,78174.59,1.86,156.79
-62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,4373.35,FR,7,149439.92,3.56,155.69
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,IN,17,43807.83,1.04,155.48
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,CO,18,43556.9,1.04,155.48
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,MY,21,35731.56,0.85,155.14
-67ef127dc1727d00118d86e2,Exchange - RTB - Criteo,Robert Korepta,8429.77,MX,13,76862.41,1.83,154.26
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,IT,14,62281.13,1.48,152.33
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,MY,21,35731.56,0.85,150.7
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,PL,15,49501.32,1.18,150.37
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,SA,22,34396.32,0.82,149.67
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,ID,9,118691.38,2.82,149.52
-61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17252.88,MY,21,35731.56,0.85,146.65
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,SA,22,34396.32,0.82,145.38
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,PH,16,47827.35,1.14,145.27
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,AU,12,78174.59,1.86,143.12
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,RU,5,168841.2,4.02,143.05
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,VN,24,32592.09,0.78,142.37
-61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17252.88,SA,22,34396.32,0.82,141.47
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,MX,13,76862.41,1.83,140.81
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,KR,10,111358.13,2.65,140.5
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,TR,23,33364.64,0.79,140.06
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,VN,24,32592.09,0.78,138.29
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,TH,19,38648.38,0.92,137.54
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,ES,11,85997.93,2.05,137.02
-61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17252.88,TR,23,33364.64,0.79,136.3
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,NL,20,38095.67,0.91,136.05
-61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17252.88,VN,24,32592.09,0.78,134.57
-63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18252.09,PK,25,30535.54,0.73,133.24
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,CO,18,43556.9,1.04,132.53
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,IN,17,43807.83,1.04,132.53
-649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,11100.84,PL,15,49501.32,1.18,130.99
-561e8d936b8d90f61a000d2f,Exchange - RTB - Jampp,Julia Rodríguez,14368.66,NL,20,38095.67,0.91,130.75
-60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,11040.79,PL,15,49501.32,1.18,130.28
-5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,17729.29,PK,25,30535.54,0.73,129.42
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,MY,21,35731.56,0.85,127.08
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,FR,7,149439.92,3.56,126.68
-649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,11100.84,PH,16,47827.35,1.14,126.55
-61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17252.88,PK,25,30535.54,0.73,125.95
-60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,11040.79,PH,16,47827.35,1.14,125.86
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,AU,12,78174.59,1.86,124.32
-62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,4373.35,ID,9,118691.38,2.82,123.33
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,SA,22,34396.32,0.82,122.59
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,MX,13,76862.41,1.83,122.32
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,PL,15,49501.32,1.18,121.45
-64c165a37c1dd00011cb65f1,Exchange - RTB - RevX,Robert Korepta,11371.7,CO,18,43556.9,1.04,118.27
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,TR,23,33364.64,0.79,118.11
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,CA,8,138490.99,3.3,117.43
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,PH,16,47827.35,1.14,117.33
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,TH,19,38648.38,0.92,117.23
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,VN,24,32592.09,0.78,116.61
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,NL,20,38095.67,0.91,115.96
-62451df8df1c7b0011064d0d,Exchange - RTB - DoMob,Sudhansu Behera,6221.39,AU,12,78174.59,1.86,115.72
-649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,11100.84,CO,18,43556.9,1.04,115.45
-60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,11040.79,CO,18,43556.9,1.04,114.82
-60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,11040.79,IN,17,43807.83,1.04,114.82
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,IT,14,62281.13,1.48,113.88
-671bd87469f356001105653b,Exchange - RTB - Tradplus,Robert Korepta,7663.54,IT,14,62281.13,1.48,113.42
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,GB,2,267256.61,6.36,110.99
-67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,14950.35,PK,25,30535.54,0.73,109.14
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,ES,11,85997.93,2.05,108.69
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,MY,21,35731.56,0.85,108.31
-5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,2687.36,RU,5,168841.2,4.02,108.03
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,IN,17,43807.83,1.04,107.04
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,CO,18,43556.9,1.04,107.04
-561e8d936b8d90f61a000d2f,Exchange - RTB - Jampp,Julia Rodríguez,14368.66,PK,25,30535.54,0.73,104.89
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,SA,22,34396.32,0.82,104.49
-6391345e690bb000176c1058,Exchange - RTB - Kidoz,Robert Korepta,2316.63,BR,4,186499.58,4.44,102.86
-649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,11100.84,TH,19,38648.38,0.92,102.13
-649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,11100.84,NL,20,38095.67,0.91,101.02
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,TR,23,33364.64,0.79,100.67
-60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,11040.79,NL,20,38095.67,0.91,100.47
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,VN,24,32592.09,0.78,99.39
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,IT,14,62281.13,1.48,98.92
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,BR,4,186499.58,4.44,96.66
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,TH,19,38648.38,0.92,94.69
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,KR,10,111358.13,2.65,94.3
-60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,11040.79,MY,21,35731.56,0.85,93.85
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,NL,20,38095.67,0.91,93.66
-644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,12742.85,PK,25,30535.54,0.73,93.02
-63217c5d436480001cd32ae4,Exchange - RTB - Xiaomi,Sudhansu Behera,1460.96,GB,2,267256.61,6.36,92.92
-690b67ee68a76483c6871c19,Exchange - RTB - Magnite Direct Placements,Sudhansu Behera,2269.94,RU,5,168841.2,4.02,91.25
-649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,11100.84,SA,22,34396.32,0.82,91.03
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,PL,15,49501.32,1.18,90.8
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,GB,2,267256.61,6.36,90.77
-60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,11040.79,SA,22,34396.32,0.82,90.53
-671bd87469f356001105653b,Exchange - RTB - Tradplus,Robert Korepta,7663.54,PL,15,49501.32,1.18,90.43
-6391345e690bb000176c1058,Exchange - RTB - Kidoz,Robert Korepta,2316.63,JP,6,160840.36,3.83,88.73
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,PH,16,47827.35,1.14,87.72
-649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,11100.84,TR,23,33364.64,0.79,87.7
-67ef127dc1727d00118d86e2,Exchange - RTB - Criteo,Robert Korepta,8429.77,CO,18,43556.9,1.04,87.67
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,RU,5,168841.2,4.02,87.52
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,MY,21,35731.56,0.85,87.48
-60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,11040.79,TR,23,33364.64,0.79,87.22
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,DE,3,209484.55,4.98,86.9
-649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,11100.84,VN,24,32592.09,0.78,86.59
-60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,11040.79,VN,24,32592.09,0.78,86.12
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,SA,22,34396.32,0.82,84.4
-5f8f4996f2a95d39439fccf1,Exchange - RTB - Bidmachine,Francis Torralba,9893.58,MY,21,35731.56,0.85,84.1
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,JP,6,160840.36,3.83,83.38
-68f8632d386a23dd1d615bf1,Exchange - RTB - RTB Max,Jack Chiam,1871.83,BR,4,186499.58,4.44,83.11
-64c165a37c1dd00011cb65f1,Exchange - RTB - RevX,Robert Korepta,11371.7,PK,25,30535.54,0.73,83.01
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,TR,23,33364.64,0.79,81.31
-624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,Sudhansu Behera,6885.87,PL,15,49501.32,1.18,81.25
-649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,11100.84,PK,25,30535.54,0.73,81.04
-60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,11040.79,PK,25,30535.54,0.73,80.6
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,VN,24,32592.09,0.78,80.28
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,IN,17,43807.83,1.04,80.02
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,CO,18,43556.9,1.04,80.02
-671bd87469f356001105653b,Exchange - RTB - Tradplus,Robert Korepta,7663.54,IN,17,43807.83,1.04,79.7
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,PL,15,49501.32,1.18,78.87
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,IT,14,62281.13,1.48,78.47
-5f8f4996f2a95d39439fccf1,Exchange - RTB - Bidmachine,Francis Torralba,9893.58,TR,23,33364.64,0.79,78.16
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,FR,7,149439.92,3.56,77.51
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,BR,4,186499.58,4.44,77.48
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,PH,16,47827.35,1.14,76.2
-5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,2687.36,ID,9,118691.38,2.82,75.78
-685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,10292.23,PK,25,30535.54,0.73,75.13
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,DE,3,209484.55,4.98,73.71
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,GB,2,267256.61,6.36,73.69
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,ES,11,85997.93,2.05,72.95
-5f8f4996f2a95d39439fccf1,Exchange - RTB - Bidmachine,Francis Torralba,9893.58,PK,25,30535.54,0.73,72.22
-624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,Sudhansu Behera,6885.87,IN,17,43807.83,1.04,71.61
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,DE,3,209484.55,4.98,71.07
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,TH,19,38648.38,0.92,70.79
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,RU,5,168841.2,4.02,70.15
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,NL,20,38095.67,0.91,70.02
-671bd87469f356001105653b,Exchange - RTB - Tradplus,Robert Korepta,7663.54,NL,20,38095.67,0.91,69.74
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,CO,18,43556.9,1.04,69.51
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,IN,17,43807.83,1.04,69.51
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,JP,6,160840.36,3.83,66.84
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,AU,12,78174.59,1.86,66.19
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,BR,4,186499.58,4.44,65.72
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,MY,21,35731.56,0.85,65.4
-6391345e690bb000176c1058,Exchange - RTB - Kidoz,Robert Korepta,2316.63,ID,9,118691.38,2.82,65.33
-671bd87469f356001105653b,Exchange - RTB - Tradplus,Robert Korepta,7663.54,MY,21,35731.56,0.85,65.14
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,MX,13,76862.41,1.83,65.12
-62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,4373.35,IT,14,62281.13,1.48,64.73
-62451df8df1c7b0011064d0d,Exchange - RTB - DoMob,Sudhansu Behera,6221.39,CO,18,43556.9,1.04,64.7
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,SA,22,34396.32,0.82,63.1
-624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,Sudhansu Behera,6885.87,NL,20,38095.67,0.91,62.66
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,PL,15,49501.32,1.18,62.56
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,FR,7,149439.92,3.56,62.12
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,TH,19,38648.38,0.92,61.49
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,ID,9,118691.38,2.82,61.39
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,NL,20,38095.67,0.91,60.83
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,PH,16,47827.35,1.14,60.44
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,VN,24,32592.09,0.78,60.02
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,RU,5,168841.2,4.02,59.5
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,DE,3,209484.55,4.98,57.7
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,KR,10,111358.13,2.65,57.69
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,RU,5,168841.2,4.02,57.37
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,MY,21,35731.56,0.85,56.81
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,JP,6,160840.36,3.83,56.69
-62451df8df1c7b0011064d0d,Exchange - RTB - DoMob,Sudhansu Behera,6221.39,NL,20,38095.67,0.91,56.61
-63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,7694.53,PK,25,30535.54,0.73,56.17
-63217c5d436480001cd32ae4,Exchange - RTB - Xiaomi,Sudhansu Behera,1460.96,JP,6,160840.36,3.83,55.95
-671bd87469f356001105653b,Exchange - RTB - Tradplus,Robert Korepta,7663.54,PK,25,30535.54,0.73,55.94
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,IN,17,43807.83,1.04,55.14
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,CO,18,43556.9,1.04,55.14
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,SA,22,34396.32,0.82,54.81
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,JP,6,160840.36,3.83,54.66
-624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,Sudhansu Behera,6885.87,TR,23,33364.64,0.79,54.4
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,TR,23,33364.64,0.79,52.8
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,FR,7,149439.92,3.56,52.7
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,IT,14,62281.13,1.48,52.67
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,VN,24,32592.09,0.78,52.14
-62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,4373.35,PL,15,49501.32,1.18,51.61
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,BR,4,186499.58,4.44,51.44
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,FR,7,149439.92,3.56,50.81
-62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,4373.35,PH,16,47827.35,1.14,49.86
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,ID,9,118691.38,2.82,49.21
-5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,2687.36,MX,13,76862.41,1.83,49.18
-62451df8df1c7b0011064d0d,Exchange - RTB - DoMob,Sudhansu Behera,6221.39,TR,23,33364.64,0.79,49.15
-69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,6684.07,PK,25,30535.54,0.73,48.79
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,TH,19,38648.38,0.92,48.78
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,NL,20,38095.67,0.91,48.25
-63217c5d436480001cd32ae4,Exchange - RTB - Xiaomi,Sudhansu Behera,1460.96,CA,8,138490.99,3.3,48.21
-68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,1075.75,BR,4,186499.58,4.44,47.76
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,CA,8,138490.99,3.3,47.1
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,RU,5,168841.2,4.02,46.58
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,KR,10,111358.13,2.65,46.24
-62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,4373.35,IN,17,43807.83,1.04,45.48
-62451df8df1c7b0011064d0d,Exchange - RTB - DoMob,Sudhansu Behera,6221.39,PK,25,30535.54,0.73,45.42
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,MY,21,35731.56,0.85,45.07
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,ES,11,85997.93,2.05,44.63
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,JP,6,160840.36,3.83,44.37
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,SA,22,34396.32,0.82,43.48
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,PL,15,49501.32,1.18,41.99
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,ID,9,118691.38,2.82,41.74
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,VN,24,32592.09,0.78,41.36
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,FR,7,149439.92,3.56,41.25
-68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,1075.75,JP,6,160840.36,3.83,41.2
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,PH,16,47827.35,1.14,40.57
-62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,4373.35,TH,19,38648.38,0.92,40.23
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,MX,13,76862.41,1.83,39.84
-62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,4373.35,NL,20,38095.67,0.91,39.8
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,KR,10,111358.13,2.65,39.23
-60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,5302.07,PK,25,30535.54,0.73,38.71
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,CA,8,138490.99,3.3,38.23
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,KR,10,111358.13,2.65,37.82
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,IN,17,43807.83,1.04,37.01
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,CO,18,43556.9,1.04,37.01
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,ES,11,85997.93,2.05,35.77
-631c290e3f7bdc001bdfb779,Exchange - RTB - Novabeyond,Sudhansu Behera,4792.7,PK,25,30535.54,0.73,34.99
-68f8632d386a23dd1d615bf1,Exchange - RTB - RTB Max,Jack Chiam,1871.83,AU,12,78174.59,1.86,34.82
-62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,4373.35,TR,23,33364.64,0.79,34.55
-62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,4373.35,VN,24,32592.09,0.78,34.11
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,TH,19,38648.38,0.92,32.74
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,ID,9,118691.38,2.82,32.67
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,AU,12,78174.59,1.86,32.46
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,NL,20,38095.67,0.91,32.38
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,IT,14,62281.13,1.48,32.22
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,MX,13,76862.41,1.83,31.93
-62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,4373.35,PK,25,30535.54,0.73,31.93
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,KR,10,111358.13,2.65,30.7
-5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,2687.36,PH,16,47827.35,1.14,30.64
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,ES,11,85997.93,2.05,30.34
-68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,1075.75,ID,9,118691.38,2.82,30.34
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,MY,21,35731.56,0.85,30.25
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,ES,11,85997.93,2.05,29.26
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,SA,22,34396.32,0.82,29.18
-6168e52a9008de00174bc182,Exchange - RTB - Flatads,Sudhansu Behera,2767.16,IN,17,43807.83,1.04,28.78
-68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,1075.75,KR,10,111358.13,2.65,28.51
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,TR,23,33364.64,0.79,28.11
-5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,2687.36,IN,17,43807.83,1.04,27.95
-5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,2687.36,CO,18,43556.9,1.04,27.95
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,VN,24,32592.09,0.78,27.76
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,AU,12,78174.59,1.86,27.53
-63217c5d436480001cd32ae4,Exchange - RTB - Xiaomi,Sudhansu Behera,1460.96,AU,12,78174.59,1.86,27.17
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,AU,12,78174.59,1.86,26.54
-6391345e690bb000176c1058,Exchange - RTB - Kidoz,Robert Korepta,2316.63,PH,16,47827.35,1.14,26.41
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,MX,13,76862.41,1.83,26.12
-63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3558.49,PK,25,30535.54,0.73,25.98
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,IT,14,62281.13,1.48,25.83
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,PL,15,49501.32,1.18,25.69
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,PH,16,47827.35,1.14,24.82
-5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,2687.36,TH,19,38648.38,0.92,24.72
-5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,2687.36,NL,20,38095.67,0.91,24.46
-6391345e690bb000176c1058,Exchange - RTB - Kidoz,Robert Korepta,2316.63,CO,18,43556.9,1.04,24.09
-6391345e690bb000176c1058,Exchange - RTB - Kidoz,Robert Korepta,2316.63,IN,17,43807.83,1.04,24.09
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,ES,11,85997.93,2.05,23.75
-5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,2687.36,MY,21,35731.56,0.85,22.84
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,CO,18,43556.9,1.04,22.64
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,IN,17,43807.83,1.04,22.64
-5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,2687.36,SA,22,34396.32,0.82,22.04
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,IT,14,62281.13,1.48,21.91
-6168e52a9008de00174bc182,Exchange - RTB - Flatads,Sudhansu Behera,2767.16,VN,24,32592.09,0.78,21.58
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,AU,12,78174.59,1.86,21.55
-5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,2687.36,TR,23,33364.64,0.79,21.23
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,MX,13,76862.41,1.83,21.2
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,IT,14,62281.13,1.48,21.12
-5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,2687.36,VN,24,32592.09,0.78,20.96
-6384f4ef2c8690001430be0d,Exchange - RTB - Yabbi,Robert Korepta,1113.25,AU,12,78174.59,1.86,20.71
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,PL,15,49501.32,1.18,20.59
-6168e52a9008de00174bc182,Exchange - RTB - Flatads,Sudhansu Behera,2767.16,PK,25,30535.54,0.73,20.2
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,TH,19,38648.38,0.92,20.03
-68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,1075.75,AU,12,78174.59,1.86,20.01
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,PH,16,47827.35,1.14,19.89
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,NL,20,38095.67,0.91,19.81
-68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,1075.75,MX,13,76862.41,1.83,19.69
-5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,2687.36,PK,25,30535.54,0.73,19.62
-68f8632d386a23dd1d615bf1,Exchange - RTB - RTB Max,Jack Chiam,1871.83,CO,18,43556.9,1.04,19.47
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,MY,21,35731.56,0.85,18.51
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,IN,17,43807.83,1.04,18.15
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,CO,18,43556.9,1.04,18.15
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,SA,22,34396.32,0.82,17.85
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,PL,15,49501.32,1.18,17.47
-63217c5d436480001cd32ae4,Exchange - RTB - Xiaomi,Sudhansu Behera,1460.96,PL,15,49501.32,1.18,17.24
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,TR,23,33364.64,0.79,17.2
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,IT,14,62281.13,1.48,17.15
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,VN,24,32592.09,0.78,16.98
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,PH,16,47827.35,1.14,16.87
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,PL,15,49501.32,1.18,16.84
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,TH,19,38648.38,0.92,16.05
-5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,2177.13,PK,25,30535.54,0.73,15.89
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,NL,20,38095.67,0.91,15.88
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,IN,17,43807.83,1.04,15.39
-68f8632d386a23dd1d615bf1,Exchange - RTB - RTB Max,Jack Chiam,1871.83,SA,22,34396.32,0.82,15.35
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,MY,21,35731.56,0.85,14.83
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,SA,22,34396.32,0.82,14.31
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,TR,23,33364.64,0.79,13.79
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,PL,15,49501.32,1.18,13.67
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,TH,19,38648.38,0.92,13.62
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,VN,24,32592.09,0.78,13.61
-63217c5d436480001cd32ae4,Exchange - RTB - Xiaomi,Sudhansu Behera,1460.96,NL,20,38095.67,0.91,13.29
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,PH,16,47827.35,1.14,13.21
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,TH,19,38648.38,0.92,13.13
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,NL,20,38095.67,0.91,12.99
-62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,1745.07,PK,25,30535.54,0.73,12.74
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,MY,21,35731.56,0.85,12.58
-68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,1075.75,PH,16,47827.35,1.14,12.26
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,CO,18,43556.9,1.04,12.05
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,IN,17,43807.83,1.04,12.05
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,SA,22,34396.32,0.82,11.7
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,TR,23,33364.64,0.79,11.69
-6384f4ef2c8690001430be0d,Exchange - RTB - Yabbi,Robert Korepta,1113.25,IN,17,43807.83,1.04,11.58
-6384f4ef2c8690001430be0d,Exchange - RTB - Yabbi,Robert Korepta,1113.25,CO,18,43556.9,1.04,11.58
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,VN,24,32592.09,0.78,11.55
-63217c5d436480001cd32ae4,Exchange - RTB - Xiaomi,Sudhansu Behera,1460.96,VN,24,32592.09,0.78,11.4
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,TR,23,33364.64,0.79,11.27
-68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,1075.75,IN,17,43807.83,1.04,11.19
-68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,1075.75,CO,18,43556.9,1.04,11.19
-617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1427.13,VN,24,32592.09,0.78,11.13
-5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1480.22,PK,25,30535.54,0.73,10.81
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,TH,19,38648.38,0.92,10.66
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,NL,20,38095.67,0.91,10.54
-6384f4ef2c8690001430be0d,Exchange - RTB - Yabbi,Robert Korepta,1113.25,NL,20,38095.67,0.91,10.13
-68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,1075.75,TH,19,38648.38,0.92,9.9
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,MY,21,35731.56,0.85,9.85
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,SA,22,34396.32,0.82,9.5
-6242aaf6f98c6b001865107f,Exchange - RTB - BidMatrix,Sudhansu Behera,1264.98,PK,25,30535.54,0.73,9.23
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,TR,23,33364.64,0.79,9.15
-68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,1075.75,MY,21,35731.56,0.85,9.14
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,VN,24,32592.09,0.78,9.04
-68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,1075.75,SA,22,34396.32,0.82,8.82
-68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,1075.75,TR,23,33364.64,0.79,8.5
-68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,1158.6,PK,25,30535.54,0.73,8.46
-68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,1075.75,VN,24,32592.09,0.78,8.39
-6384f4ef2c8690001430be0d,Exchange - RTB - Yabbi,Robert Korepta,1113.25,PK,25,30535.54,0.73,8.13
-68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,1075.75,PK,25,30535.54,0.73,7.85
+5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,70132.88,US,1,2510504.17,52.86,37072.24
+5e89fcef428f870016d9e994,Exchange - RTB - Yeahmobi,Sudhansu Behera,56123.81,US,1,2510504.17,52.86,29667.05
+66cde67e3db5f70011e66c74,Exchange - RTB - Rhebus HK Limited,Lukasz Lebensztejn,54095.25,US,1,2510504.17,52.86,28594.75
+67055dc40f05bd0011e279ae,Exchange - RTB - Temu,Robert Korepta,557948.46,RU,3,217901.47,4.59,25609.83
+67055dc40f05bd0011e279ae,Exchange - RTB - Temu,Robert Korepta,557948.46,ID,9,112418.71,2.37,13223.38
+66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,288030.67,RU,3,217901.47,4.59,13220.61
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,US,1,2510504.17,52.86,9890.89
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,US,1,2510504.17,52.86,9657.42
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,US,1,2510504.17,52.86,7057.5
+66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,288030.67,ID,9,112418.71,2.37,6826.33
+66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,288030.67,KR,11,102730.56,2.16,6221.46
+67055dc40f05bd0011e279ae,Exchange - RTB - Temu,Robert Korepta,557948.46,IN,15,47822.97,1.01,5635.28
+67055dc40f05bd0011e279ae,Exchange - RTB - Temu,Robert Korepta,557948.46,VN,22,33744.25,0.71,3961.43
+5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,70132.88,GB,2,255309.83,5.38,3773.15
+5fffe796e4fa2100156e364a,Exchange - RTB - Opera,Sudhansu Behera,79415.76,RU,3,217901.47,4.59,3645.18
+5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,70132.88,RU,3,217901.47,4.59,3219.1
+645a4ac71263430014fc0a33,Exchange - RTB - RTBHouse,Cenk Evirgen,68327.42,RU,3,217901.47,4.59,3136.23
+5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,70132.88,DE,4,208134.26,4.38,3071.82
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,US,1,2510504.17,52.86,3001.5
+63217c5d436480001cd32ae4,Exchange - RTB - Xiaomi,Sudhansu Behera,5290.73,US,1,2510504.17,52.86,2796.68
+66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,288030.67,PH,17,40751.62,0.86,2477.06
+66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,288030.67,CO,18,39830.36,0.84,2419.46
+66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,288030.67,PL,19,39333.72,0.83,2390.65
+66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,288030.67,TH,21,34606.67,0.73,2102.62
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,GB,2,255309.83,5.38,2080.08
+66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,288030.67,VN,22,33744.25,0.71,2045.02
+5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,70132.88,FR,7,135335.89,2.85,1998.79
+66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,288030.67,MY,24,30035.5,0.63,1814.59
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,RU,3,217901.47,4.59,1774.64
+66e46b7a0f05bd0011e180e6,Exchange - RTB - Albatross,Robert Korepta,288030.67,AR,25,28827.73,0.61,1756.99
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,DE,4,208134.26,4.38,1693.45
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,US,1,2510504.17,52.86,1617.63
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,JP,6,159602.67,3.36,1299.08
+5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,70132.88,ES,12,83895.21,1.77,1241.35
+62451df8df1c7b0011064d0d,Exchange - RTB - DoMob,Sudhansu Behera,40387.0,CA,8,129926.49,2.74,1106.6
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,FR,7,135335.89,2.85,1101.9
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,CA,8,129926.49,2.74,1059.37
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,GB,2,255309.83,5.38,1006.68
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,GB,2,255309.83,5.38,982.92
+60770b778d0e4a0015f20ea9,Exchange - RTB - Smadex,Francis Torralba,39204.08,ID,9,112418.71,2.37,929.14
+5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,70132.88,IT,14,60313.11,1.27,890.69
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,KR,11,102730.56,2.16,835.13
+5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,18141.57,RU,3,217901.47,4.59,832.7
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,GB,2,255309.83,5.38,830.88
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,DE,4,208134.26,4.38,819.56
+5fffe796e4fa2100156e364a,Exchange - RTB - Opera,Sudhansu Behera,79415.76,IN,15,47822.97,1.01,802.1
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,DE,4,208134.26,4.38,800.22
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,BR,5,192708.86,4.06,759.69
+649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,18625.33,BR,5,192708.86,4.06,756.19
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,BR,5,192708.86,4.06,741.75
+5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,18141.57,BR,5,192708.86,4.06,736.55
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,GB,2,255309.83,5.38,718.3
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,RU,3,217901.47,4.59,708.88
+5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,70132.88,IN,15,47822.97,1.01,708.34
+61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17330.14,BR,5,192708.86,4.06,703.6
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,ES,12,83895.21,1.77,684.34
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,DE,4,208134.26,4.38,676.44
+6135c233b2f85d001747c3d2,Exchange - RTB - Bigodsp,Sudhansu Behera,65596.19,IN,15,47822.97,1.01,662.52
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,GB,2,255309.83,5.38,654.62
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,JP,6,159602.67,3.36,628.71
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,BR,5,192708.86,4.06,627.02
+649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,18625.33,JP,6,159602.67,3.36,625.81
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,JP,6,159602.67,3.36,613.87
+5fd73c61617f68000fb6584f,Exchange - RTB - Kayzen,Sudhansu Behera,27369.84,KR,11,102730.56,2.16,591.19
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,DE,4,208134.26,4.38,584.79
+5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,70132.88,PL,19,39333.72,0.83,582.1
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,RU,3,217901.47,4.59,558.5
+62451df8df1c7b0011064d0d,Exchange - RTB - DoMob,Sudhansu Behera,40387.0,AU,13,65404.13,1.38,557.34
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,BR,5,192708.86,4.06,542.06
+5e56893e6c71d40018de3ad1,Exchange - RTB - Webeye,Sudhansu Behera,53297.23,IN,15,47822.97,1.01,538.3
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,AU,13,65404.13,1.38,533.55
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,FR,7,135335.89,2.85,533.28
+5caf77f1e04ca66a2d4bcd7c,Exchange - RTB - ByteDance,Francis Torralba,70132.88,NL,20,36099.2,0.76,533.01
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,DE,4,208134.26,4.38,532.94
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,FR,7,135335.89,2.85,520.69
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,JP,6,159602.67,3.36,518.92
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,CA,8,129926.49,2.74,512.69
+649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,18625.33,CA,8,129926.49,2.74,510.33
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,CA,8,129926.49,2.74,500.59
+6135c233b2f85d001747c3d2,Exchange - RTB - Bigodsp,Sudhansu Behera,65596.19,NL,20,36099.2,0.76,498.53
+5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,18141.57,CA,8,129926.49,2.74,497.08
+67ef127dc1727d00118d86e2,Exchange - RTB - Criteo,Robert Korepta,12176.55,BR,5,192708.86,4.06,494.37
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,BR,5,192708.86,4.06,494.01
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,GB,2,255309.83,5.38,492.37
+60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,20729.33,ID,9,112418.71,2.37,491.29
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,IT,14,60313.11,1.27,491.02
+60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,20729.33,MX,10,110499.78,2.33,482.99
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,JP,6,159602.67,3.36,448.6
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,ID,9,112418.71,2.37,443.46
+649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,18625.33,ID,9,112418.71,2.37,441.42
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,FR,7,135335.89,2.85,440.15
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,MX,10,110499.78,2.33,435.98
+649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,18625.33,MX,10,110499.78,2.33,433.97
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,ID,9,112418.71,2.37,432.99
+5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,18141.57,ID,9,112418.71,2.37,429.96
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,MX,10,110499.78,2.33,425.69
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,CA,8,129926.49,2.74,423.16
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,RU,3,217901.47,4.59,420.07
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,JP,6,159602.67,3.36,408.83
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,KR,11,102730.56,2.16,404.17
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,DE,4,208134.26,4.38,400.85
+6135c233b2f85d001747c3d2,Exchange - RTB - Bigodsp,Sudhansu Behera,65596.19,AR,25,28827.73,0.61,400.14
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,KR,11,102730.56,2.16,394.63
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,US,1,2510504.17,52.86,391.25
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,IN,15,47822.97,1.01,390.5
+61e94b2bc6dbdc0017ea3870,Exchange - RTB - Ignite,Sudhansu Behera,37850.77,IN,15,47822.97,1.01,382.29
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,FR,7,135335.89,2.85,380.51
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,BR,5,192708.86,4.06,371.57
+60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,20729.33,ES,12,83895.21,1.77,366.91
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,ID,9,112418.71,2.37,366.02
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,CA,8,129926.49,2.74,365.83
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,MX,10,110499.78,2.33,359.84
+624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,Sudhansu Behera,6674.01,GB,2,255309.83,5.38,359.06
+62451df8df1c7b0011064d0d,Exchange - RTB - DoMob,Sudhansu Behera,40387.0,TR,16,42013.05,0.88,355.41
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,FR,7,135335.89,2.85,346.78
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,TR,16,42013.05,0.88,340.24
+62451df8df1c7b0011064d0d,Exchange - RTB - DoMob,Sudhansu Behera,40387.0,CO,18,39830.36,0.84,339.25
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,KR,11,102730.56,2.16,333.59
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,PH,17,40751.62,0.86,332.5
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,ES,12,83895.21,1.77,331.19
+649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,18625.33,ES,12,83895.21,1.77,329.67
+60770b778d0e4a0015f20ea9,Exchange - RTB - Smadex,Francis Torralba,39204.08,CO,18,39830.36,0.84,329.31
+60770b778d0e4a0015f20ea9,Exchange - RTB - Smadex,Francis Torralba,39204.08,PL,19,39333.72,0.83,325.39
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,CO,18,39830.36,0.84,324.77
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,ES,12,83895.21,1.77,323.38
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,PL,19,39333.72,0.83,320.9
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,ID,9,112418.71,2.37,316.43
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,MX,10,110499.78,2.33,311.09
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,JP,6,159602.67,3.36,307.5
+62451df8df1c7b0011064d0d,Exchange - RTB - DoMob,Sudhansu Behera,40387.0,NL,20,36099.2,0.76,306.94
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,GB,2,255309.83,5.38,305.49
+615ff7aacf8ca30017d834ea,Exchange - RTB - Bluesea,Sudhansu Behera,29698.85,IN,15,47822.97,1.01,299.96
+60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,8859.62,JP,6,159602.67,3.36,297.68
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,NL,20,36099.2,0.76,293.84
+624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,Sudhansu Behera,6674.01,DE,4,208134.26,4.38,292.32
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,KR,11,102730.56,2.16,288.39
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,ID,9,112418.71,2.37,288.37
+61e94b2bc6dbdc0017ea3870,Exchange - RTB - Ignite,Sudhansu Behera,37850.77,NL,20,36099.2,0.76,287.67
+60770b778d0e4a0015f20ea9,Exchange - RTB - Smadex,Francis Torralba,39204.08,TH,21,34606.67,0.73,286.19
+63217c5d436480001cd32ae4,Exchange - RTB - Xiaomi,Sudhansu Behera,5290.73,GB,2,255309.83,5.38,284.64
+67ef127dc1727d00118d86e2,Exchange - RTB - Criteo,Robert Korepta,12176.55,MX,10,110499.78,2.33,283.71
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,MX,10,110499.78,2.33,283.51
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,TH,21,34606.67,0.73,282.24
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,VN,22,33744.25,0.71,274.51
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,ES,12,83895.21,1.77,273.36
+61e94b2bc6dbdc0017ea3870,Exchange - RTB - Ignite,Sudhansu Behera,37850.77,VN,22,33744.25,0.71,268.74
+561e8d936b8d90f61a000d2f,Exchange - RTB - Jampp,Julia Rodríguez,20929.95,IT,14,60313.11,1.27,265.81
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,KR,11,102730.56,2.16,262.82
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,FR,7,135335.89,2.85,260.83
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,RU,3,217901.47,4.59,260.63
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,SA,23,31725.6,0.67,259.04
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,AU,13,65404.13,1.38,258.22
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,AU,13,65404.13,1.38,252.12
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,CA,8,129926.49,2.74,250.76
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,US,1,2510504.17,52.86,248.78
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,DE,4,208134.26,4.38,248.71
+615ff7aacf8ca30017d834ea,Exchange - RTB - Bluesea,Sudhansu Behera,29698.85,PL,19,39333.72,0.83,246.5
+62451df8df1c7b0011064d0d,Exchange - RTB - DoMob,Sudhansu Behera,40387.0,AR,25,28827.73,0.61,246.36
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,MY,24,30035.5,0.63,243.58
+60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,8859.62,CA,8,129926.49,2.74,242.75
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,IT,14,60313.11,1.27,237.64
+649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,18625.33,IT,14,60313.11,1.27,236.54
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,ES,12,83895.21,1.77,236.32
+65b7e5c3d5f847001169024b,Exchange - RTB - Kwai,Robert Korepta,38663.24,AR,25,28827.73,0.61,235.85
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,IT,14,60313.11,1.27,232.03
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,BR,5,192708.86,4.06,230.54
+5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,18141.57,IT,14,60313.11,1.27,230.4
+5fd73c61617f68000fb6584f,Exchange - RTB - Kayzen,Sudhansu Behera,27369.84,PL,19,39333.72,0.83,227.17
+615ff7aacf8ca30017d834ea,Exchange - RTB - Bluesea,Sudhansu Behera,29698.85,NL,20,36099.2,0.76,225.71
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,ID,9,112418.71,2.37,216.9
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,ES,12,83895.21,1.77,215.37
+6391345e690bb000176c1058,Exchange - RTB - Kidoz,Robert Korepta,5283.97,BR,5,192708.86,4.06,214.53
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,MX,10,110499.78,2.33,213.24
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,AU,13,65404.13,1.38,213.13
+60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,8859.62,ID,9,112418.71,2.37,209.97
+690b67ee68a76483c6871c19,Exchange - RTB - Magnite Direct Placements,Sudhansu Behera,4426.47,RU,3,217901.47,4.59,203.17
+5fd73c61617f68000fb6584f,Exchange - RTB - Kayzen,Sudhansu Behera,27369.84,TH,21,34606.67,0.73,199.8
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,US,1,2510504.17,52.86,199.54
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,KR,11,102730.56,2.16,197.68
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,IT,14,60313.11,1.27,196.14
+5a8371eaeadf6c6135002396,Exchange - RTB - Mediasmart,Francis Torralba,367.06,US,1,2510504.17,52.86,194.03
+60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,8859.62,KR,11,102730.56,2.16,191.37
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,JP,6,159602.67,3.36,190.79
+624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,Sudhansu Behera,6674.01,FR,7,135335.89,2.85,190.21
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,IN,15,47822.97,1.01,188.99
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,IN,15,47822.97,1.01,184.53
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,AU,13,65404.13,1.38,184.25
+5fd73c61617f68000fb6584f,Exchange - RTB - Kayzen,Sudhansu Behera,27369.84,SA,23,31725.6,0.67,183.38
+624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,Sudhansu Behera,6674.01,CA,8,129926.49,2.74,182.87
+60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,20729.33,TR,16,42013.05,0.88,182.42
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,US,1,2510504.17,52.86,180.57
+60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,20729.33,PH,17,40751.62,0.86,178.27
+63217c5d436480001cd32ae4,Exchange - RTB - Xiaomi,Sudhansu Behera,5290.73,JP,6,159602.67,3.36,177.77
+6391345e690bb000176c1058,Exchange - RTB - Kidoz,Robert Korepta,5283.97,JP,6,159602.67,3.36,177.54
+60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,20729.33,CO,18,39830.36,0.84,174.13
+602442a043209100157f4392,Exchange - RTB - BetweenX Toneko Holdings Ltd,Francis Torralba,329.24,US,1,2510504.17,52.86,174.04
+60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,20729.33,PL,19,39333.72,0.83,172.05
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,IT,14,60313.11,1.27,169.56
+67ef127dc1727d00118d86e2,Exchange - RTB - Criteo,Robert Korepta,12176.55,AU,13,65404.13,1.38,168.04
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,AU,13,65404.13,1.38,167.91
+5fd73c61617f68000fb6584f,Exchange - RTB - Kayzen,Sudhansu Behera,27369.84,AR,25,28827.73,0.61,166.96
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,TR,16,42013.05,0.88,164.66
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,GB,2,255309.83,5.38,164.64
+649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,18625.33,TR,16,42013.05,0.88,163.9
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,ES,12,83895.21,1.77,161.99
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,FR,7,135335.89,2.85,161.83
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,PH,17,40751.62,0.86,160.92
+649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,18625.33,PH,17,40751.62,0.86,160.18
+5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,18141.57,TR,16,42013.05,0.88,159.65
+561e8d936b8d90f61a000d2f,Exchange - RTB - Jampp,Julia Rodríguez,20929.95,NL,20,36099.2,0.76,159.07
+60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,20729.33,NL,20,36099.2,0.76,157.54
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,CO,18,39830.36,0.84,157.18
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,PH,17,40751.62,0.86,157.12
+60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,8859.62,ES,12,83895.21,1.77,156.82
+649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,18625.33,CO,18,39830.36,0.84,156.45
+5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,18141.57,PH,17,40751.62,0.86,156.02
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,IN,15,47822.97,1.01,155.98
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,CA,8,129926.49,2.74,155.58
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,PL,19,39333.72,0.83,155.31
+649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,18625.33,PL,19,39333.72,0.83,154.59
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,IT,14,60313.11,1.27,154.53
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,CO,18,39830.36,0.84,153.47
+5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,18141.57,CO,18,39830.36,0.84,152.39
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,PL,19,39333.72,0.83,151.64
+5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,18141.57,PL,19,39333.72,0.83,150.58
+61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17330.14,PH,17,40751.62,0.86,149.04
+61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17330.14,CO,18,39830.36,0.84,145.57
+63217c5d436480001cd32ae4,Exchange - RTB - Xiaomi,Sudhansu Behera,5290.73,CA,8,129926.49,2.74,144.97
+61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17330.14,PL,19,39333.72,0.83,143.84
+69fad8557dbb2c94758f91e6,Exchange - RTB - Boomtech,Jack Chiam,3112.63,RU,3,217901.47,4.59,142.87
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,NL,20,36099.2,0.76,142.21
+649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,18625.33,NL,20,36099.2,0.76,141.55
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,RU,3,217901.47,4.59,140.46
+60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,20729.33,SA,23,31725.6,0.67,138.89
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,NL,20,36099.2,0.76,138.85
+5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,18141.57,NL,20,36099.2,0.76,137.88
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,TH,21,34606.67,0.73,136.59
+649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,18625.33,TH,21,34606.67,0.73,135.96
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,TR,16,42013.05,0.88,135.91
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,IN,15,47822.97,1.01,134.85
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,ID,9,112418.71,2.37,134.57
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,DE,4,208134.26,4.38,134.04
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,TH,21,34606.67,0.73,133.37
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,VN,22,33744.25,0.71,132.85
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,PH,17,40751.62,0.86,132.82
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,MX,10,110499.78,2.33,132.3
+649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,18625.33,VN,22,33744.25,0.71,132.24
+60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,20729.33,MY,24,30035.5,0.63,130.59
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,CO,18,39830.36,0.84,129.73
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,VN,22,33744.25,0.71,129.72
+5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,18141.57,VN,22,33744.25,0.71,128.81
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,PL,19,39333.72,0.83,128.18
+671a9d1a69f3560011055966,Exchange - RTB - Playdigo,Lukasz Lebensztejn,2787.86,RU,3,217901.47,4.59,127.96
+61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17330.14,TH,21,34606.67,0.73,126.51
+60c86e9b217f2400175cfe6b,Exchange - RTB - Bigabid,Gabor Kremer,20729.33,AR,25,28827.73,0.61,126.45
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,AU,13,65404.13,1.38,126.3
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,SA,23,31725.6,0.67,125.37
+649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,18625.33,SA,23,31725.6,0.67,124.79
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,GB,2,255309.83,5.38,124.48
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,BR,5,192708.86,4.06,124.25
+61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17330.14,VN,22,33744.25,0.71,123.04
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,IN,15,47822.97,1.01,122.89
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,SA,23,31725.6,0.67,122.41
+5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,18141.57,SA,23,31725.6,0.67,121.55
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,MY,24,30035.5,0.63,117.88
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,NL,20,36099.2,0.76,117.37
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,IT,14,60313.11,1.27,116.23
+61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17330.14,SA,23,31725.6,0.67,116.11
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,MY,24,30035.5,0.63,115.1
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,PH,17,40751.62,0.86,114.82
+5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,18141.57,MY,24,30035.5,0.63,114.29
+644fff26ff6cc5001440892f,Exchange - RTB - BetweenX NWS,Cenk Evirgen,18711.48,AR,25,28827.73,0.61,114.14
+6391345e690bb000176c1058,Exchange - RTB - Kidoz,Robert Korepta,5283.97,KR,11,102730.56,2.16,114.13
+649482d5cec8d700113d2881,Exchange - RTB - InMobi iDSP,Cenk Evirgen,18625.33,AR,25,28827.73,0.61,113.61
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,TH,21,34606.67,0.73,112.74
+60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,8859.62,IT,14,60313.11,1.27,112.52
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,CO,18,39830.36,0.84,112.15
+63924801f7a526001bc728e2,Exchange - RTB - Yandex,Robert Korepta,18269.8,AR,25,28827.73,0.61,111.45
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,PL,19,39333.72,0.83,110.82
+5e8e56f8fc8d4200150b3c16,Exchange - RTB - Appier,Francis ​,18141.57,AR,25,28827.73,0.61,110.66
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,VN,22,33744.25,0.71,109.65
+61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17330.14,MY,24,30035.5,0.63,109.18
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,TR,16,42013.05,0.88,107.08
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,RU,3,217901.47,4.59,106.2
+61c23cfa1958de001706a194,Exchange- RTB- Acuityads,Madhu Kumaraswamy,17330.14,AR,25,28827.73,0.61,105.71
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,PH,17,40751.62,0.86,104.64
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,SA,23,31725.6,0.67,103.47
+67ef127dc1727d00118d86e2,Exchange - RTB - Criteo,Robert Korepta,12176.55,CO,18,39830.36,0.84,102.28
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,CO,18,39830.36,0.84,102.21
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,NL,20,36099.2,0.76,101.47
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,DE,4,208134.26,4.38,101.34
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,PL,19,39333.72,0.83,100.99
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,ES,12,83895.21,1.77,100.5
+64c165a37c1dd00011cb65f1,Exchange - RTB - RevX,Robert Korepta,11753.23,CO,18,39830.36,0.84,98.73
+6a30eb0dede581a042458add,Exchange - RTB - Easy Tech,Jack Chiam,2149.93,RU,3,217901.47,4.59,98.68
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,TH,21,34606.67,0.73,97.46
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,MY,24,30035.5,0.63,97.3
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,VN,22,33744.25,0.71,94.79
+62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,1759.44,GB,2,255309.83,5.38,94.66
+67f579a965660600111030c2,Exchange - RTB - Thunder Monetize,Robert Korepta,15443.94,AR,25,28827.73,0.61,94.21
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,BR,5,192708.86,4.06,93.94
+671a9d1a69f3560011055966,Exchange - RTB - Playdigo,Lukasz Lebensztejn,2787.86,JP,6,159602.67,3.36,93.67
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,NL,20,36099.2,0.76,92.47
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,IN,15,47822.97,1.01,92.43
+60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,8859.62,IN,15,47822.97,1.01,89.48
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,SA,23,31725.6,0.67,89.45
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,TH,21,34606.67,0.73,88.82
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,FR,7,135335.89,2.85,87.22
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,VN,22,33744.25,0.71,86.39
+6358477435d47b0014f36d9b,Exchange - RTB - Brave,Robert Korepta,1850.84,RU,3,217901.47,4.59,84.95
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,MY,24,30035.5,0.63,84.11
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,CA,8,129926.49,2.74,83.85
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,GB,2,255309.83,5.38,82.38
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,SA,23,31725.6,0.67,81.52
+63d743e53639240014ba0ddd,Exchange - RTB - OperaUnite,Sudhansu Behera,13351.31,AR,25,28827.73,0.61,81.44
+62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,1759.44,RU,3,217901.47,4.59,80.76
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,TR,16,42013.05,0.88,80.54
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,PH,17,40751.62,0.86,78.71
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,AU,13,65404.13,1.38,78.36
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,JP,6,159602.67,3.36,77.74
+62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,1759.44,DE,4,208134.26,4.38,77.06
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,CO,18,39830.36,0.84,76.88
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,MY,24,30035.5,0.63,76.66
+60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,8859.62,PH,17,40751.62,0.86,76.19
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,PL,19,39333.72,0.83,75.96
+67ef127dc1727d00118d86e2,Exchange - RTB - Criteo,Robert Korepta,12176.55,AR,25,28827.73,0.61,74.28
+62f47a393a874f001b0a20c6,Exchange - RTB - Consumable,Sudhansu Behera,12167.68,AR,25,28827.73,0.61,74.22
+60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,8859.62,PL,19,39333.72,0.83,73.53
+63217c5d436480001cd32ae4,Exchange - RTB - Xiaomi,Sudhansu Behera,5290.73,AU,13,65404.13,1.38,73.01
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,IT,14,60313.11,1.27,72.11
+64c165a37c1dd00011cb65f1,Exchange - RTB - RevX,Robert Korepta,11753.23,AR,25,28827.73,0.61,71.69
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,MX,10,110499.78,2.33,71.3
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,RU,3,217901.47,4.59,70.28
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,NL,20,36099.2,0.76,69.55
+624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,Sudhansu Behera,6674.01,IN,15,47822.97,1.01,67.41
+60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,8859.62,NL,20,36099.2,0.76,67.33
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,DE,4,208134.26,4.38,67.07
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,TH,21,34606.67,0.73,66.81
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,KR,11,102730.56,2.16,66.1
+671a9d1a69f3560011055966,Exchange - RTB - Playdigo,Lukasz Lebensztejn,2787.86,ID,9,112418.71,2.37,66.07
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,FR,7,135335.89,2.85,65.94
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,VN,22,33744.25,0.71,64.98
+60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,8859.62,TH,21,34606.67,0.73,64.68
+5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1398.4,RU,3,217901.47,4.59,64.19
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,CA,8,129926.49,2.74,63.39
+60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,8859.62,VN,22,33744.25,0.71,62.9
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,SA,23,31725.6,0.67,61.32
+5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1398.4,DE,4,208134.26,4.38,61.25
+671a9d1a69f3560011055966,Exchange - RTB - Playdigo,Lukasz Lebensztejn,2787.86,KR,11,102730.56,2.16,60.22
+60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,8859.62,SA,23,31725.6,0.67,59.36
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,MY,24,30035.5,0.63,57.66
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,IN,15,47822.97,1.01,57.35
+5f8f4996f2a95d39439fccf1,Exchange - RTB - Bidmachine,Francis Torralba,6491.73,TR,16,42013.05,0.88,57.13
+685d0956892f9d0011d79cb7,Exchange - RTB - Zmaticoo,Jack Chiam,9151.93,AR,25,28827.73,0.61,55.83
+60c9b375fb988e0017d6e500,Exchange - RTB - Appreciate,Gabor Kremer,8859.62,MY,24,30035.5,0.63,55.82
+624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,Sudhansu Behera,6674.01,PL,19,39333.72,0.83,55.39
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,ID,9,112418.71,2.37,54.83
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,ES,12,83895.21,1.77,54.17
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,MX,10,110499.78,2.33,53.91
+6391345e690bb000176c1058,Exchange - RTB - Kidoz,Robert Korepta,5283.97,IN,15,47822.97,1.01,53.37
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,US,1,2510504.17,52.86,51.69
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,JP,6,159602.67,3.36,51.45
+6a30eb0dede581a042458add,Exchange - RTB - Easy Tech,Jack Chiam,2149.93,ID,9,112418.71,2.37,50.95
+624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,Sudhansu Behera,6674.01,NL,20,36099.2,0.76,50.72
+62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,1759.44,FR,7,135335.89,2.85,50.14
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,KR,11,102730.56,2.16,49.98
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,TR,16,42013.05,0.88,49.97
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,RU,3,217901.47,4.59,49.26
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,PH,17,40751.62,0.86,48.83
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,CO,18,39830.36,0.84,47.7
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,PL,19,39333.72,0.83,47.13
+6391345e690bb000176c1058,Exchange - RTB - Kidoz,Robert Korepta,5283.97,PH,17,40751.62,0.86,45.44
+6391345e690bb000176c1058,Exchange - RTB - Kidoz,Robert Korepta,5283.97,CO,18,39830.36,0.84,44.39
+63217c5d436480001cd32ae4,Exchange - RTB - Xiaomi,Sudhansu Behera,5290.73,PL,19,39333.72,0.83,43.91
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,FR,7,135335.89,2.85,43.64
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,BR,5,192708.86,4.06,43.57
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,NL,20,36099.2,0.76,43.15
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,AU,13,65404.13,1.38,42.23
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,CA,8,129926.49,2.74,41.96
+62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,1759.44,ID,9,112418.71,2.37,41.7
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,TH,21,34606.67,0.73,41.45
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,ES,12,83895.21,1.77,40.95
+5f8f4996f2a95d39439fccf1,Exchange - RTB - Bidmachine,Francis Torralba,6491.73,MY,24,30035.5,0.63,40.9
+624a723e1bad4b0011a0cfd7,Exchange - RTB - Xtend,Sudhansu Behera,6674.01,AR,25,28827.73,0.61,40.71
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,VN,22,33744.25,0.71,40.32
+63217c5d436480001cd32ae4,Exchange - RTB - Xiaomi,Sudhansu Behera,5290.73,NL,20,36099.2,0.76,40.21
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,GB,2,255309.83,5.38,39.82
+5f8f4996f2a95d39439fccf1,Exchange - RTB - Bidmachine,Francis Torralba,6491.73,AR,25,28827.73,0.61,39.6
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,IT,14,60313.11,1.27,38.86
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,SA,23,31725.6,0.67,38.04
+63217c5d436480001cd32ae4,Exchange - RTB - Xiaomi,Sudhansu Behera,5290.73,VN,22,33744.25,0.71,37.56
+6177a5dce899b2001727f1e8,Exchange - RTB - Algorix,Sudhansu Behera,685.06,GB,2,255309.83,5.38,36.86
+59791c2469736e2d62002c8f,Exchange - RTB - BidSwitch,Programmatic Support,796.22,RU,3,217901.47,4.59,36.55
+5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,795.98,RU,3,217901.47,4.59,36.54
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,JP,6,159602.67,3.36,36.06
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,MY,24,30035.5,0.63,35.77
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,MX,10,110499.78,2.33,35.68
+690abe83eb3bf4c11bf9175c,Exchange - RTB - Anzu.io,Jack Chiam,777.42,RU,3,217901.47,4.59,35.68
+6168e52a9008de00174bc182,Exchange - RTB - Flatads,Sudhansu Behera,3505.39,IN,15,47822.97,1.01,35.4
+69a6eb8e8bd5a04249ce2e3d,Exchange - RTB - Coupang,Sudhansu Behera,5678.2,AR,25,28827.73,0.61,34.64
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,RU,3,217901.47,4.59,33.97
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,KR,11,102730.56,2.16,33.07
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,DE,4,208134.26,4.38,32.42
+5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,795.98,BR,5,192708.86,4.06,32.32
+6391345e690bb000176c1058,Exchange - RTB - Kidoz,Robert Korepta,5283.97,AR,25,28827.73,0.61,32.23
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,AU,13,65404.13,1.38,31.93
+6177a5dce899b2001727f1e8,Exchange - RTB - Algorix,Sudhansu Behera,685.06,RU,3,217901.47,4.59,31.44
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,IN,15,47822.97,1.01,30.91
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,FR,7,135335.89,2.85,30.58
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,BR,5,192708.86,4.06,30.05
+6177a5dce899b2001727f1e8,Exchange - RTB - Algorix,Sudhansu Behera,685.06,DE,4,208134.26,4.38,30.01
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,IT,14,60313.11,1.27,29.38
+671a9d1a69f3560011055966,Exchange - RTB - Playdigo,Lukasz Lebensztejn,2787.86,IN,15,47822.97,1.01,28.16
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,ES,12,83895.21,1.77,27.1
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,TR,16,42013.05,0.88,26.93
+5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,795.98,JP,6,159602.67,3.36,26.74
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,PH,17,40751.62,0.86,26.32
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,CO,18,39830.36,0.84,25.71
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,ID,9,112418.71,2.37,25.43
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,PL,19,39333.72,0.83,25.4
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,GB,2,255309.83,5.38,25.32
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,MX,10,110499.78,2.33,25.0
+68f8632d386a23dd1d615bf1,Exchange - RTB - RTB Max,Jack Chiam,1807.79,AU,13,65404.13,1.38,24.95
+6168e52a9008de00174bc182,Exchange - RTB - Flatads,Sudhansu Behera,3505.39,VN,22,33744.25,0.71,24.89
+5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1398.4,ES,12,83895.21,1.77,24.75
+671a9d1a69f3560011055966,Exchange - RTB - Playdigo,Lukasz Lebensztejn,2787.86,TR,16,42013.05,0.88,24.53
+671a9d1a69f3560011055966,Exchange - RTB - Playdigo,Lukasz Lebensztejn,2787.86,PH,17,40751.62,0.86,23.98
+69fad8557dbb2c94758f91e6,Exchange - RTB - Boomtech,Jack Chiam,3112.63,NL,20,36099.2,0.76,23.66
+671a9d1a69f3560011055966,Exchange - RTB - Playdigo,Lukasz Lebensztejn,2787.86,CO,18,39830.36,0.84,23.42
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,IN,15,47822.97,1.01,23.37
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,NL,20,36099.2,0.76,23.26
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,KR,11,102730.56,2.16,23.18
+5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,795.98,FR,7,135335.89,2.85,22.69
+62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,1759.44,IT,14,60313.11,1.27,22.34
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,TH,21,34606.67,0.73,22.34
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,VN,22,33744.25,0.71,21.73
+6a30eb0dede581a042458add,Exchange - RTB - Easy Tech,Jack Chiam,2149.93,IN,15,47822.97,1.01,21.71
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,RU,3,217901.47,4.59,21.6
+6163ee8d2e2c3200179604b9,Exchange - RTB - Smarter,Sudhansu Behera,400.81,GB,2,255309.83,5.38,21.56
+6168e52a9008de00174bc182,Exchange - RTB - Flatads,Sudhansu Behera,3505.39,AR,25,28827.73,0.61,21.38
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,AU,13,65404.13,1.38,21.13
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,FR,7,135335.89,2.85,21.09
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,DE,4,208134.26,4.38,20.61
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,SA,23,31725.6,0.67,20.5
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,TR,16,42013.05,0.88,20.36
+671a9d1a69f3560011055966,Exchange - RTB - Playdigo,Lukasz Lebensztejn,2787.86,TH,21,34606.67,0.73,20.35
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,CA,8,129926.49,2.74,20.28
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,PH,17,40751.62,0.86,19.9
+671a9d1a69f3560011055966,Exchange - RTB - Playdigo,Lukasz Lebensztejn,2787.86,VN,22,33744.25,0.71,19.79
+5a8371eaeadf6c6135002396,Exchange - RTB - Mediasmart,Francis Torralba,367.06,GB,2,255309.83,5.38,19.75
+6177a5dce899b2001727f1e8,Exchange - RTB - Algorix,Sudhansu Behera,685.06,FR,7,135335.89,2.85,19.52
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,IT,14,60313.11,1.27,19.45
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,CO,18,39830.36,0.84,19.43
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,MY,24,30035.5,0.63,19.28
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,PL,19,39333.72,0.83,19.2
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,BR,5,192708.86,4.06,19.11
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,ES,12,83895.21,1.77,18.99
+5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,795.98,ID,9,112418.71,2.37,18.86
+671a9d1a69f3560011055966,Exchange - RTB - Playdigo,Lukasz Lebensztejn,2787.86,SA,23,31725.6,0.67,18.68
+63d743303639240014ba0dd0,Exchange - RTB - Microcloud,Sudhansu Behera,3060.22,AR,25,28827.73,0.61,18.67
+5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,795.98,MX,10,110499.78,2.33,18.55
+690abe83eb3bf4c11bf9175c,Exchange - RTB - Anzu.io,Jack Chiam,777.42,ID,9,112418.71,2.37,18.42
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,GB,2,255309.83,5.38,18.38
+682accb99886e60011615293,Exchange - RTB - Mindtos,Jack Chiam,1324.37,AU,13,65404.13,1.38,18.28
+62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,1759.44,IN,15,47822.97,1.01,17.77
+5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1398.4,IT,14,60313.11,1.27,17.76
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,NL,20,36099.2,0.76,17.58
+6163ee8d2e2c3200179604b9,Exchange - RTB - Smarter,Sudhansu Behera,400.81,DE,4,208134.26,4.38,17.56
+671a9d1a69f3560011055966,Exchange - RTB - Playdigo,Lukasz Lebensztejn,2787.86,MY,24,30035.5,0.63,17.56
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,ID,9,112418.71,2.37,17.54
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,MX,10,110499.78,2.33,17.25
+671a9d1a69f3560011055966,Exchange - RTB - Playdigo,Lukasz Lebensztejn,2787.86,AR,25,28827.73,0.61,17.01
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,TH,21,34606.67,0.73,16.89
+5a8371eaeadf6c6135002396,Exchange - RTB - Mediasmart,Francis Torralba,367.06,RU,3,217901.47,4.59,16.85
+690abe83eb3bf4c11bf9175c,Exchange - RTB - Anzu.io,Jack Chiam,777.42,KR,11,102730.56,2.16,16.79
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,DE,4,208134.26,4.38,16.53
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,VN,22,33744.25,0.71,16.43
+5a8371eaeadf6c6135002396,Exchange - RTB - Mediasmart,Francis Torralba,367.06,DE,4,208134.26,4.38,16.08
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,GB,2,255309.83,5.38,16.02
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,JP,6,159602.67,3.36,15.81
+6358477435d47b0014f36d9b,Exchange - RTB - Brave,Robert Korepta,1850.84,CO,18,39830.36,0.84,15.55
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,SA,23,31725.6,0.67,15.5
+62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,1759.44,TR,16,42013.05,0.88,15.48
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,BR,5,192708.86,4.06,15.33
+6a30eb0dede581a042458add,Exchange - RTB - Easy Tech,Jack Chiam,2149.93,VN,22,33744.25,0.71,15.26
+68f8632d386a23dd1d615bf1,Exchange - RTB - RTB Max,Jack Chiam,1807.79,CO,18,39830.36,0.84,15.19
+62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,1759.44,PH,17,40751.62,0.86,15.13
+602442a043209100157f4392,Exchange - RTB - BetweenX Toneko Holdings Ltd,Francis Torralba,329.24,RU,3,217901.47,4.59,15.11
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,DE,4,208134.26,4.38,14.96
+6384f4ef2c8690001430be0d,Exchange - RTB - Yabbi,Robert Korepta,1060.53,AU,13,65404.13,1.38,14.64
+62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,1759.44,PL,19,39333.72,0.83,14.6
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,MY,24,30035.5,0.63,14.58
+602442a043209100157f4392,Exchange - RTB - BetweenX Toneko Holdings Ltd,Francis Torralba,329.24,DE,4,208134.26,4.38,14.42
+5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1398.4,IN,15,47822.97,1.01,14.12
+663a7cb734e4cf00117c9299,Exchange - RTB - Rise,Lukasz Lebensztejn,2313.68,AR,25,28827.73,0.61,14.11
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,BR,5,192708.86,4.06,13.87
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,RU,3,217901.47,4.59,13.67
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,IT,14,60313.11,1.27,13.63
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,TR,16,42013.05,0.88,13.47
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,GB,2,255309.83,5.38,13.46
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,GB,2,255309.83,5.38,13.43
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,FR,7,135335.89,2.85,13.41
+682accb99886e60011615293,Exchange - RTB - Mindtos,Jack Chiam,1324.37,IN,15,47822.97,1.01,13.38
+62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,1759.44,NL,20,36099.2,0.76,13.37
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,ES,12,83895.21,1.77,13.1
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,DE,4,208134.26,4.38,13.04
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,CA,8,129926.49,2.74,12.9
+62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,1759.44,TH,21,34606.67,0.73,12.84
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,PL,19,39333.72,0.83,12.71
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,JP,6,159602.67,3.36,12.68
+62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,1759.44,VN,22,33744.25,0.71,12.49
+5a8371eaeadf6c6135002396,Exchange - RTB - Mediasmart,Francis Torralba,367.06,JP,6,159602.67,3.36,12.33
+5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1398.4,TR,16,42013.05,0.88,12.31
+64f77eca27f7020011a853b1,Exchange - RTB - Appsart,Robert Korepta,515.27,ID,9,112418.71,2.37,12.21
+6177a5dce899b2001727f1e8,Exchange - RTB - Algorix,Sudhansu Behera,685.06,ES,12,83895.21,1.77,12.13
+68f8632d386a23dd1d615bf1,Exchange - RTB - RTB Max,Jack Chiam,1807.79,SA,23,31725.6,0.67,12.11
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,BR,5,192708.86,4.06,12.09
+5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1398.4,PH,17,40751.62,0.86,12.03
+634f8edc0617c5001b20f9a7,Exchange - RTB - Chongda,Sudhansu Behera,870.38,AU,13,65404.13,1.38,12.01
+64f8922427f7020011a867d1,Exchange - RTB - Rhebus,Rob Korepta,845.0,AU,13,65404.13,1.38,11.66
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,NL,20,36099.2,0.76,11.64
+5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1398.4,PL,19,39333.72,0.83,11.61
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,RU,3,217901.47,4.59,11.48
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,JP,6,159602.67,3.36,11.48
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,RU,3,217901.47,4.59,11.46
+6163ee8d2e2c3200179604b9,Exchange - RTB - Smarter,Sudhansu Behera,400.81,FR,7,135335.89,2.85,11.42
+6358477435d47b0014f36d9b,Exchange - RTB - Brave,Robert Korepta,1850.84,AR,25,28827.73,0.61,11.29
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,TH,21,34606.67,0.73,11.18
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,ID,9,112418.71,2.37,11.15
+68f8632d386a23dd1d615bf1,Exchange - RTB - RTB Max,Jack Chiam,1807.79,AR,25,28827.73,0.61,11.03
+682accb99886e60011615293,Exchange - RTB - Mindtos,Jack Chiam,1324.37,PL,19,39333.72,0.83,10.99
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,MX,10,110499.78,2.33,10.97
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,DE,4,208134.26,4.38,10.96
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,DE,4,208134.26,4.38,10.93
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,VN,22,33744.25,0.71,10.87
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,IN,15,47822.97,1.01,10.84
+62563a74f5c7a20011b32398,Exchange - RTB - Smaato,Sudhansu Behera,1759.44,AR,25,28827.73,0.61,10.73
+6384f4ef2c8690001430be0d,Exchange - RTB - Yabbi,Robert Korepta,1060.53,IN,15,47822.97,1.01,10.71
+5a8371eaeadf6c6135002396,Exchange - RTB - Mediasmart,Francis Torralba,367.06,FR,7,135335.89,2.85,10.46
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,CA,8,129926.49,2.74,10.34
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,SA,23,31725.6,0.67,10.26
+5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1398.4,TH,21,34606.67,0.73,10.21
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,AU,13,65404.13,1.38,10.21
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,KR,11,102730.56,2.16,10.17
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,BR,5,192708.86,4.06,10.15
+682accb99886e60011615293,Exchange - RTB - Mindtos,Jack Chiam,1324.37,NL,20,36099.2,0.76,10.07
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,JP,6,159602.67,3.36,10.0
+5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1398.4,VN,22,33744.25,0.71,9.93
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,FR,7,135335.89,2.85,9.74
+60d2bd9281c6120017f178fb,Exchange - RTB - Admixer,Sudhansu Behera,211.57,RU,3,217901.47,4.59,9.71
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,TR,16,42013.05,0.88,9.44
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,IT,14,60313.11,1.27,9.4
+682accb99886e60011615293,Exchange - RTB - Mindtos,Jack Chiam,1324.37,VN,22,33744.25,0.71,9.4
+602442a043209100157f4392,Exchange - RTB - BetweenX Toneko Holdings Ltd,Francis Torralba,329.24,FR,7,135335.89,2.85,9.38
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,CA,8,129926.49,2.74,9.36
+617f985e4f29ac001736e2f4,Exchange - RTB - Adtiming,Sudhansu Behera,1531.21,AR,25,28827.73,0.61,9.34
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,PH,17,40751.62,0.86,9.23
+64f77eca27f7020011a853b1,Exchange - RTB - Appsart,Robert Korepta,515.27,ES,12,83895.21,1.77,9.12
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,CO,18,39830.36,0.84,9.01
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,ID,9,112418.71,2.37,8.95
+6384f4ef2c8690001430be0d,Exchange - RTB - Yabbi,Robert Korepta,1060.53,CO,18,39830.36,0.84,8.91
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,PL,19,39333.72,0.83,8.91
+5c4f514dbfa483080c46675f,Exchange - RTB - LoopMe,Francis Torralba,1398.4,MY,24,30035.5,0.63,8.81
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,MX,10,110499.78,2.33,8.8
+6177a5dce899b2001727f1e8,Exchange - RTB - Algorix,Sudhansu Behera,685.06,IT,14,60313.11,1.27,8.7
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,FR,7,135335.89,2.85,8.49
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,JP,6,159602.67,3.36,8.4
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,JP,6,159602.67,3.36,8.39
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,ES,12,83895.21,1.77,8.33
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,CA,8,129926.49,2.74,8.16
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,NL,20,36099.2,0.76,8.16
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,KR,11,102730.56,2.16,8.15
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,ID,9,112418.71,2.37,8.1
+682accb99886e60011615293,Exchange - RTB - Mindtos,Jack Chiam,1324.37,AR,25,28827.73,0.61,8.08
+6384f4ef2c8690001430be0d,Exchange - RTB - Yabbi,Robert Korepta,1060.53,NL,20,36099.2,0.76,8.06
+5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,795.98,IN,15,47822.97,1.01,8.04
+5e20bbdf55c1c23edbbca5fa,Exchange - RTB - Verve Group,Francis Torralba,237.45,JP,6,159602.67,3.36,7.98
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,MX,10,110499.78,2.33,7.96
+5a8371eaeadf6c6135002396,Exchange - RTB - Mediasmart,Francis Torralba,367.06,KR,11,102730.56,2.16,7.93
+690abe83eb3bf4c11bf9175c,Exchange - RTB - Anzu.io,Jack Chiam,777.42,IN,15,47822.97,1.01,7.85
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,TH,21,34606.67,0.73,7.83
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,VN,22,33744.25,0.71,7.62
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,IN,15,47822.97,1.01,7.48
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,KR,11,102730.56,2.16,7.38
+634f8edc0617c5001b20f9a7,Exchange - RTB - Chongda,Sudhansu Behera,870.38,CO,18,39830.36,0.84,7.31
+634f8edc0617c5001b20f9a7,Exchange - RTB - Chongda,Sudhansu Behera,870.38,PL,19,39333.72,0.83,7.22
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,SA,23,31725.6,0.67,7.19
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,US,1,2510504.17,52.86,7.16
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,FR,7,135335.89,2.85,7.13
+64f77eca27f7020011a853b1,Exchange - RTB - Appsart,Robert Korepta,515.27,AU,13,65404.13,1.38,7.11
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,FR,7,135335.89,2.85,7.11
+6163ee8d2e2c3200179604b9,Exchange - RTB - Smarter,Sudhansu Behera,400.81,ES,12,83895.21,1.77,7.09
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,ID,9,112418.71,2.37,7.06
+5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,795.98,TR,16,42013.05,0.88,7.0
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,MX,10,110499.78,2.33,6.94
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,CA,8,129926.49,2.74,6.85
+5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,795.98,PH,17,40751.62,0.86,6.85
+690abe83eb3bf4c11bf9175c,Exchange - RTB - Anzu.io,Jack Chiam,777.42,TR,16,42013.05,0.88,6.84
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,MY,24,30035.5,0.63,6.76
+5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,795.98,CO,18,39830.36,0.84,6.69
+690abe83eb3bf4c11bf9175c,Exchange - RTB - Anzu.io,Jack Chiam,777.42,PH,17,40751.62,0.86,6.69
+634f8edc0617c5001b20f9a7,Exchange - RTB - Chongda,Sudhansu Behera,870.38,NL,20,36099.2,0.76,6.61
+5fdbcb6754719a0015122725,Exchange - RTB - Lifestreet,Francis Torralba,1073.14,AR,25,28827.73,0.61,6.55
+690abe83eb3bf4c11bf9175c,Exchange - RTB - Anzu.io,Jack Chiam,777.42,CO,18,39830.36,0.84,6.53
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,TR,16,42013.05,0.88,6.51
+5a8371eaeadf6c6135002396,Exchange - RTB - Mediasmart,Francis Torralba,367.06,ES,12,83895.21,1.77,6.5
+690abe83eb3bf4c11bf9175c,Exchange - RTB - Anzu.io,Jack Chiam,777.42,PL,19,39333.72,0.83,6.45
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,KR,11,102730.56,2.16,6.43
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,PH,17,40751.62,0.86,6.37
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,CO,18,39830.36,0.84,6.22
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,PL,19,39333.72,0.83,6.14
+5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,795.98,NL,20,36099.2,0.76,6.05
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,ES,12,83895.21,1.77,6.05
+6177a5dce899b2001727f1e8,Exchange - RTB - Algorix,Sudhansu Behera,685.06,TR,16,42013.05,0.88,6.03
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,IT,14,60313.11,1.27,5.98
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,ID,9,112418.71,2.37,5.93
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,ID,9,112418.71,2.37,5.92
+690abe83eb3bf4c11bf9175c,Exchange - RTB - Anzu.io,Jack Chiam,777.42,NL,20,36099.2,0.76,5.91
+602442a043209100157f4392,Exchange - RTB - BetweenX Toneko Holdings Ltd,Francis Torralba,329.24,ES,12,83895.21,1.77,5.83
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,MX,10,110499.78,2.33,5.83
+5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,795.98,TH,21,34606.67,0.73,5.81
+6177a5dce899b2001727f1e8,Exchange - RTB - Algorix,Sudhansu Behera,685.06,CO,18,39830.36,0.84,5.75
+6177a5dce899b2001727f1e8,Exchange - RTB - Algorix,Sudhansu Behera,685.06,PL,19,39333.72,0.83,5.69
+690abe83eb3bf4c11bf9175c,Exchange - RTB - Anzu.io,Jack Chiam,777.42,TH,21,34606.67,0.73,5.68
+5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,795.98,VN,22,33744.25,0.71,5.65
+59791c2469736e2d62002c8f,Exchange - RTB - BidSwitch,Programmatic Support,796.22,VN,22,33744.25,0.71,5.65
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,NL,20,36099.2,0.76,5.63
+5e20bbdf55c1c23edbbca5fa,Exchange - RTB - Verve Group,Francis Torralba,237.45,ID,9,112418.71,2.37,5.63
+690abe83eb3bf4c11bf9175c,Exchange - RTB - Anzu.io,Jack Chiam,777.42,VN,22,33744.25,0.71,5.52
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,TH,21,34606.67,0.73,5.4
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,KR,11,102730.56,2.16,5.4
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,KR,11,102730.56,2.16,5.39
+5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,795.98,SA,23,31725.6,0.67,5.33
+634f8edc0617c5001b20f9a7,Exchange - RTB - Chongda,Sudhansu Behera,870.38,AR,25,28827.73,0.61,5.31
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,ES,12,83895.21,1.77,5.27
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,GB,2,255309.83,5.38,5.26
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,VN,22,33744.25,0.71,5.26
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,GB,2,255309.83,5.38,5.22
+690abe83eb3bf4c11bf9175c,Exchange - RTB - Anzu.io,Jack Chiam,777.42,SA,23,31725.6,0.67,5.21
+6177a5dce899b2001727f1e8,Exchange - RTB - Algorix,Sudhansu Behera,685.06,NL,20,36099.2,0.76,5.21
+64f77eca27f7020011a853b1,Exchange - RTB - Appsart,Robert Korepta,515.27,IN,15,47822.97,1.01,5.2
+64f8922427f7020011a867d1,Exchange - RTB - Rhebus,Rob Korepta,845.0,AR,25,28827.73,0.61,5.15
+6163ee8d2e2c3200179604b9,Exchange - RTB - Smarter,Sudhansu Behera,400.81,IT,14,60313.11,1.27,5.09
+5a8371eaeadf6c6135002396,Exchange - RTB - Mediasmart,Francis Torralba,367.06,AU,13,65404.13,1.38,5.07
+5f3dc36a8421a5001528b784,Exchange - RTB - Pubmatic,Francis Torralba,795.98,MY,24,30035.5,0.63,5.01
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,SA,23,31725.6,0.67,4.96
+690abe83eb3bf4c11bf9175c,Exchange - RTB - Anzu.io,Jack Chiam,777.42,MY,24,30035.5,0.63,4.9
+59791c2469736e2d62002c8f,Exchange - RTB - BidSwitch,Programmatic Support,796.22,AR,25,28827.73,0.61,4.86
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,IT,14,60313.11,1.27,4.79
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,IN,15,47822.97,1.01,4.75
+690abe83eb3bf4c11bf9175c,Exchange - RTB - Anzu.io,Jack Chiam,777.42,AR,25,28827.73,0.61,4.74
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,AU,13,65404.13,1.38,4.71
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,MY,24,30035.5,0.63,4.66
+5a8371eaeadf6c6135002396,Exchange - RTB - Mediasmart,Francis Torralba,367.06,IT,14,60313.11,1.27,4.66
+6177a5dce899b2001727f1e8,Exchange - RTB - Algorix,Sudhansu Behera,685.06,SA,23,31725.6,0.67,4.59
+64f77eca27f7020011a853b1,Exchange - RTB - Appsart,Robert Korepta,515.27,TR,16,42013.05,0.88,4.53
+66ed7eacad09bd00115d1340,Exchange - RTB - Mezzomedia,Lukasz Lebensztejn,740.16,AR,25,28827.73,0.61,4.51
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,RU,3,217901.47,4.59,4.49
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,RU,3,217901.47,4.59,4.46
+64f77eca27f7020011a853b1,Exchange - RTB - Appsart,Robert Korepta,515.27,PH,17,40751.62,0.86,4.43
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,ES,12,83895.21,1.77,4.43
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,ES,12,83895.21,1.77,4.42
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,IT,14,60313.11,1.27,4.34
+64f77eca27f7020011a853b1,Exchange - RTB - Appsart,Robert Korepta,515.27,CO,18,39830.36,0.84,4.33
+64f77eca27f7020011a853b1,Exchange - RTB - Appsart,Robert Korepta,515.27,PL,19,39333.72,0.83,4.28
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,DE,4,208134.26,4.38,4.28
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,DE,4,208134.26,4.38,4.25
+6177a5dce899b2001727f1e8,Exchange - RTB - Algorix,Sudhansu Behera,685.06,AR,25,28827.73,0.61,4.18
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,TR,16,42013.05,0.88,4.14
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,AU,13,65404.13,1.38,4.11
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,PH,17,40751.62,0.86,4.05
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,BR,5,192708.86,4.06,3.97
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,CO,18,39830.36,0.84,3.95
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,BR,5,192708.86,4.06,3.94
+64f77eca27f7020011a853b1,Exchange - RTB - Appsart,Robert Korepta,515.27,NL,20,36099.2,0.76,3.92
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,PL,19,39333.72,0.83,3.91
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,IN,15,47822.97,1.01,3.81
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,IT,14,60313.11,1.27,3.78
+64f77eca27f7020011a853b1,Exchange - RTB - Appsart,Robert Korepta,515.27,TH,21,34606.67,0.73,3.76
+64f77eca27f7020011a853b1,Exchange - RTB - Appsart,Robert Korepta,515.27,VN,22,33744.25,0.71,3.66
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,NL,20,36099.2,0.76,3.58
+6163ee8d2e2c3200179604b9,Exchange - RTB - Smarter,Sudhansu Behera,400.81,TR,16,42013.05,0.88,3.53
+6163ee8d2e2c3200179604b9,Exchange - RTB - Smarter,Sudhansu Behera,400.81,PH,17,40751.62,0.86,3.45
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,IN,15,47822.97,1.01,3.45
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,AU,13,65404.13,1.38,3.45
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,AU,13,65404.13,1.38,3.44
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,TH,21,34606.67,0.73,3.44
+6163ee8d2e2c3200179604b9,Exchange - RTB - Smarter,Sudhansu Behera,400.81,CO,18,39830.36,0.84,3.37
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,VN,22,33744.25,0.71,3.34
+6163ee8d2e2c3200179604b9,Exchange - RTB - Smarter,Sudhansu Behera,400.81,PL,19,39333.72,0.83,3.33
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,TR,16,42013.05,0.88,3.32
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,JP,6,159602.67,3.36,3.29
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,JP,6,159602.67,3.36,3.26
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,PH,17,40751.62,0.86,3.25
+64f77eca27f7020011a853b1,Exchange - RTB - Appsart,Robert Korepta,515.27,MY,24,30035.5,0.63,3.25
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,IT,14,60313.11,1.27,3.18
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,CO,18,39830.36,0.84,3.17
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,IT,14,60313.11,1.27,3.17
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,SA,23,31725.6,0.67,3.15
+64f77eca27f7020011a853b1,Exchange - RTB - Appsart,Robert Korepta,515.27,AR,25,28827.73,0.61,3.14
+6163ee8d2e2c3200179604b9,Exchange - RTB - Smarter,Sudhansu Behera,400.81,NL,20,36099.2,0.76,3.05
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,TR,16,42013.05,0.88,3.01
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,IN,15,47822.97,1.01,3.01
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,MY,24,30035.5,0.63,2.96
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,PH,17,40751.62,0.86,2.94
+6163ee8d2e2c3200179604b9,Exchange - RTB - Smarter,Sudhansu Behera,400.81,TH,21,34606.67,0.73,2.93
+60d2bd9281c6120017f178fb,Exchange - RTB - Admixer,Sudhansu Behera,211.57,AU,13,65404.13,1.38,2.92
+602442a043209100157f4392,Exchange - RTB - BetweenX Toneko Holdings Ltd,Francis Torralba,329.24,TR,16,42013.05,0.88,2.9
+69cdacc3c68e15dc2694959f,Exchange - RTB - DiscoverTech,Sudhansu Behera,470.63,AR,25,28827.73,0.61,2.87
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,NL,20,36099.2,0.76,2.87
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,CO,18,39830.36,0.84,2.87
+6163ee8d2e2c3200179604b9,Exchange - RTB - Smarter,Sudhansu Behera,400.81,VN,22,33744.25,0.71,2.85
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,PL,19,39333.72,0.83,2.84
+602442a043209100157f4392,Exchange - RTB - BetweenX Toneko Holdings Ltd,Francis Torralba,329.24,PH,17,40751.62,0.86,2.83
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,FR,7,135335.89,2.85,2.77
+602442a043209100157f4392,Exchange - RTB - BetweenX Toneko Holdings Ltd,Francis Torralba,329.24,CO,18,39830.36,0.84,2.77
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,TH,21,34606.67,0.73,2.76
+602442a043209100157f4392,Exchange - RTB - BetweenX Toneko Holdings Ltd,Francis Torralba,329.24,PL,19,39333.72,0.83,2.73
+5bede32c00cd071fc5770fcf,Exchange - RTB - Edge226,Francis Torralba,59.24,RU,3,217901.47,4.59,2.72
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,CA,8,129926.49,2.74,2.68
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,VN,22,33744.25,0.71,2.68
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,CA,8,129926.49,2.74,2.66
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,TR,16,42013.05,0.88,2.62
+5a8371eaeadf6c6135002396,Exchange - RTB - Mediasmart,Francis Torralba,367.06,VN,22,33744.25,0.71,2.61
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,NL,20,36099.2,0.76,2.6
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,PH,17,40751.62,0.86,2.56
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,IN,15,47822.97,1.01,2.53
+6163ee8d2e2c3200179604b9,Exchange - RTB - Smarter,Sudhansu Behera,400.81,MY,24,30035.5,0.63,2.53
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,SA,23,31725.6,0.67,2.53
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,IN,15,47822.97,1.01,2.52
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,CO,18,39830.36,0.84,2.5
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,TH,21,34606.67,0.73,2.49
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,PL,19,39333.72,0.83,2.47
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,GB,2,255309.83,5.38,2.47
+6163ee8d2e2c3200179604b9,Exchange - RTB - Smarter,Sudhansu Behera,400.81,AR,25,28827.73,0.61,2.44
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,VN,22,33744.25,0.71,2.43
+5bede32c00cd071fc5770fcf,Exchange - RTB - Edge226,Francis Torralba,59.24,BR,5,192708.86,4.06,2.41
+602442a043209100157f4392,Exchange - RTB - BetweenX Toneko Holdings Ltd,Francis Torralba,329.24,TH,21,34606.67,0.73,2.4
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,MY,24,30035.5,0.63,2.38
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,ID,9,112418.71,2.37,2.3
+6761ddf61d62100011606978,RTB - Exchange - SilverMob,Lukasz Lebenszztejn,377.48,AR,25,28827.73,0.61,2.3
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,SA,23,31725.6,0.67,2.29
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,MX,10,110499.78,2.33,2.28
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,MX,10,110499.78,2.33,2.26
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,NL,20,36099.2,0.76,2.26
+5a8371eaeadf6c6135002396,Exchange - RTB - Mediasmart,Francis Torralba,367.06,AR,25,28827.73,0.61,2.24
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,TR,16,42013.05,0.88,2.2
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,TR,16,42013.05,0.88,2.2
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,TH,21,34606.67,0.73,2.17
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,MY,24,30035.5,0.63,2.15
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,PH,17,40751.62,0.86,2.15
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,PH,17,40751.62,0.86,2.15
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,RU,3,217901.47,4.59,2.11
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,VN,22,33744.25,0.71,2.11
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,CO,18,39830.36,0.84,2.1
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,CO,18,39830.36,0.84,2.1
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,KR,11,102730.56,2.16,2.1
+5e20bbdf55c1c23edbbca5fa,Exchange - RTB - Verve Group,Francis Torralba,237.45,TR,16,42013.05,0.88,2.09
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,PL,19,39333.72,0.83,2.08
+64371dd35122b200141e0019,Exchange - RTB - Hyper Audience,Rob Korepta,341.6,AR,25,28827.73,0.61,2.08
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,PL,19,39333.72,0.83,2.07
+602442a043209100157f4392,Exchange - RTB - BetweenX Toneko Holdings Ltd,Francis Torralba,329.24,MY,24,30035.5,0.63,2.07
+602442a043209100157f4392,Exchange - RTB - BetweenX Toneko Holdings Ltd,Francis Torralba,329.24,AR,25,28827.73,0.61,2.01
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,DE,4,208134.26,4.38,2.01
+5bede32c00cd071fc5770fcf,Exchange - RTB - Edge226,Francis Torralba,59.24,JP,6,159602.67,3.36,1.99
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,SA,23,31725.6,0.67,1.99
+5e20bbdf55c1c23edbbca5fa,Exchange - RTB - Verve Group,Francis Torralba,237.45,CO,18,39830.36,0.84,1.99
+5e20bbdf55c1c23edbbca5fa,Exchange - RTB - Verve Group,Francis Torralba,237.45,PL,19,39333.72,0.83,1.97
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,GB,2,255309.83,5.38,1.95
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,NL,20,36099.2,0.76,1.9
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,NL,20,36099.2,0.76,1.9
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,MY,24,30035.5,0.63,1.88
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,BR,5,192708.86,4.06,1.87
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,TH,21,34606.67,0.73,1.83
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,TH,21,34606.67,0.73,1.82
+63212ea1436480001cd3285e,Exchange - RTB - Unruly,Francis Torralba,297.75,AR,25,28827.73,0.61,1.82
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,VN,22,33744.25,0.71,1.78
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,VN,22,33744.25,0.71,1.77
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,ES,12,83895.21,1.77,1.72
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,SA,23,31725.6,0.67,1.68
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,SA,23,31725.6,0.67,1.67
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,RU,3,217901.47,4.59,1.66
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,MY,24,30035.5,0.63,1.58
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,DE,4,208134.26,4.38,1.58
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,MY,24,30035.5,0.63,1.57
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,JP,6,159602.67,3.36,1.54
+68ec715094a2ed8b65447e7a,Exchange - RTB - Opera Software,Jack Chiam,250.12,AR,25,28827.73,0.61,1.53
+6323ac240ece9f001bef1aa4,Exchange - RTB - MediaNet,Francis Torralba,249.63,AR,25,28827.73,0.61,1.52
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,BR,5,192708.86,4.06,1.47
+5e20bbdf55c1c23edbbca5fa,Exchange - RTB - Verve Group,Francis Torralba,237.45,AR,25,28827.73,0.61,1.45
+5bede32c00cd071fc5770fcf,Exchange - RTB - Edge226,Francis Torralba,59.24,ID,9,112418.71,2.37,1.4
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,AU,13,65404.13,1.38,1.35
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,AU,13,65404.13,1.38,1.34
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,GB,2,255309.83,5.38,1.32
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,FR,7,135335.89,2.85,1.31
+60d2bd9281c6120017f178fb,Exchange - RTB - Admixer,Sudhansu Behera,211.57,AR,25,28827.73,0.61,1.29
+5bede32c00cd071fc5770fcf,Exchange - RTB - Edge226,Francis Torralba,59.24,KR,11,102730.56,2.16,1.28
+638f936a7097c0001a936119,Exchange - RTB - Equativ,Robert Korepta,37.39,JP,6,159602.67,3.36,1.26
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,CA,8,129926.49,2.74,1.26
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,GB,2,255309.83,5.38,1.23
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,IT,14,60313.11,1.27,1.23
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,JP,6,159602.67,3.36,1.22
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,RU,3,217901.47,4.59,1.13
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,ID,9,112418.71,2.37,1.09
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,DE,4,208134.26,4.38,1.08
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,MX,10,110499.78,2.33,1.07
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,RU,3,217901.47,4.59,1.05
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,FR,7,135335.89,2.85,1.03
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,BR,5,192708.86,4.06,1.0
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,DE,4,208134.26,4.38,1.0
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,CA,8,129926.49,2.74,0.99
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,IN,15,47822.97,1.01,0.99
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,KR,11,102730.56,2.16,0.99
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,IN,15,47822.97,1.01,0.98
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,BR,5,192708.86,4.06,0.93
+638f936a7097c0001a936119,Exchange - RTB - Equativ,Robert Korepta,37.39,ID,9,112418.71,2.37,0.89
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,TR,16,42013.05,0.88,0.86
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,ID,9,112418.71,2.37,0.86
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,TR,16,42013.05,0.88,0.85
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,MX,10,110499.78,2.33,0.84
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,PH,17,40751.62,0.86,0.83
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,JP,6,159602.67,3.36,0.83
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,CO,18,39830.36,0.84,0.82
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,CO,18,39830.36,0.84,0.82
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,ES,12,83895.21,1.77,0.81
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,PL,19,39333.72,0.83,0.81
+638f936a7097c0001a936119,Exchange - RTB - Equativ,Robert Korepta,37.39,KR,11,102730.56,2.16,0.81
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,KR,11,102730.56,2.16,0.78
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,JP,6,159602.67,3.36,0.77
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,NL,20,36099.2,0.76,0.74
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,NL,20,36099.2,0.76,0.74
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,TH,21,34606.67,0.73,0.71
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,TH,21,34606.67,0.73,0.71
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,FR,7,135335.89,2.85,0.7
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,VN,22,33744.25,0.71,0.69
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,VN,22,33744.25,0.71,0.69
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,CA,8,129926.49,2.74,0.67
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,SA,23,31725.6,0.67,0.66
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,FR,7,135335.89,2.85,0.65
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,SA,23,31725.6,0.67,0.65
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,ES,12,83895.21,1.77,0.64
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,AU,13,65404.13,1.38,0.63
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,CA,8,129926.49,2.74,0.63
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,MY,24,30035.5,0.63,0.62
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,MY,24,30035.5,0.63,0.61
+5bede32c00cd071fc5770fcf,Exchange - RTB - Edge226,Francis Torralba,59.24,IN,15,47822.97,1.01,0.6
+6a1f9468e71d803ef56275fa,Exchange - RTB - Yule,Sudhansu Behera,97.78,AR,25,28827.73,0.61,0.6
+6483b361b1f1e40011f762d6,Exchange - RTB - Mapendo,Jason Sher,97.07,AR,25,28827.73,0.61,0.59
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,IT,14,60313.11,1.27,0.58
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,ID,9,112418.71,2.37,0.58
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,MX,10,110499.78,2.33,0.57
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,BR,5,192708.86,4.06,0.55
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,ID,9,112418.71,2.37,0.54
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,MX,10,110499.78,2.33,0.53
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,KR,11,102730.56,2.16,0.53
+638f936a7097c0001a936119,Exchange - RTB - Equativ,Robert Korepta,37.39,AU,13,65404.13,1.38,0.52
+5bede32c00cd071fc5770fcf,Exchange - RTB - Edge226,Francis Torralba,59.24,TR,16,42013.05,0.88,0.52
+5bede32c00cd071fc5770fcf,Exchange - RTB - Edge226,Francis Torralba,59.24,PH,17,40751.62,0.86,0.51
+5bede32c00cd071fc5770fcf,Exchange - RTB - Edge226,Francis Torralba,59.24,CO,18,39830.36,0.84,0.5
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,AU,13,65404.13,1.38,0.5
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,KR,11,102730.56,2.16,0.49
+638f936a7097c0001a936119,Exchange - RTB - Equativ,Robert Korepta,37.39,IT,14,60313.11,1.27,0.47
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,IN,15,47822.97,1.01,0.46
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,IT,14,60313.11,1.27,0.46
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,JP,6,159602.67,3.36,0.46
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,ES,12,83895.21,1.77,0.43
+5bede32c00cd071fc5770fcf,Exchange - RTB - Edge226,Francis Torralba,59.24,TH,21,34606.67,0.73,0.43
+5bede32c00cd071fc5770fcf,Exchange - RTB - Edge226,Francis Torralba,59.24,VN,22,33744.25,0.71,0.42
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,ES,12,83895.21,1.77,0.4
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,TR,16,42013.05,0.88,0.4
+5bede32c00cd071fc5770fcf,Exchange - RTB - Edge226,Francis Torralba,59.24,SA,23,31725.6,0.67,0.4
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,PH,17,40751.62,0.86,0.4
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,PL,19,39333.72,0.83,0.38
+638f936a7097c0001a936119,Exchange - RTB - Equativ,Robert Korepta,37.39,IN,15,47822.97,1.01,0.38
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,CA,8,129926.49,2.74,0.37
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,IN,15,47822.97,1.01,0.37
+5bede32c00cd071fc5770fcf,Exchange - RTB - Edge226,Francis Torralba,59.24,MY,24,30035.5,0.63,0.37
+5bede32c00cd071fc5770fcf,Exchange - RTB - Edge226,Francis Torralba,59.24,AR,25,28827.73,0.61,0.36
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,NL,20,36099.2,0.76,0.35
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,AU,13,65404.13,1.38,0.34
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,TH,21,34606.67,0.73,0.34
+638f936a7097c0001a936119,Exchange - RTB - Equativ,Robert Korepta,37.39,TR,16,42013.05,0.88,0.33
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,VN,22,33744.25,0.71,0.33
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,MX,10,110499.78,2.33,0.32
+638f936a7097c0001a936119,Exchange - RTB - Equativ,Robert Korepta,37.39,PH,17,40751.62,0.86,0.32
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,ID,9,112418.71,2.37,0.32
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,AU,13,65404.13,1.38,0.32
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,TR,16,42013.05,0.88,0.32
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,SA,23,31725.6,0.67,0.31
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,IT,14,60313.11,1.27,0.31
+638f936a7097c0001a936119,Exchange - RTB - Equativ,Robert Korepta,37.39,CO,18,39830.36,0.84,0.31
+638f936a7097c0001a936119,Exchange - RTB - Equativ,Robert Korepta,37.39,PL,19,39333.72,0.83,0.31
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,PH,17,40751.62,0.86,0.31
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,CO,18,39830.36,0.84,0.3
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,PL,19,39333.72,0.83,0.3
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,MY,24,30035.5,0.63,0.29
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,IT,14,60313.11,1.27,0.29
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,KR,11,102730.56,2.16,0.29
+68a8024afa61a7bb4aac8df6,Exchange - RTB - Bidsmind,Sudhansu Behera,45.96,AR,25,28827.73,0.61,0.28
+638f936a7097c0001a936119,Exchange - RTB - Equativ,Robert Korepta,37.39,NL,20,36099.2,0.76,0.28
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,NL,20,36099.2,0.76,0.28
+638f936a7097c0001a936119,Exchange - RTB - Equativ,Robert Korepta,37.39,TH,21,34606.67,0.73,0.27
+638f936a7097c0001a936119,Exchange - RTB - Equativ,Robert Korepta,37.39,VN,22,33744.25,0.71,0.27
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,VN,22,33744.25,0.71,0.26
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,TH,21,34606.67,0.73,0.26
+638f936a7097c0001a936119,Exchange - RTB - Equativ,Robert Korepta,37.39,SA,23,31725.6,0.67,0.25
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,IN,15,47822.97,1.01,0.25
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,SA,23,31725.6,0.67,0.24
+638f936a7097c0001a936119,Exchange - RTB - Equativ,Robert Korepta,37.39,MY,24,30035.5,0.63,0.24
+638f936a7097c0001a936119,Exchange - RTB - Equativ,Robert Korepta,37.39,AR,25,28827.73,0.61,0.23
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,IN,15,47822.97,1.01,0.23
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,MY,24,30035.5,0.63,0.23
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,TR,16,42013.05,0.88,0.22
+5bff10ad6b66b21fde43b6d7,Exchange - RTB - Xandr,Francis Torralba,36.19,AR,25,28827.73,0.61,0.22
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,PH,17,40751.62,0.86,0.21
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,CO,18,39830.36,0.84,0.21
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,TR,16,42013.05,0.88,0.2
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,PH,17,40751.62,0.86,0.2
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,PL,19,39333.72,0.83,0.2
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,CO,18,39830.36,0.84,0.19
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,PL,19,39333.72,0.83,0.19
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,NL,20,36099.2,0.76,0.19
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,AU,13,65404.13,1.38,0.19
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,TH,21,34606.67,0.73,0.18
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,NL,20,36099.2,0.76,0.17
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,TH,21,34606.67,0.73,0.17
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,VN,22,33744.25,0.71,0.17
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,SA,23,31725.6,0.67,0.16
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,VN,22,33744.25,0.71,0.16
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,SA,23,31725.6,0.67,0.15
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,MY,24,30035.5,0.63,0.15
+6716f3d175b32c0011dcb46d,Exchange - RTB - Kargo,Robert Korepta,24.58,AR,25,28827.73,0.61,0.15
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,IN,15,47822.97,1.01,0.14
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,MY,24,30035.5,0.63,0.14
+688a2196206ad6dea34bcf23,Exchange - RTB - Sovrn,Sudhansu Behera,22.85,AR,25,28827.73,0.61,0.14
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,TR,16,42013.05,0.88,0.12
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,PH,17,40751.62,0.86,0.12
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,CO,18,39830.36,0.84,0.11
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,TH,21,34606.67,0.73,0.1
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,VN,22,33744.25,0.71,0.1
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,SA,23,31725.6,0.67,0.09
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,MY,24,30035.5,0.63,0.09
+68372d339886e6001161c9c1,Exchange - RTB - WMG,Sudhansu Behera,13.54,AR,25,28827.73,0.61,0.08

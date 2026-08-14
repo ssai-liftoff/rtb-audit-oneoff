@@ -1,0 +1,71 @@
+Publisher App ID,Publisher App Name,Market ID,Adomain Blocked (Account),Adomain Blocked (App),Adv Market ID Blocked (Account),Adv Market ID Blocked (App),Demand Block Count,Demand Blocks Split,Demand Blocklist IDs,Demand Blocklist Comments,Analyzed Advertiser,Gap Type
+5346f0f55cd3b9056a000074,iOS Solitaire,359917414,true,false,true,false,0,,,,kalshi.com,kalshi_gap
+5c708b8a680cf16c1f43417f,Musi - Simple Music Streaming,591560124,false,false,false,false,1,Customer (1),Customer (10097449),Customer (client requested to block Musi),kalshi.com,kalshi_gap
+6276cb2872361e0c07c98cec,Geometry Dash Lite,698255242,false,false,false,false,1,App (1),App (11269650),App (client request),kalshi.com,kalshi_gap
+5ee009ec8ca79a00013f1b95,IOS Spades,1487882541,true,false,true,false,0,,,,kalshi.com,kalshi_gap
+6623f108853bc6953cc5709d,BeReal iOS,1459645446,false,false,false,false,0,,,,kalshi.com,kalshi_gap
+68762a46e27c18d19b12edde,Sled Surfers iOS_CL,6744975195,false,false,false,false,1,Customer (1),Customer (11712865),Customer (client flagged source app | request to block),kalshi.com,kalshi_gap
+64ef55a17dd0db95c81212b2,WeatherBug - Weather Forecast (iOS),281940292,false,false,false,false,0,,,,kalshi.com,kalshi_gap
+53e0f868838d31b86d00002f,iOS Spider,395979574,true,false,true,false,0,,,,kalshi.com,kalshi_gap
+5dc9a22c9fc5d300176af30c,iOS Hearts,1466297045,true,false,true,false,0,,,,kalshi.com,kalshi_gap
+5810c3edd0479d592800004a,MSM iOS,521671873,true,false,true,false,0,,,,kalshi.com,kalshi_gap
+582b1fdaad837782410004e4,Hill Climb Racing 2,1146465836,false,false,false,false,1,App (1),App (11269650),App (client request),kalshi.com,kalshi_gap
+53e0f922936129bc6d000033,iOS FreeCell,301987699,true,false,true,false,0,,,,kalshi.com,kalshi_gap
+6524875860aebaee1ce371d0,kik ios,357218860,false,false,false,false,1,Customer (1),Customer (11719876),Customer (brand safety concerns),kalshi.com,kalshi_gap
+670e5e6220deb557b6b20af3,HLTVorg_HLTV_iOS,1078945675,false,false,false,false,0,,,,kalshi.com,kalshi_gap
+5be9c1194d3adf04414b15de,Audiomack | Download New Music,921765888,true,false,true,false,0,,,,kalshi.com,kalshi_gap
+66851b564d981e89bb8afc00,Offline Games - No Wifi Games,6448104157,false,false,false,false,1,App (1),App (11260363),App (client requested blocked),kalshi.com,kalshi_gap
+67f3efcc9c3da54da0569e6b,6474685600,6474685600,false,false,false,false,1,App (1),App (10912566),App (VPN+Utility+Passive App Blocks),kalshi.com,kalshi_gap
+6822af17a288cde6eec33c39,cam720,6444693400,false,false,false,false,1,App (1),App (10912566),App (VPN+Utility+Passive App Blocks),kalshi.com,kalshi_gap
+65a12a106c7debc0a6b1487e,FET,1478870872,false,false,false,false,1,Customer (1),Customer (11719876),Customer (brand safety concerns),kalshi.com,kalshi_gap
+598348c317e92baa770027fe,iOS Gin Rummy,1572726361,true,false,true,false,0,,,,kalshi.com,kalshi_gap
+66d170ea20321015a24eb2b9,Question.AI,6449486871,false,false,false,false,2,App (2),"App (11269650, 11260363)",App (client request; client requested blocked),kalshi.com,kalshi_gap
+66f65fef901d39379d5a9ed3,Rummy iOS,6636495643,true,false,true,false,0,,,,kalshi.com,kalshi_gap
+5ba95087cc094f074544b7dd,IOS Castle,1382466301,true,false,true,false,0,,,,kalshi.com,kalshi_gap
+6905adc23ab3eb7275ecffe1,Color Pixel Shooter,6754384144,false,false,false,false,1,App (1),App (11719891),App (no coloring apps),kalshi.com,kalshi_gap
+6697ad3f30f0637f5c7d1d74,ios - Free VPN Proxy by VPN Planet,1410235921,false,false,false,false,1,App (1),App (10821198),App (VPN Block),kalshi.com,kalshi_gap
+581790e0591c1ca0390001a0,iOS Pyramid,309409628,true,false,true,false,0,,,,kalshi.com,kalshi_gap
+6551f45e8ec95628af4f0fb4,vpnify_ios,1503251395,false,false,false,false,1,App (1),App (10821198),App (VPN Block),kalshi.com,kalshi_gap
+62969da4f61819e3deac9816,Dominoes,1584415753,true,false,true,false,0,,,,kalshi.com,kalshi_gap
+64781b96dac1393f38b604ca,Cake Sort - Color Puzzle Game IOS PM D2M,6448392144,false,false,false,false,1,App (1),App (11719891),App (no coloring apps),kalshi.com,kalshi_gap
+627a7fad9a5916612c6cb77e,IT-PM_Futbin_iOS,1080465358,false,false,false,false,0,,,,kalshi.com,kalshi_gap
+5873ca9f3a2fdbe202000596,Disney Magic Kingdoms,731592936,false,false,true,false,0,,,,kalshi.com,kalshi_gap
+68b83ce1a509f9a037747cdc,Musix Player,6751863406,false,false,false,false,1,App (1),App (10912566),App (VPN+Utility+Passive App Blocks),kalshi.com,kalshi_gap
+68c23acd4b9f993905ba9ea9,iScreen - Widgets & Wallpaper,1534704608,false,false,false,false,1,App (1),App (10912566),App (VPN+Utility+Passive App Blocks),kalshi.com,kalshi_gap
+5d5e630cf7853d06d0c54d8c,Stickman Hook  iOS,1435807944,false,false,false,false,1,App (1),App (11269650),App (client request),kalshi.com,kalshi_gap
+58bf044230aa0e8e3c00043d,iOS Jigsaw Puzzle,495583717,true,false,true,false,0,,,,kalshi.com,kalshi_gap
+6384938d1e0c734133a722a4,Amerigo File Manager iOS,605569663,false,false,false,false,1,App (1),App (10912566),App (VPN+Utility+Passive App Blocks),kalshi.com,kalshi_gap
+56cb247c4c275f425b000054,Block Craft 3D: City Building Simulator,981633844,false,false,false,false,1,App (1),App (11269650),App (client request),kalshi.com,kalshi_gap
+6284a850442dce6cae1615e8,Fillword iOS,1197961218,false,false,true,false,0,,,,kalshi.com,kalshi_gap
+611338aa64fce70de219ccad,Baby Tracker,779656557,false,false,false,false,0,,,,kalshi.com,kalshi_gap
+66d80d6e5634666900b5c3ce,Subway Surfers City,6504188939,false,false,false,false,1,App (1),App (11269650),App (client request),kalshi.com,kalshi_gap
+6620f09d345a6dc6b1a38bc8,RADIO PE,1055008110,false,false,false,false,1,App (1),App (10912566),App (VPN+Utility+Passive App Blocks),kalshi.com,kalshi_gap
+67112d0120deb557b6b2157f,Trebel Music - iOS,912390687,false,false,false,false,1,App (1),App (10912566),App (VPN+Utility+Passive App Blocks),kalshi.com,kalshi_gap
+694a4ebe0909df412ec565fc,Cardscapes iOS,6756808809,false,false,true,false,0,,,,kalshi.com,kalshi_gap
+5a0323c922fb62d46c0008ac,Asphalt 9 iOS,805603214,false,false,true,false,0,,,,kalshi.com,kalshi_gap
+606f2ffdd37415b54988d988,Bubble Shooter,1557357811,true,false,true,false,0,,,,kalshi.com,kalshi_gap
+62af22ab7ce32c085974afc2,Geometry Dash SubZero,1324044770,false,false,false,false,1,App (1),App (11269650),App (client request),kalshi.com,kalshi_gap
+6543f42929ee44e8782a2945,Crazy Eights,6464439483,true,false,true,false,0,,,,kalshi.com,kalshi_gap
+66753716f646af2fcfc11f8c,Blessedid,6503184925,false,false,false,false,1,App (1),App (10821193),App (Religion BL),kalshi.com,kalshi_gap
+573082f8607a4e6d62000059,HCR 2016 (iOS),564540143,false,false,false,false,1,App (1),App (11269650),App (client request),kalshi.com,kalshi_gap
+5f8d4096132adedfb9596609,The Calculator,398129933,false,false,false,false,1,App (1),App (10912566),App (VPN+Utility+Passive App Blocks),kalshi.com,kalshi_gap
+66dfebe0655237cdd139d46c,Blurams_IOS,1445991661,false,false,false,false,1,App (1),App (10912566),App (VPN+Utility+Passive App Blocks),kalshi.com,kalshi_gap
+5b338d3a2df7e7468a4fb004,My Talking Tom 2 - appstore,1337578317,false,false,false,false,1,App (1),App (11269650),App (client request),kalshi.com,kalshi_gap
+64db6180d4592a1f1c806bde,SHAREit,725215120,false,false,false,false,1,App (1),App (10912566),App (VPN+Utility+Passive App Blocks),kalshi.com,kalshi_gap
+690dfb95bd04c47d2c1bb66e,Goal - Soccer News & Scores,518026818,false,false,false,false,0,,,,kalshi.com,kalshi_gap
+67b41606cf89a5b27bdd8e84,Boykeep_IOS,6472993326,false,false,false,false,1,App (1),App (10912566),App (VPN+Utility+Passive App Blocks),kalshi.com,kalshi_gap
+67c6db614a068ff910e4144a,Hajo,6502821354,false,false,false,false,1,Customer (1),Customer (12440436),Customer (proactive block due to brand concerns),kalshi.com,kalshi_gap
+689642fb36ecdd3f2888c31f,Bessy,6445881079,false,false,false,false,1,Customer (1),Customer (12440436),Customer (proactive block due to brand concerns),kalshi.com,kalshi_gap
+683ee1c7cd4b6e3af019bda8,My Sticker Room,6743738094,false,false,false,false,2,"App (1), Campaign (1)","App (11269650), Campaign (10120326)","App (client request), Campaign (client requested to block)",kalshi.com,kalshi_gap
+69a1cdeba5541394545119cf,CardGames.io iOS,1496007149,false,false,false,false,0,,,,kalshi.com,kalshi_gap
+637cdfcaf09cbf8ae87a1079,Swipewipe iOS,1583884012,false,false,false,false,1,App (1),App (10912566),App (VPN+Utility+Passive App Blocks),kalshi.com,kalshi_gap
+601875477428c3216e4505af,Monopoly Solitaire,1536804215,true,false,true,false,0,,,,kalshi.com,kalshi_gap
+677e27b315d300adfe8ce45f,Asmr Musi,6615071731,false,false,false,false,1,App (1),App (10912566),App (VPN+Utility+Passive App Blocks),kalshi.com,kalshi_gap
+670f35ec4c1e2982cf063b38,Bird Sort 2 Color Puzzle Game iOS PM_GPL,6689494714,false,false,false,false,1,App (1),App (11719891),App (no coloring apps),kalshi.com,kalshi_gap
+69689e32b6c7ab8878a11511,yurihead_com-cronos-recordplayer,396869519,false,false,false,false,1,App (1),App (10912566),App (VPN+Utility+Passive App Blocks),kalshi.com,kalshi_gap
+68ed03cb1a93eb43afc48588,VPN360 iOS,1193154948,false,false,false,false,1,App (1),App (10821198),App (VPN Block),kalshi.com,kalshi_gap
+65236bd70e8e377c60312286,iOS_MakeASMR,6465175605,false,false,false,false,1,App (1),App (11269650),App (client request),kalshi.com,kalshi_gap
+5b47d1f1283b1411c973ac54,Police Pursuit iOS,1406725978,false,false,false,false,1,Customer (1),Customer (11780342),Customer (Kalshi keyword blocklist),kalshi.com,kalshi_gap
+697b3026a265576fe9243462,Magic Eraser,1619950778,false,false,false,false,1,App (1),App (10912566),App (VPN+Utility+Passive App Blocks),kalshi.com,kalshi_gap
+69394225b92039a768f79572,teachord,6755950527,false,false,false,false,1,App (1),App (10912566),App (VPN+Utility+Passive App Blocks),kalshi.com,kalshi_gap
+662c46c261db5b0a87580b5e,Cribbage,6498791610,true,false,true,false,0,,,,kalshi.com,kalshi_gap

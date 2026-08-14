@@ -1,0 +1,506 @@
+new_fraud_pub_id,new_first_name,new_last_name,matched_ivt_pub_id,ivt_first_name,ivt_last_name,matched_fraud_entity,account_name,l60d_spend
+60114173eca1f300150d7451,Natalia,Rasputina,5bdadda058bfde000fa7dfab,Natalia,Rasputina,700 N. Fairfax suite 614 | Alexandria | 22314 | US,"Brightika, Inc.",57718.42
+622ced2ecf358a001b0bbf26,Konrad,Strek,62436daaf98c6b001865113d,Konrad,Strek,Podzamcze | Leczna | 21-010 | PL,Zareklamy Sp. z o.o.,24302.03
+5fc6038754a5d70015c05717,Yeseo,Park,5b6a43823a5ab61db2c22984,Yeseo,PARK,"180011789948 | karen.park@kakaocorp.com | 152, Pangyoyeok-ro, Bundang-gu | Seongnam-si | 13529 | KR | kakaocorp.com",Kakao Games Corp.,21595.68
+678659613b9ea20011279429,Anil,Celebi,63d8de7689f0dc0013be14fe,Anil,Celebi,Altinova Mah 518 Sok | Bursa | 16250 | TR | magicplay.io,YAL GROUP IS MAKINELERI ITHALAT VE,17166.49
+647d9c096149810011be4a83,Bin,Chen,5abb2a8a08e9d33613b5530e,Bin,Chen,"ryan@riovox.com | RM 2001, 20F OF FUTURE BUILDING, NO.666 NANLIN MIDDLE ROAD | Huzhou | 313000 | CN | riovox.com",HUZHOU LEIFU INFORMATION TECHNOLOGY,3188.9
+608bf3a27d7e6a0016ca346e,Hugo,Furneaux,64ccf965cca9af0011fea6c7,Hugo,Furneaux,Zacna 2 | Gdansk | 80-283 | PL,ADC Games Sp. z o.o.,1925.92
+66cdab9dd9fcb300117af134,Safaa,Khadi,66f0fdb20f05bd0011e1d2b4,Safaa,Khadi,"AE850340003708479711703 | Meydan Grandstand, 6th floor | Dubai | 0 | AE",LIMEX MIDDLE EAST LLC-FZ,1790.94
+5a66e5481d5d9a162f0036e2,Yu,Chen,58e601eb9a3b33553b00055c,Yu,Chen,"1028936008 | Unit 417, 4/F, Lippo Centre, Tower Two | Hong Kong | 999077 | HK",Happy Elements CN,1120.03
+6708fce96f113e00119a5980,Toshik,Khatri,6040b4b87cb43900154bf57a,Toshik,Khatri,A 205 Mondeal Heights | Ahmedabad | 380015 | IN,SUPERHEAD STUDIO LLP,207.87
+6968acbba3f5d61ac707af9f,Johnathan,Palmer,693fac5b2325f894f1e46a2a,Johnathan,Palmer,5574 Perry Creek St | Las Vegas | 89141 | US,agence cinquante5,171.2
+6968acbba3f5d61ac707af9f,Johnathan,Palmer,695c82250199fcad0553a395,Johnathan,Palmer,5574 Perry Creek St | Las Vegas | 89141 | US,agence cinquante5,171.2
+695cc1283ef00dc55cb26082,Andreas,Fellner,69364a7b192ce0aadaecb641,Andreas,Fellner,224 Denali Dr | Chico | 95973 | US,bodywise studio,166.83
+695cc1283ef00dc55cb26082,Andreas,Fellner,69426f002325f894f1e48b02,Andreas,Fellner,224 Denali Dr | Chico | 95973 | US,bodywise studio,166.83
+6966fefa2334b471dc1e662f,Roosevelt,Isom,693e2e2ca056a6f630f2f0e1,Roosevelt,Isom,"168 Lawrence St, Unit 2 | Paterson | 7501 | US",iurii filin,141.73
+69699c6f0199fcad055455e3,Chad,Roberts,69411bd62325f894f1e47c05,Chad,Roberts,203 Ray St | Shelbyville | 37160 | US,jiangxi guangyou electronics co ltd,141.17
+69699c6f0199fcad055455e3,Chad,Roberts,695cb7802334b471dc1dddfe,Chad,Roberts,203 Ray St | Shelbyville | 37160 | US,jiangxi guangyou electronics co ltd,141.17
+695f21123ef00dc55cb28227,Christina,Skelly,6937ce5038cf425060b4a197,Christina,Skelly,12 Howe St | Prattsburgh | 14873 | US,indie foundry llc,132.2
+69670b124a359be35659c1bd,Jeffrey,Waddell,693f7b132325f894f1e467c0,Jeffrey,Waddell,3502 John St | Council Bluffs | 51501 | US,embedded systems srl,130.65
+696708590199fcad05542edf,Mary,Sturgis,693f5d60acc6e5cd2311a496,Mary,Sturgis,1439 Unruh Ave | Philadelphia | 19111 | US,md khairul islam,123.97
+696708590199fcad05542edf,Mary,Sturgis,695c74a02334b471dc1dd97b,Mary,Sturgis,1439 Unruh Ave | Philadelphia | 19111 | US,md khairul islam,123.97
+6966f7252334b471dc1e6573,Kala,Barber,693d30cba056a6f630f2eb3a,Kala,Barber,17707 14th Ave | Lynnwood | 98037 | US,les entrecodeurs,121.56
+6966f7252334b471dc1e6573,Kala,Barber,695b6bf11b80ebf32de507b5,Kala,Barber,17707 14th Ave | Lynnwood | 98037 | US,les entrecodeurs,121.56
+695db10f2334b471dc1de993,Kelly,Greene,693797d538cf425060b49db2,Kelly,Greene,1671 Burgess Rd Unit 2 | East Cleveland | 44112 | US,Ya Nan-Wu,120.03
+695db10f2334b471dc1de993,Kelly,Greene,6948e968f1cb4af17a823f42,Kelly,Greene,1671 Burgess Rd Unit 2 | East Cleveland | 44112 | US,Ya Nan-Wu,120.03
+695f5d7ed07f6798ad554449,Dana,Darden,693b7d4c192ce0aadaecfa6f,Dana,Darden,1105 Southview Dr 203 | Oxon Hill | 20745 | US,mohamed farhadi,113.72
+695f5d7ed07f6798ad554449,Dana,Darden,695224e584cdc295ad688585,Dana,Darden,1105 Southview Dr 203 | Oxon Hill | 20745 | US,mohamed farhadi,113.72
+693cbe2eacc6e5cd231195c6,Mable,Reid,69539108f1cb4af17a82ba13,Mable,Reid,16 S Wakefield Dr | Little Rock | 72209 | US,Amina ABASS,111.93
+693cbe2eacc6e5cd231195c6,Mable,Reid,6961f9fc2334b471dc1e263e,Mable,Reid,16 S Wakefield Dr | Little Rock | 72209 | US,Amina ABASS,111.93
+6968a4040199fcad05544862,Lexis,Wegner,693f85e3aa92acbac5361f35,Lexis,Wegner,5767 N Crater Lake Cir | Keystone Heights | 32656 | US,jonathan kianguebeni,109.67
+6968a4040199fcad05544862,Lexis,Wegner,695c7f6d3ef00dc55cb25bb3,Lexis,Wegner,5767 N Crater Lake Cir | Keystone Heights | 32656 | US,jonathan kianguebeni,109.67
+6968af3a0199fcad05544959,Terrence,Harper,693fb1b3acc6e5cd2311aa13,Terrence,Harper,111 N 21st Ave | Melrose Park | 60160 | US,screen time control llc,90.68
+6968af3a0199fcad05544959,Terrence,Harper,695c88b83ef00dc55cb25c55,Terrence,Harper,111 N 21st Ave | Melrose Park | 60160 | US,screen time control llc,90.68
+6968536b4a359be35659d4f2,Windsor,Coleman,693f807d2325f894f1e46850,Windsor,Coleman,71 Monroe Ave | Massapequa | 11758 | US,proof authentication corporation,86.24
+6968536b4a359be35659d4f2,Windsor,Coleman,695c7bed1b80ebf32de515d3,Windsor,Coleman,71 Monroe Ave | Massapequa | 11758 | US,proof authentication corporation,86.24
+696702d64a359be35659c119,Latasha,Mungo,693e3733a056a6f630f2f120,Latasha,Mungo,1121 K St SE Unit 23 | Washington | 20003 | US,Hua Bo Liu,79.39
+696702d64a359be35659c119,Latasha,Mungo,695b774e0199fcad055395f7,Latasha,Mungo,1121 K St SE Unit 23 | Washington | 20003 | US,Hua Bo Liu,79.39
+694a56872325f894f1e4de90,Ida,Hoover,69ba196d4bae0d5981bf9e59,Ida,Hoover,3360 Crestview Ave | Lebanon | 45036 | US,Derek Jensen,55.84
+69645c7d4a359be356599851,Ronald,Kenney,693d1d4e2325f894f1e45a8b,Ronald,Kenney,23 Pinto Ln | Stafford | 22556 | US,michael oles,55.68
+69645c7d4a359be356599851,Ronald,Kenney,695b37172334b471dc1dc805,Ronald,Kenney,23 Pinto Ln | Stafford | 22556 | US,michael oles,55.68
+69536fcff1cb4af17a82b6c6,Andrea,Villarini,693bc42dacc6e5cd23118d1d,Andrea,Villarini,2448 Kent Village Pl | Hyattsville | 20785 | US,METAGATE INFORMATION TECHNOLOGY,35.56
+69536fcff1cb4af17a82b6c6,Andrea,Villarini,695f75ca203cd1040ac4819a,Andrea,Villarini,2448 Kent Village Pl | Hyattsville | 20785 | US,METAGATE INFORMATION TECHNOLOGY,35.56
+695cbb300199fcad0553a7d6,David,Petersen,6969a782a3f5d61ac707bd77,David,Petersen,174 Champlain Way | Manchester | 14504 | US,prisonpump,23.86
+693cc1c8aa92acbac5360e3b,Nasir,Ahmad,6953940f215711e3530d173f,Nasir,Ahmad,932 Regina Dr | Halethorpe | 21227 | US,Makane for web designs,13.93
+693cc1c8aa92acbac5360e3b,Nasir,Ahmad,696204b4203cd1040ac4a0b4,Nasir,Ahmad,932 Regina Dr | Halethorpe | 21227 | US,Makane for web designs,13.93
+695b3c4d1b80ebf32de503ee,Sharon,Helton,696605f105ee428466bac82e,Sharon,Helton,347 W Jarvis Ave | Hazel Park | 48030 | US,"Equine Network, LLC",13.62
+695b68330199fcad0553944b,Mandy,Elizarraras,693d2dbdaa92acbac536113a,Mandy,Elizarraras,2004 Grenshaw St | Rockford | 61101 | US,Stefan Schmidt-Bilkenroth,12.26
+695b68330199fcad0553944b,Mandy,Elizarraras,6966e8e605ee428466bad3b5,Mandy,Elizarraras,2004 Grenshaw St | Rockford | 61101 | US,Stefan Schmidt-Bilkenroth,12.26
+695b616a3ef00dc55cb24bdc,Izetta,Davenport,693d209ba056a6f630f2eacf,Izetta,Davenport,404 W Northfield Ave | Pontiac | 48340 | US,Liliya Gerasimenko,3.44
+695b616a3ef00dc55cb24bdc,Izetta,Davenport,696609d60199fcad05542196,Izetta,Davenport,404 W Northfield Ave | Pontiac | 48340 | US,Liliya Gerasimenko,3.44
+66c475d9053da00011d69860,Taizhong,Chen,6710e19f75b32c0011dc8b4b,Taizhong,Chen,"No. 398 Tongxing East Road, Wenjiang District | Chengdu | 611100 | CN",Chen Taizhong,3.02
+695dbd7f2334b471dc1dea7c,Glenn,Harris,6937a4b6192ce0aadaecc8f2,Glenn,Harris,101 Hampton Ct | Jacksonville | 28546 | US,beasley broadcast group,0.79
+695dbd7f2334b471dc1dea7c,Glenn,Harris,6948f4cff1cb4af17a824053,Glenn,Harris,101 Hampton Ct | Jacksonville | 28546 | US,beasley broadcast group,0.79
+695f30680199fcad0553cbb7,Jody,Dudley,693b6fcb5efa6d2fb9f3ef3c,Jody,Dudley,11207 Renel Dr | Austin | 78758 | US,rt tech,0.01
+695f30680199fcad0553cbb7,Jody,Dudley,695202fcf1cb4af17a82a306,Jody,Dudley,11207 Renel Dr | Austin | 78758 | US,rt tech,0.01
+675fee761e787500114b0b20,MARLO,STANSEL,67061d1f0f05bd0011e2803a,MARLO,STANSEL,812 W 5TH ST | YORKTOWN | 78164 | US,,0.0
+675fee761e787500114b0b20,MARLO,STANSEL,67b3e652629ae000117e8fc7,MARLO,STANSEL,812 W 5TH ST | YORKTOWN | 78164 | US,,0.0
+675fee761e787500114b0b20,MARLO,STANSEL,67bec63178aaaa00113ba9c6,MARLO,STANSEL,812 W 5TH ST | YORKTOWN | 78164 | US,,0.0
+6801bc0ce2291a00116544cf,EFRAIN,RODRIGUEZ,6801ae96043792001194dfa3,EFRAIN,RODRIGUEZ,409 W SPRING ST | WEST HAVEN | 6516 | US,Booosters,0.0
+67612cf21e787500114b1705,DOROTHY,PAYNE,670f155bc5f8d40011c9a16f,DOROTHY,PAYNE,1070 DEL MAR AVE APT O | CHULA VISTA | 91911 | US,,0.0
+67612cf21e787500114b1705,DOROTHY,PAYNE,67b42939629ae000117e936d,DOROTHY,PAYNE,1070 DEL MAR AVE APT O | CHULA VISTA | 91911 | US,,0.0
+6762806e1d62100011607084,MARCUS,FRANKLIN,67b53db20471850011442d7d,MARCUS,FRANKLIN,3524 ELMCREST DR | FORT WAYNE | 46809 | US,,0.0
+6762806e1d62100011607084,MARCUS,FRANKLIN,686b91c3f56dd70011f42c3e,MARCUS,FRANKLIN,3524 ELMCREST DR | FORT WAYNE | 46809 | US,,0.0
+678a0d1764147d001102445d,ANN,TODD,670626d46f113e00119a3980,ANN,TODD,111 PINEPLACE | POINTBLANK | 77364 | US,,0.0
+678a0d1764147d001102445d,ANN,TODD,6761265caa157000111f4bb1,ANN,TODD,111 PINEPLACE | POINTBLANK | 77364 | US,,0.0
+678a0d1764147d001102445d,ANN,TODD,67b401f00471850011442065,ANN,TODD,111 PINEPLACE | POINTBLANK | 77364 | US,,0.0
+678a0d1764147d001102445d,ANN,TODD,67becfdbcc8ae200116e4eeb,ANN,TODD,111 PINEPLACE | POINTBLANK | 77364 | US,,0.0
+67823201450bae0011850550,SALVADOR,PEREZ,67b7f8b20471850011444bff,SALVADOR,PEREZ,5364 49TH STREET | SACRAMENTO | 95820 | US,Papa's Freezeria To Go!,0.0
+67822afd64147d001101fb44,KATHY,VANDIVER,67b7f4de0471850011444bdc,KATHY,VANDIVER,8515 ORION AVE | NORTH HILLS | 91343 | US,Safari 4x4 Driving Simulator 2: Zom,0.0
+67821cdc450bae001185046d,SANQUINETTA,WILLIAM,67b7e95b629ae000117ebe05,SANQUINETTA,WILLIAM,3603 SANDALWOOD DR | ATLANTA | 30350 | US,75 Hard,0.0
+6762837b1fa0820011e55ce3,AMADO,RESENDIZ,67b53f91629ae000117e9f79,AMADO,RESENDIZ,9014 N JEWEL BEND LN | HOUSTON | 77075 | US,,0.0
+6762837b1fa0820011e55ce3,AMADO,RESENDIZ,686cba64011cda00111749e3,AMADO,RESENDIZ,9014 N JEWEL BEND LN | HOUSTON | 77075 | US,,0.0
+6705e3cc66b8da0011c34844,DOLORES,RODILES,675d41341e787500114af8b3,DOLORES,RODILES,5559 SALVADOR DR | OXNARD | 93033 | US,Pusher Merge,0.0
+6705e3cc66b8da0011c34844,DOLORES,RODILES,67b2ecef047185001144158b,DOLORES,RODILES,5559 SALVADOR DR | OXNARD | 93033 | US,Pusher Merge,0.0
+6705e3cc66b8da0011c34844,DOLORES,RODILES,67be6ba5e07afc001168b64c,DOLORES,RODILES,5559 SALVADOR DR | OXNARD | 93033 | US,Pusher Merge,0.0
+6757fb8b1e787500114ac4e8,GABRIEL,BERNAL,67de5a1d37c77800116684fa,GABRIEL,BERNAL,1800 EL PASEO STREET APT 1015 | HOUSTON | 77054 | US,Tap Away 3D - Blocks Unpuzzle,0.0
+6757bf5e1e787500114ac159,STACY,SHUPER,66fceb2376a27e0011942e0a,STACY,SHUPER,PO .BOX 104 | WATSEKA | 60970 | US,Rally Car X,0.0
+681dd870104b400011378cec,Wi,Wi,67f793bac4ce700011261afa,Wi,Wi,"Mong Kok Road, Kowloon, Hong Kong | Hong Kong | 999077 | HK",,0.0
+681dd870104b400011378cec,Wi,Wi,681c247b2331ea0011439fe0,Wi,Wi,"Mong Kok Road, Kowloon, Hong Kong | Hong Kong | 999077 | HK",,0.0
+67e3b7eadfe44200112cafac,Ci,Ci,67e3b497dfe44200112caf74,Ci,Ci,"Mong Kok Road, Kowloon, Hong Kong | Hong Kong | 999077 | HK",,0.0
+67de61d2dfe44200112c7c87,REYNOSA,ISMAEL,6758e74809fe2d0011d3e757,REYNOSA,ISMAEL,118 AGANIER | SAN ANTONIO | 78212 | US,Alexandru Marusac,0.0
+68005796043792001194ce50,GEOFFREY,CAGLE,67b97c13000d3a001124926a,GEOFFREY,CAGLE,9001 AMBERGLEN BLVD 8105 | AUSTIN | 78729 | US,Omaid Ghayyur,0.0
+67ba796c000d3a001124980b,EFRAIN,RODRIGUEZ,6801ae96043792001194dfa3,EFRAIN,RODRIGUEZ,409 W SPRING ST | WEST HAVEN | 6516 | US,Mariya Ivanova,0.0
+68021f5ef615890011043739,Wi,Wi,67f793bac4ce700011261afa,Wi,Wi,"Mong Kok Road, Kowloon, Hong Kong | Hong Kong | 999077 | HK",,0.0
+68021f5ef615890011043739,Wi,Wi,681c247b2331ea0011439fe0,Wi,Wi,"Mong Kok Road, Kowloon, Hong Kong | Hong Kong | 999077 | HK",,0.0
+65f3f4855e79b8001149e0b5,IRMA,EMORY,660f65ab88bc890011108b39,IRMA,EMORY,11506 CAVENDISH CIR | SAN ANTONIO | 78251 | US,Audior,0.0
+65f2aef3d08fd40011b12829,BERRY,JOE,660f5c7d88bc890011108ad8,BERRY,JOE,1009 DANFORTH ST | LEHIGH ACRES | 33974 | US,,0.0
+65e921d923d9a500119bb870,LATELL,SOLOMON,660f503f7389c9001100bb93,LATELL,SOLOMON,330 RICHARD ST | SUNSET | 70584 | US,,0.0
+65e82a4b23d9a500119ba848,WILLARD,HOLT,660e1cc87389c9001100a633,WILLARD,HOLT,339 GRAHAM STREET | NEWPORT | 37821 | US,,0.0
+65c35186444f8f00114078fe,Zhenlai,Liu,66754d1660e2ea00114993f0,Zhenlai,Liu,244864070883 | ROOM 517 NEW CITY CENTRE 2 LEI YUE MUN ROAD KWUN TONG KL | Hongkong | 999077 | HK,,0.0
+63901f677097c0001a93640a,ha,thoi,6221fa9f7e64d7001a023e70,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+63901f677097c0001a93640a,ha,thoi,622235de1354050017624f6a,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+63901f677097c0001a93640a,ha,thoi,62225c0f2bce1300171c0a9b,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+63901f677097c0001a93640a,ha,thoi,6236b2b09d5a0f0018e835ac,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+63901f677097c0001a93640a,ha,thoi,6236bfc79d5a0f0018e835c1,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+63901f677097c0001a93640a,ha,thoi,62493ae2ec4817001976c3a9,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+63901f677097c0001a93640a,ha,thoi,624d5e447ec26d00188d01a4,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+63901f677097c0001a93640a,ha,thoi,628f85b5bc560a0010830832,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+63901f677097c0001a93640a,ha,thoi,628f923b1038f30014d29d23,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+63901f677097c0001a93640a,ha,thoi,62947f3e622563001a44cf5b,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+64c717367c1dd00011cba156,David,Monday,64c71b0f1e5137001122f60c,David,Monday,6433 Matcumbe Way | Plainfield | 46168 | US,,0.0
+648832bbbd9ebb001162983c,Rongzong,Zhang,63e73e234c68790014211310,RONGZONG,ZHANG,"ronzong@gmail.com | ronzong@gmail.com | 7th Floor, XinRongGongMao Building | xiamen | 361000 | CN",tangchuan,0.0
+6446799d37715800148b5970,SHICHUN,LIN,62a2ce81b0ba01001aab02c7,ShiChun,Lin,22 NORTH CANAL ROAD | SINGAPORE | 48834 | SG,,0.0
+6446799d37715800148b5970,SHICHUN,LIN,64ec86860950ee00114c8df3,SHICHUN,LIN,22 NORTH CANAL ROAD | SINGAPORE | 48834 | SG,,0.0
+643ba9f6f240d10014939808,Teemu,Ruotsalainen,6470c40ac386960011b2a7f5,Teemu,Ruotsalainen,teemu@sin-remorse.com | Otsonkallio 3 R 126 | ESPOO | 2110 | FI | sin-remorse.com,,0.0
+66b9d310e82ffc00113f64b4,AARON,MILLS,68be3edf617708ff36617365,AARON,MILLS,17950 VILLA CREEK DR  161 | TAMPA | 33647 | US,MONOPOLY: The Board Game,0.0
+66b6c8cd3fa9350011888462,MONIQUE,HOUSE,68bbda20f5feb6ad7423fa3f,MONIQUE,HOUSE,1504 MCKOOL AVE | STEAMWOOD | 60107 | US,Ace Stickman Tennis - 2016 World Ch,0.0
+66a1f73d514c000011477de2,LEON,SMALL,66a70ef67c55ea0011ab25db,LEON,SMALL,16010 ALTA MAR DR | HOUSTON | 77083 | US,,0.0
+66a1f73d514c000011477de2,LEON,SMALL,686b85f0011cda001116f887,LEON,SMALL,16010 ALTA MAR DR | HOUSTON | 77083 | US,,0.0
+66a0c5ac514c00001147738f,ARACELI,MUNGUIA,66864e5c39a54a001129a7ba,ARACELI,MUNGUIA,415 W LOVETT ST | EDINBURG | 78541 | US,Animal Alphabet Match,0.0
+66a0bbef7c55ea0011aaf8a9,RAQUEL,JOHNSON,6686445c514c00001146a27f,RAQUEL,JOHNSON,647 DOWNHAUL DR | PENSACOLA | 32507 | US,Animal Bar,0.0
+66a0b4f37c55ea0011aaf82e,JUANDRIKA,WILLIAMS,66863e0e7c55ea0011aa2cb2,JUANDRIKA,WILLIAMS,6064 N HOWELL DR | BATON ROUGE | 70805 | US,Animal Car Puzzle: Jigsaw Picture G,0.0
+66a07991514c000011476fd3,KRISTOFFER,PLAZA,686f8e4f011cda00111773e2,KRISTOFFER,PLAZA,609 SW 8TH AVENUE | FORT LAUDERDALE | 33315 | US,B-LIVE　ライブ配信,0.0
+66a057147c55ea0011aaf439,SUSAN,KLAPACH,68708a347995f8001109ee49,SUSAN,KLAPACH,173 CHURCH ST | WASHINGTON | 15301 | US,Badminton Game !,0.0
+660a2c4a2d3f68001148ed4d,BRITTNEY,LAFAVOR,67b81f96e305b7001176df67,BRITTNEY,LAFAVOR,1524 NW 15TH ST  S | FORT LAUDERDALE | 33311 | US,Care Baby Tracker,0.0
+668617a67c55ea0011aa2b3d,DIANA,MIRELES,66a0adfd60e2ea00114ae62c,DIANA,MIRELES,407 SECOND ST | SUNLANDPARK | 88063 | US,Pakepaw,0.0
+666fa5a99ec3300011ce44df,ANTHONY,RAINEY,66a1c94239a54a00112a7b10,ANTHONY,RAINEY,410 RAILROAD ST APT | KINGSLAND | 71652 | US,,0.0
+666fa5a99ec3300011ce44df,ANTHONY,RAINEY,66a6faa57c55ea0011ab24bf,ANTHONY,RAINEY,410 RAILROAD ST APT | KINGSLAND | 71652 | US,,0.0
+666fa5a99ec3300011ce44df,ANTHONY,RAINEY,686cbbdaf56dd70011f47d1f,ANTHONY,RAINEY,410 RAILROAD ST APT | KINGSLAND | 71652 | US,,0.0
+665610694880c000115c1f33,Ahyar,Mustafa,63c170f4b1268300147c1c5e,Ahyar,Mustafa,ahyarrmustafaa@gmail.com | ahyarrmustafaa@gmail.com | DUSUN II SENTOSA | Aceh Utara | 24354 | ID,,0.0
+665610694880c000115c1f33,Ahyar,Mustafa,66bb807de4ec050011197254,Ahyar,Mustafa,ahyarrmustafaa@gmail.com | ahyarrmustafaa@gmail.com | DUSUN II SENTOSA | Aceh Utara | 24354 | ID,,0.0
+665610694880c000115c1f33,Ahyar,Mustafa,66f216d3ad09bd00115d2fd9,Ahyar,Mustafa,ahyarrmustafaa@gmail.com | ahyarrmustafaa@gmail.com | DUSUN II SENTOSA | Aceh Utara | 24354 | ID,,0.0
+68ddd556ce776c94c147ccdc,Kimberly,Richardson,61e4d4ee94635f00175ec945,Kimberly,Richardson,52031 S. Lakeshore Dr | Granger | 46530 | US,Tuan Huynh,0.0
+68dce6d1ce776c94c147c31e,Mark,Craft,61e3869c40abd80017e341e3,Mark,Craft,50570 Deer Ridge Ct | Granger | 46530 | US,Netmarble Corporation,0.0
+68dcd108432d7561d56c3ae8,Christopher,Hall,689edc1854fd0c5e2813a3a8,Christopher,Hall,53336 Chelle Lane | Granger | 46530 | US,OpenAI,0.0
+68e322325c2c66c2398b5500,Trish,Forfinski,61e9221a4b301e0018c98831,Trish,Forfinski,6136 Curtwood Rd | Ludington | 49431 | US,Cortex Vibrant Lab,0.0
+68e31ea4929af3ce1804bdaa,Rebekah,Gilliam,61e91e1094635f00175ecd61,Rebekah,Gilliam,4622 W. Perry St | Indianapolis | 46241 | US,SayGames LTD,0.0
+68e31cbb41fccb5b1d1ae3eb,Joe,Hickey,61e91bcee6850400178fadf1,Joe,Hickey,314 Boskydell Road | Carbondale | 62902 | US,"BoomBit, Inc",0.0
+68e31cbb41fccb5b1d1ae3eb,Joe,Hickey,68a6c1d7a36e231aa2a63831,Joe,Hickey,314 Boskydell Road | Carbondale | 62902 | US,"BoomBit, Inc",0.0
+68e1e1eb46a65763a2bacfbf,Christopher,Conner,68a69787a36e231aa2a63525,Christopher,Conner,5710 W 700 N | Thorntown | 46071 | US,Diem Le,0.0
+68e1d94d46a65763a2bacf6d,Christopher,Conner,68a69787a36e231aa2a63525,Christopher,Conner,5710 W 700 N | Thorntown | 46071 | US,VIET NAM YDC COMPANY LIMITED,0.0
+68e1d7c9929af3ce1804b4f1,Jason,Cavataio,68a6939d07ea9e2f14110ed8,Jason,Cavataio,60737 Pennington Way | Rochester | 48306 | US,ismail budak,0.0
+68e1d42f46a65763a2bacf1c,william,McNally,68a68daa39764e54e3d622b6,william,McNally,935 w weathersfield waay | schaumburg | 60193 | US,Vivek Radadiya,0.0
+68e1ca8d46a65763a2baceab,John,bulloch,68a67afb07ea9e2f14110c70,John,bulloch,11710 Hbner Rd | Hartland | 48353 | US,"NLABSOFT Co, Ltd",0.0
+68ddfa3b929af3ce180490e4,Adam,Kruckenberg,68a3f2b007ea9e2f1410e3fa,Adam,Kruckenberg,957 Carmen Road | Sugar Grove | 60554 | US,Amanotes Pte Ltd,0.0
+68ad281e32cff367f024665e,Craig,Griffith,68e494925c2c66c2398b64d4,Craig,Griffith,1821 Bermuda Dr | Newcastle | 73065 | US,Tailormade Games,0.0
+68ad0fa29cdc5f164a57b836,Russell,Anderson,68e480315c2c66c2398b63db,Russell,Anderson,306 E Ottawa Street | Paola | 66071 | US,Valentin Tsimbalyuk,0.0
+68ad0d479cdc5f164a57b7fc,Benjamin,Pemberton,68e47d815c2c66c2398b63bc,Benjamin,Pemberton,114 Sparlock Dr | Fort Gibson | 74434 | US,R-Soft,0.0
+68ad08549b1198be4a401400,Ryan,Roberts,68e47914929af3ce1804cd19,Ryan,Roberts,1702 NE Oakridge Dr | Claremore | 74017 | US,Matvey Kavtorov,0.0
+68ac120d9b1198be4a400870,Dawn,Williams,68e476655c2c66c2398b635c,Dawn,Williams,1898 Hickory Bark Drive | Bloomfield Hills | 48304 | US,ZENIFUN TECHNOLOGY LIMITED,0.0
+68ac0d6ad85007ec9070f8ad,Carmen,Amren,68aa8b1b32cff367f0244510,Carmen,Amren,23609 Pavilion | Louisburg | 66053 | US,GARENA INTERNATIONAL II PRIVATE LIM,0.0
+68ac0d6ad85007ec9070f8ad,Carmen,Amren,68e467cb41fccb5b1d1af1af,Carmen,Amren,23609 Pavilion | Louisburg | 66053 | US,GARENA INTERNATIONAL II PRIVATE LIM,0.0
+68ac0bb2d85007ec9070f86d,Greg,Woodward,68e4746141fccb5b1d1af245,Greg,Woodward,1466 Willow Dr | Choctaw | 73020 | US,"Pikkit, Inc",0.0
+68aa8d532b9f98f8f9ffd8c4,Devin,Theisen,68e46c4141fccb5b1d1af1e4,Devin,Theisen,1023 S Brookview Ln | Mustang | 73064 | US,Akin Aksoy,0.0
+68aa684ad85007ec9070e425,Jessica,Olinger,68e33b016d4c560304426fc4,Jessica,Olinger,1498 West Olson Road | Rochester | 46975 | US,Hongkong Spredee Business Limited,0.0
+68aa64b1d85007ec9070e3f5,Chad,Clay,68e3390d929af3ce1804bf0f,Chad,Clay,958 W Shadowlawn St | Springfield | 65810 | US,KAYAC Inc,0.0
+68a911cc21fb6fa2f6723c74,Trish,Forfinski,61e9221a4b301e0018c98831,Trish,Forfinski,6136 Curtwood Rd | Ludington | 49431 | US,Hongkong Vega Limited,0.0
+68a6c5c907ea9e2f14111255,Rebekah,Gilliam,61e91e1094635f00175ecd61,Rebekah,Gilliam,4622 W. Perry St | Indianapolis | 46241 | US,Cozy Labs,0.0
+68a6b9b2883e4b643ef2cfd5,Cafer,Akdeniz,68e1e8b65c2c66c2398b4c52,Cafer,Akdeniz,2420 Greenbriar Dr. Apt. C | Manhattan | 66502 | US,Fera Games sp z o o,0.0
+68a6b7fd883e4b643ef2cfa1,KRISTOFFER,PLAZA,686f8e4f011cda00111773e2,KRISTOFFER,PLAZA,609 SW 8TH AVENUE | FORT LAUDERDALE | 33315 | US,Heatherglade Ltd,0.0
+68ad235b32cff367f02465d2,Andrew,Welch,68e492d1929af3ce1804ce39,Andrew,Welch,15501 Vicki Drive | Oklahoma City | 73170 | US,"Unnamed Studios, LLC",0.0
+68ad2a839cdc5f164a57ba42,Chris,Herrin,68e4969c929af3ce1804ce6a,Chris,Herrin,775 BUCKWOOD DR | CHOCTAW | 73020 | US,Northica,0.0
+68ad740e9b1198be4a401d44,Brandon,Wikoff,68e4b12e6d4c560304427fc1,Brandon,Wikoff,2208 W 50th St | Westwood Hills | 66205 | US,INFOMYCITY OU,0.0
+68be7b5dba6886696f757722,SEFINA,COFFEE,66bc4e60356ea40011a92c3c,SEFINA,COFFEE,7692 WEST 20TH DRIVE | CUSTER | 98240 | US,,0.0
+68bbd2d5617708ff36615b13,WILHELMIN,HINNANT,66b5beed3fa9350011887c83,WILHELMIN,HINNANT,5507 WARD BLVD | WILSON | 27893 | US,,0.0
+68b93b46b34055e73382ed86,Robert,Schrag,68e8c98e099a27aade9600ab,Robert,Schrag,25570 Coffman rd | Farmington | 63640 | US,Disney,0.0
+68b934a7b34055e73382ec5e,Brian,Houlahan,621eca7baec70c0014204fa5,Brian,Houlahan,14873 S. Turnberry St | Olathe | 66061 | US,Sam Dentino,0.0
+68b930079a39b4828a659d76,aaron,dipboye,68e8bf9f673f1671fcf80803,aaron,dipboye,621 w 19th st s | claremore | 74019 | US,Andreas Schallwig,0.0
+68b92d58932ccf2db3939dcf,Shawn,Lane,68e8bdbc673f1671fcf807d8,Shawn,Lane,105 1/2 Riverview Dr | Wamego | 66547 | US,Ahmed Shahien,0.0
+68ae5d598dfb0cb299bff6e8,Alejandro,Real,68e4bfdb6d4c5603044280bc,Alejandro,Real,3015 Hillcrest | Enid | 73701 | US,Jacob Anthony,0.0
+693cd85cacc6e5cd231196a2,Ashley,Oglesby,695b16bf0199fcad05538da6,Ashley,Oglesby,4831 Walton Ave | Philadelphia | 19143 | US,"Andres Tellez""",0.0
+693bcf74acc6e5cd23118df5,Taquita,Washington,695377f442eae6787e7f3888,Taquita,Washington,2927 Alter Rd | Detroit | 48215 | US,Renato Fraga,0.0
+693bcf74acc6e5cd23118df5,Taquita,Washington,696061a62334b471dc1e124f,Taquita,Washington,2927 Alter Rd | Detroit | 48215 | US,Renato Fraga,0.0
+693bcc26aa92acbac5360652,Iesha,Posey,69537413f1cb4af17a82b74a,Iesha,Posey,317 Walnut St | Elmwood Place | 45216 | US,4thdimensionpartners Private Limite,0.0
+693bcc26aa92acbac5360652,Iesha,Posey,696059bc0199fcad0553dc80,Iesha,Posey,317 Walnut St | Elmwood Place | 45216 | US,4thdimensionpartners Private Limite,0.0
+693b9979192ce0aadaecfbc4,Ricky,Lane,69524138f1cb4af17a82a717,Ricky,Lane,715 N Sheffield Ave | Indianapolis | 46222 | US,fernand llanes varela,0.0
+693b9979192ce0aadaecfbc4,Ricky,Lane,695f6bf5d07f6798ad5545eb,Ricky,Lane,715 N Sheffield Ave | Indianapolis | 46222 | US,fernand llanes varela,0.0
+693b8153192ce0aadaecfaaf,Romalice,Tate,69523928f1cb4af17a82a62c,Romalice,Tate,195 Heathrow Dr | Riverdale | 30274 | US,Ho Van Thanh,0.0
+693b8153192ce0aadaecfaaf,Romalice,Tate,695f65eb3ef00dc55cb28780,Romalice,Tate,195 Heathrow Dr | Riverdale | 30274 | US,Ho Van Thanh,0.0
+693a81d938cf425060b4c5f9,Keiko,Greenleaf,69363941341082cebe0cebd6,Keiko,Greenleaf,4808 Turtle Bay Ter | Bradenton | 34203 | US,kentaro kimoto,0.0
+6938c8885ba390fdd814af84,Aaron,Vickery,694a412b2325f894f1e4dc94,Aaron,Vickery,9719 Kennesaw Rd | North Chesterfield | 23236 | US,Dang Apps LLC,0.0
+6933a58e38cf425060b47600,Dianna,Mora,6938d47e38cf425060b4aec7,Dianna,Mora,7430 N 2800 | Honeyville | 84314 | US,arc-mobile-bilisim-teknolojileri-re,0.0
+693cc9a3a056a6f630f2e850,Jamie,Udvary,695b108b76e8fc021f2dc5f8,Jamie,Udvary,6134 N Kimball Ave 1fl | Chicago | 60659 | US,Storax-inc,0.0
+693cc9a3a056a6f630f2e850,Jamie,Udvary,696208c70199fcad0553f16d,Jamie,Udvary,6134 N Kimball Ave 1fl | Chicago | 60659 | US,Storax-inc,0.0
+693d09e32325f894f1e459f1,Romeal,Jeter,695b21c9c9519a47e15adb0a,Romeal,Jeter,624 1/2 Beech St | Washington | 15301 | US,Andres Tellez,0.0
+693d09e32325f894f1e459f1,Romeal,Jeter,696218964a359be35659844f,Romeal,Jeter,624 1/2 Beech St | Washington | 15301 | US,Andres Tellez,0.0
+695b747d3ef00dc55cb24def,Roosevelt,Isom,693e2e2ca056a6f630f2f0e1,Roosevelt,Isom,168 Lawrence St Unit 2 | Paterson | 7501 | US,Alberto Aznar,0.0
+693e2710acc6e5cd23119de4,Amanda,Neace,695b713a1b80ebf32de507fe,Amanda,Neace,301 Pierremont Dr | Shelbyville | 40065 | US,Storax-inc,0.0
+693e2710acc6e5cd23119de4,Amanda,Neace,6966fbeb0199fcad05542db1,Amanda,Neace,301 Pierremont Dr | Shelbyville | 40065 | US,Storax-inc,0.0
+693d26ea2325f894f1e45ac1,Melissa,Mcgurk,695b654c3ef00dc55cb24c45,Melissa,Mcgurk,24 Berry Ct | Germantown | 45327 | US,FARMERS DIGITAL AGENCY COMPANY LIMI,0.0
+693d0d09aa92acbac5361046,Kevin,Sommers,695b2d690199fcad05538f45,Kevin,Sommers,E2747 Crystal Rd | Waupaca | 54981 | US,Andres Tellez,0.0
+693d0d09aa92acbac5361046,Kevin,Sommers,696456870199fcad0554056a,Kevin,Sommers,E2747 Crystal Rd | Waupaca | 54981 | US,Andres Tellez,0.0
+68e9b10f94a2ed8b65446777,Jorge,Olivares,621ed18974396a0014e3775a,Jorge,Olivares,8301 Reef Ct | Indianapolis | 46236 | US,Nexcore Studios Oyun Ve Yazilim Tic,0.0
+68e8c2ffa6badb586749d0f3,Brian,Houlahan,621eca7baec70c0014204fa5,Brian,Houlahan,14873 S. Turnberry St | Olathe | 66061 | US,Gemini Network,0.0
+68e8b7bd673f1671fcf8075d,Lance,Haller,621dc8af18406300146693b4,Lance,Haller,4150 Deerfield Rd | Wamego | 66547 | US,Landmark Games,0.0
+68e734061df9c04c1c6f6225,Jamie,Lauri,621345e9e38a25001b1db57c,Jamie,Lauri,12248 Chiseled Stone Drive | Fishers | 46037 | US,,0.0
+68e710d9c3d07d29fcc82718,Blake,Neu,6210569b926829001a651126,Blake,Neu,5864 E 45th St | Indianapolis | 46226 | US,Mukouyama Takayuki,0.0
+68ec9e7194a2ed8b654481b8,Scott,Weber,6221da42eb512e001ac17232,Scott,Weber,2720 Diekamp Farm Trails | St Charles | 63303 | US,Goat Co Ltd,0.0
+68ec9e7194a2ed8b654481b8,Scott,Weber,622eecf5edb5cb0014add35f,Scott,Weber,2720 Diekamp Farm Trails | St Charles | 63303 | US,Goat Co Ltd,0.0
+68a6735d39764e54e3d62039,william,McNally,68a68daa39764e54e3d622b6,william,McNally,935 w weathersfield waay | schaumburg | 60193 | US | fasttech.solutions,Tayyaba Anam,0.0
+686f80e7011cda00111772bf,BRITTNEY,LAFAVOR,67b81f96e305b7001176df67,BRITTNEY,LAFAVOR,1524 NW 15TH ST  S | FORT LAUDERDALE | 33311 | US,Pazu Games Ltd,0.0
+686f7720011cda00111771ac,DOLORES,RODILES,675d41341e787500114af8b3,DOLORES,RODILES,5559 SALVADOR DR | OXNARD | 93033 | US,"FunCraft, Inc",0.0
+686f7720011cda00111771ac,DOLORES,RODILES,67b2ecef047185001144158b,DOLORES,RODILES,5559 SALVADOR DR | OXNARD | 93033 | US,"FunCraft, Inc",0.0
+686f7720011cda00111771ac,DOLORES,RODILES,67be6ba5e07afc001168b64c,DOLORES,RODILES,5559 SALVADOR DR | OXNARD | 93033 | US,"FunCraft, Inc",0.0
+686f744b49fa94001121e3df,RAQUEL,JOHNSON,6686445c514c00001146a27f,RAQUEL,JOHNSON,647 downhaul dr | pensacola | 32507 | US,NICOLAE TRANDAFIR,0.0
+686f1cf2011cda0011176b0a,HEATHER,ANDERSON,67b6e4210471850011444182,HEATHER,ANDERSON,1950 NO CARSON ST | CARSON CITY | 89701 | US,Abdul Mateen,0.0
+686f1cf2011cda0011176b0a,HEATHER,ANDERSON,67b6e5c204718500114441bb,HEATHER,ANDERSON,1950 NO CARSON ST | CARSON CITY | 89701 | US,Abdul Mateen,0.0
+685e0e43892f9d0011d7a898,RICHARD,BUFFINGTON,66bb04e33be8910011379168,RICHARD,BUFFINGTON,4635 SUZETTE AVE NW | MASSILLON | 44647 | US,,0.0
+685e0e43892f9d0011d7a898,RICHARD,BUFFINGTON,68be4a29617708ff36617448,RICHARD,BUFFINGTON,4635 SUZETTE AVE NW | MASSILLON | 44647 | US,,0.0
+685e041a7b4062001126d0a8,AARON,MILLS,68be3edf617708ff36617365,AARON,MILLS,17950 VILLA CREEK DR  161 | TAMPA | 33647 | US,Innplay Labs,0.0
+684293dfcb5826001178e95c,SEBASTIAN,BENAVIDES,6842952486fede00110ceca0,SEBASTIAN,BENAVIDES,941 N SUGAR ROAD APT703B | EDINBURG | 78541 | US,,0.0
+6874a67e011cda001117a1d5,RICKY,FARMER,67b82bf3e305b7001176e067,RICKY,FARMER,2135 VIRGINIA AVENUE | FORT MEYERS | 33901 | US,James Vanas,0.0
+68731c16011cda001117954c,RYAN,ROE,669f285d514c000011476313,RYAN,ROE,2001 DINA CT | POWELL | 43065 | US,,0.0
+6850ce38c0642e00113b0d22,KRYSTAL,VILLARREAL,66a747e560e2ea00114b154b,KRYSTAL,VILLARREAL,818 S 19TH ST | KINGSVILLE | 78363 | US,Simonas Kralikas,0.0
+68258a144c15ca0011ac5a8f,STEPHANIE,CHAMP,669a069f514c000011473f80,STEPHANIE,CHAMP,4530 WARRENSVILLE CENTER RD | CLEVELAND | 44128 | US,,0.0
+683d4dea9886e6001162002a,TRESA,PARHAM,67d5203fdf64c200118486c9,TRESA,PARHAM,1033 WHITAKER DRIVE | MEMPHIS | 38116 | US,,0.0
+68a6715b39764e54e3d62014,John,bulloch,68a67afb07ea9e2f14110c70,John,bulloch,11710 Hbner Rd | Hartland | 48353 | US,Hong Kong Qihang Network Technology,0.0
+68a2d961ea56f62fad3dc22d,Jie,Li,681ae122379ae300116e6be9,Jie,Li,147864656838 | 42612413@qq.com | ROOM 204C  2/F SHIU FAT INDUSTRIAL BUILDING 139-141  WAI YIP | HONG KONG | 147 | HK,,0.0
+689961f6e2f46e5f928c8c76,Jeffrey,Rhode,68d4f417d5c74a3f8a3ee4db,Jeffrey,Rhode,414 Frederick Place | Gower | 64454 | US,Patrones y Escondites,0.0
+68a56fbbe1025fd7b469a28c,Corey,Sokolowski,68de3ee941fccb5b1d1abc20,Corey,Sokolowski,2366 East 95th Street | Grant | 49337 | US,Volt Games,0.0
+68a56d4707ea9e2f1410fbed,Melinda,Ward,68a6786d39764e54e3d6209b,Melinda,Ward,1165Green Creek Rd | Muskegon | 49445 | US,Volt Games,0.0
+68a5677bf5427a91b57be683,Amy,Edwards,61e8bdd3ed721f0017bf12e3,Amy,Edwards,560 Gibson Dr | Westfield | 46074 | US,ZiNKY OYUN YAZILIM ANONiM SiRKETi,0.0
+68a5677bf5427a91b57be683,Amy,Edwards,68de33225c2c66c2398b2bd9,Amy,Edwards,560 Gibson Dr | Westfield | 46074 | US,ZiNKY OYUN YAZILIM ANONiM SiRKETi,0.0
+68a3e713fa141e4d477a11c8,Sean,Carmean,61e5174d9e028b0017c0848c,Sean,Carmean,851 Farr Rd | Muskegon | 49444 | US,Boom Studio Limited,0.0
+68a3e713fa141e4d477a11c8,Sean,Carmean,68a3e972ea56f62fad3dd280,Sean,Carmean,851 Farr Rd | Muskegon | 49444 | US,Boom Studio Limited,0.0
+68799b5ebabc2000110fe4f9,PAUL,SCHONENBERGER,68799a5e0bfb80001188f3fb,PAUL,SCHONENBERGER,907 W FRONT ST | ERIE | 16507 | US,Builderment LLC,0.0
+687876b20bfb80001188e449,WANDA,PADGETT,680f231c6a5f3e00113bcde6,WANDA,PADGETT,1700 S PILGRIM BLVD | YORKTOWN | 47396 | US,Grounded Games,0.0
+687873ea0bfb80001188e400,AMY,CLARK,680f1fff6a5f3e00113bcd75,AMY,CLARK,93740 RIVER RD | JUNCTION CITY | 97448 | US,Dror Cohen,0.0
+68786757babc2000110fd39b,TERI,ZIERER,680ef0f7e2291a001165c398,TERI,ZIERER,3543FLORIDA NE | ALBUQUERQUE | 87110 | US,Moby Pixel,0.0
+68772c14babc2000110fc35b,MARK,HARMON,680edb2c6a5f3e00113bc8ff,MARK,HARMON,800 S SANDUSKY AVE | BUCYRUS | 44820 | US,alerosio LLC,0.0
+68771eaf011cda001117c382,JOHN,MILLER,68034e9af615890011044056,JOHN,MILLER,27874 PARADISE ST | GEORGETOWN | 19947 | US,Hai Yen Nguyen Thi,0.0
+68771236011cda001117c1c0,JOHN,MILLER,68034e9af615890011044056,JOHN,MILLER,27874 PARADISE ST | GEORGETOWN | 19947 | US,CGE Digital sro,0.0
+6879e8ac0bfb80001188fb37,NICOLETTE,RIOJAS,66d6af080f05bd0011e106e3,NICOLETTE,RIOJAS,12436 VANCE JACKSON APT 1218 | SAN ANTONIO | 78230 | US,,0.0
+6879e8ac0bfb80001188fb37,NICOLETTE,RIOJAS,67108fe96173e700110b87bc,NICOLETTE,RIOJAS,12436 VANCE JACKSON APT 1218 | SAN ANTONIO | 78230 | US,,0.0
+6879e8ac0bfb80001188fb37,NICOLETTE,RIOJAS,6865feffe1d2fd001134c819,NICOLETTE,RIOJAS,12436 VANCE JACKSON APT 1218 | SAN ANTONIO | 78230 | US,,0.0
+6879e8ac0bfb80001188fb37,NICOLETTE,RIOJAS,6879ea50011cda001117eb7c,NICOLETTE,RIOJAS,12436 VANCE JACKSON APT 1218 | SAN ANTONIO | 78230 | US,,0.0
+6879e8ac0bfb80001188fb37,NICOLETTE,RIOJAS,68ce0771a6eceade8070636c,NICOLETTE,RIOJAS,12436 VANCE JACKSON APT 1218 | SAN ANTONIO | 78230 | US,,0.0
+687b1537babc2000110ff9cb,Chaz,Campbell,687b187d0bfb8000118909d8,Chaz,Campbell,7510 Mack Rd | Howell | 48855 | US,FDG Entertainment GmbH & CoKG,0.0
+6879fb6cd8cbc400116bbf76,Sean,Foreman,61c56a7092bcae001702a320,Sean,Foreman,7805 Hedgehop Dr | Zionsville | 46077 | US,ENES ASLAN,0.0
+6879fb6cd8cbc400116bbf76,Sean,Foreman,6548836fb4a6e60011487cce,Sean,Foreman,7805 Hedgehop Dr | Zionsville | 46077 | US,ENES ASLAN,0.0
+5a4cca038b6a34340c00f122,RAJNEEKANT,BARKHANE,5a37bcf191f404ce7100506f,RAJNEEKANT,BARKHANE,SONUBAKORIYA786@GMAIL.COM | Village Seelkanth Post Chinch | Nasrullaganj | 466331 | IN,DORMANT - Individual,0.0
+5b0c3fa36e10f300194b790a,Arseny,Lebedev,5bbca75f0d9c5a305886b34e,Arseny,Lebedev,bestgamesllc@gmail.com | 213 4th St | Hoboken | 7030 | US,DORMANT - Card Games For Free LLC,0.0
+59549ee7057372e63d0000c3,QinYuan,Tian,59549ee5057372e63d0000c2,QinYuan,Tian,tianqinyuan@126.com | ZhongNanHaiZhiYin 10-820 | zhengzhou | 450000 | CN,,0.0
+592ba2fd4554211a080003fa,Minh,Trinh,592bbe638acbdb9d1500087e,Minh,Trinh,757 3/2 street district 10 | Ho Chi Minh | 70350 | VN,DORMANT - MicroLink,0.0
+592ba2fd4554211a080003fa,Minh,Trinh,592bc19520a4b6b07600067b,Minh,Trinh,757 3/2 street district 10 | Ho Chi Minh | 70350 | VN,DORMANT - MicroLink,0.0
+58e265355ec902921a0018a0,ha,thoi,6221fa9f7e64d7001a023e70,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e265355ec902921a0018a0,ha,thoi,622235de1354050017624f6a,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e265355ec902921a0018a0,ha,thoi,62225c0f2bce1300171c0a9b,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e265355ec902921a0018a0,ha,thoi,6236b2b09d5a0f0018e835ac,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e265355ec902921a0018a0,ha,thoi,6236bfc79d5a0f0018e835c1,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e265355ec902921a0018a0,ha,thoi,62493ae2ec4817001976c3a9,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e265355ec902921a0018a0,ha,thoi,624d5e447ec26d00188d01a4,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e265355ec902921a0018a0,ha,thoi,628f85b5bc560a0010830832,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e265355ec902921a0018a0,ha,thoi,628f923b1038f30014d29d23,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e265355ec902921a0018a0,ha,thoi,62947f3e622563001a44cf5b,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e2667ac47123ab1a0011a4,ha,thoi,6221fa9f7e64d7001a023e70,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e2667ac47123ab1a0011a4,ha,thoi,622235de1354050017624f6a,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e2667ac47123ab1a0011a4,ha,thoi,62225c0f2bce1300171c0a9b,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e2667ac47123ab1a0011a4,ha,thoi,6236b2b09d5a0f0018e835ac,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e2667ac47123ab1a0011a4,ha,thoi,6236bfc79d5a0f0018e835c1,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e2667ac47123ab1a0011a4,ha,thoi,62493ae2ec4817001976c3a9,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e2667ac47123ab1a0011a4,ha,thoi,624d5e447ec26d00188d01a4,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e2667ac47123ab1a0011a4,ha,thoi,628f85b5bc560a0010830832,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e2667ac47123ab1a0011a4,ha,thoi,628f923b1038f30014d29d23,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58e2667ac47123ab1a0011a4,ha,thoi,62947f3e622563001a44cf5b,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+58f9847d72873c1f5500000f,NGUYEN,THAI HOA,58e2f21f4ca9603538001219,NGUYEN,THAI HOA,205689189 | thaihoangdhkientruc@gmail.com | THU DUC | HO CHI MINH | 700000 | VN,DORMANT - thihangnguyen1234,0.0
+58f9847d72873c1f5500000f,NGUYEN,THAI HOA,58e657732bdf625b370009de,NGUYEN,THAI HOA,205689189 | thaihoangdhkientruc@gmail.com | THU DUC | HO CHI MINH | 700000 | VN,DORMANT - thihangnguyen1234,0.0
+58f9847d72873c1f5500000f,NGUYEN,THAI HOA,58e658f4b0183f623b00072b,NGUYEN,THAI HOA,205689189 | thaihoangdhkientruc@gmail.com | THU DUC | HO CHI MINH | 700000 | VN,DORMANT - thihangnguyen1234,0.0
+58f9847d72873c1f5500000f,NGUYEN,THAI HOA,58ed936fc6f7dcfb5500181d,NGUYEN,THAI HOA,205689189 | thaihoangdhkientruc@gmail.com | THU DUC | HO CHI MINH | 700000 | VN,DORMANT - thihangnguyen1234,0.0
+58f9847d72873c1f5500000f,NGUYEN,THAI HOA,58f59ac4c00b3c833b000d3e,NGUYEN,THAI HOA,205689189 | thaihoangdhkientruc@gmail.com | THU DUC | HO CHI MINH | 700000 | VN,DORMANT - thihangnguyen1234,0.0
+58f59dfbeca76b6c3b0009b9,NGUYEN,THAI HOA,58e2f21f4ca9603538001219,NGUYEN,THAI HOA,205689189 | thaihoangdhkientruc@gmail.com | THU DUC | HO CHI MINH | 700000 | VN,DORMANT - nguyenxuanhoa,0.0
+58f59dfbeca76b6c3b0009b9,NGUYEN,THAI HOA,58e657732bdf625b370009de,NGUYEN,THAI HOA,205689189 | thaihoangdhkientruc@gmail.com | THU DUC | HO CHI MINH | 700000 | VN,DORMANT - nguyenxuanhoa,0.0
+58f59dfbeca76b6c3b0009b9,NGUYEN,THAI HOA,58e658f4b0183f623b00072b,NGUYEN,THAI HOA,205689189 | thaihoangdhkientruc@gmail.com | THU DUC | HO CHI MINH | 700000 | VN,DORMANT - nguyenxuanhoa,0.0
+58f59dfbeca76b6c3b0009b9,NGUYEN,THAI HOA,58ed936fc6f7dcfb5500181d,NGUYEN,THAI HOA,205689189 | thaihoangdhkientruc@gmail.com | THU DUC | HO CHI MINH | 700000 | VN,DORMANT - nguyenxuanhoa,0.0
+58f59dfbeca76b6c3b0009b9,NGUYEN,THAI HOA,58f59ac4c00b3c833b000d3e,NGUYEN,THAI HOA,205689189 | thaihoangdhkientruc@gmail.com | THU DUC | HO CHI MINH | 700000 | VN,DORMANT - nguyenxuanhoa,0.0
+58f59c69ddf892843b000e4d,NGUYEN,THAI HOA,58e2f21f4ca9603538001219,NGUYEN,THAI HOA,205689189 | thaihoangdhkientruc@gmail.com | THU DUC | HO CHI MINH | 700000 | VN,DORMANT - nguyenthihang,0.0
+58f59c69ddf892843b000e4d,NGUYEN,THAI HOA,58e657732bdf625b370009de,NGUYEN,THAI HOA,205689189 | thaihoangdhkientruc@gmail.com | THU DUC | HO CHI MINH | 700000 | VN,DORMANT - nguyenthihang,0.0
+58f59c69ddf892843b000e4d,NGUYEN,THAI HOA,58e658f4b0183f623b00072b,NGUYEN,THAI HOA,205689189 | thaihoangdhkientruc@gmail.com | THU DUC | HO CHI MINH | 700000 | VN,DORMANT - nguyenthihang,0.0
+58f59c69ddf892843b000e4d,NGUYEN,THAI HOA,58ed936fc6f7dcfb5500181d,NGUYEN,THAI HOA,205689189 | thaihoangdhkientruc@gmail.com | THU DUC | HO CHI MINH | 700000 | VN,DORMANT - nguyenthihang,0.0
+58f59c69ddf892843b000e4d,NGUYEN,THAI HOA,58f59ac4c00b3c833b000d3e,NGUYEN,THAI HOA,205689189 | thaihoangdhkientruc@gmail.com | THU DUC | HO CHI MINH | 700000 | VN,DORMANT - nguyenthihang,0.0
+59fb13eabe77065f5800ab0a,Muhammad,Ramzan,59d22bb57db92cc225001581,Muhammad,Ramzan,"PK47ASCM0001320100600948 | Office No.320, 3rd Floor Siddique Trade Center | Lahore | 54600 | PK",DORMANT - Kaizen Tech Studio,0.0
+59fb13eabe77065f5800ab0a,Muhammad,Ramzan,5a8a841b2257e6a471000788,Muhammad,Ramzan,"PK47ASCM0001320100600948 | Office No.320, 3rd Floor Siddique Trade Center | Lahore | 54600 | PK",DORMANT - Kaizen Tech Studio,0.0
+59ce131557b7064f1700049c,MASH,Pvt Ltd,5a71807ce9e0ac6c7e006ab5,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH Pvt Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - JS Productions,0.0
+59ce131557b7064f1700049c,MASH,Pvt Ltd,5b3b8978283b1411c9734eff,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH Pvt Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - JS Productions,0.0
+59ce131557b7064f1700049c,MASH,Pvt Ltd,5b4492a2f3ff661c61abbd6b,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH Pvt Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - JS Productions,0.0
+59ce131557b7064f1700049c,MASH,Pvt Ltd,5b73cd0e274f5b2f7bc433d1,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH Pvt Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - JS Productions,0.0
+59ce131557b7064f1700049c,MASH,Pvt Ltd,5bd325e1ed75b7795c488cff,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH Pvt Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - JS Productions,0.0
+59f3174bb75cdd9d48005de1,Muhammad,Ramzan,59d22bb57db92cc225001581,Muhammad,Ramzan,"PK47ASCM0001320100600948 | Office No.320, 3rd Floor Siddique Trade Center | Lahore | 54600 | PK",DORMANT - Kaizen Tech Studio,0.0
+59f3174bb75cdd9d48005de1,Muhammad,Ramzan,5a8a841b2257e6a471000788,Muhammad,Ramzan,"PK47ASCM0001320100600948 | Office No.320, 3rd Floor Siddique Trade Center | Lahore | 54600 | PK",DORMANT - Kaizen Tech Studio,0.0
+59e9a5915eea3ba93e0006b5,Guillaume,Panot,5a56b194590c32c2710157c5,Guillaume,Panot,"33, Amber Gardens, The Esta | Singapore | 439968 | SG",DORMANT - TOS LOCK - Giinger Pte Ltd,0.0
+6007f5375a888600156747c0,Harry,Berks,5e26d66093b6780018c8d117,Harry,Berks,kirstyrussel8@zohomail.eu | 10 REDWOOD CLOSE | LIVERPOOL | L25 2QS | GB,DORMANT - Little Ray,0.0
+5fcc8f9df44f910015995f27,Raemie,Denman,6538b5e81f514a0011d3edb6,Raemie,Denman,838 Lucille Ave | Memphis | 38106 | US,DORMANT - Raemie Denman,0.0
+601aa1b0eca1f300150d797e,Daniel,Cottee,5b86979db8f0b00f7b458474,Daniel,Cottee,"isaac.winterr@gmail.com | Flat 13 Clover Lodge, Talbot Close, Mitcham, | London | CR4 1FE | GB",,0.0
+5f5f7298352f2900152f8641,Nathan,Farrell,5e380ca4b3a15300172604ad,NATHAN,FARRELL,nfarrell452@zohomail.eu | 275 Ingram Road | Walsall | WS3 1LU | GB,DORMANT - Kreto,0.0
+5f5f7298352f2900152f8641,Nathan,Farrell,60cb68a013bcb50017c44d78,Nathan,Farrell,nfarrell452@zohomail.eu | 275 Ingram Road | Walsall | WS3 1LU | GB,DORMANT - Kreto,0.0
+5f4e72e241b5d1001541aca6,Mark,Delling,5e42d382057f780018142634,Mark,Delling,"markdelling8@zohomail.eu | 2 DIANE CLOSE, | EXMOUTH | EX8 5QG | GB",,0.0
+5f50daf9612b1a0015099070,Simon,Williams,5e302d76ca7728001709cd65,SIMON,WILLIAMS,"olukanyinsolap@zohomail.eu | 5 Usher Close, | Bedford | MK42 9DA | GB",DORMANT - Romano Games,0.0
+5f574ce110262a0015a34af0,Kathryn,Comer,60cb35ca751ffb00172a93ba,Kathryn,Comer,kcomer921@zohomail.eu | 5 FAIRVIEW TERRACE | YEOVIL | BA228EF | GB,DORMANT - Kostko,0.0
+5f5777e223872300151dd755,Richard,Blyth,5e359d95b3a15300172602c1,RICHARD,BLYTH,"timothyolufosoye@zohomail.eu | 40 HIGH STREET, | BUDLEIGH SALTERTON | EX9 6LQ | GB",DORMANT - Shvets,0.0
+5f58b9c123872300151dd7fe,Nicholas,Harding,5e396e051cb30b00111af351,NICHOLAS,HARDING,christopheradams616@zohomail.eu | 46 POUND LANE | EXETER | EX3 0NA | GB,DORMANT - Abano,0.0
+5f58b9c123872300151dd7fe,Nicholas,Harding,62723efdf2d4b90018ad8b73,Nicholas,Harding,christopheradams616@zohomail.eu | 46 POUND LANE | EXETER | EX3 0NA | GB,DORMANT - Abano,0.0
+5f689f17f832cf0015bf3624,Matthew,Knight,5e26f90e1039a900178cfef0,MATTHEW,KNIGHT,matthewknight480@zohomail.eu | 2A Woodruff Avenue | Guildford | GU1 1XS | GB,,0.0
+5fbbacb7ba624b0015a61670,Rossa,Murray,5b9bbcde02937a306464bd20,Rossa,Murray,"harlingterry3@gmail.com | 43 Ashmount Park, Portaferry | Belfast | BT221NR | GB",DORMANT - Kikhno,0.0
+602136d5eca1f300150d7cc4,Helen,Simmons,5dff615293b6780018c8b207,Helen,Simmons,"simmonsh944@gmail.com | 16 Lucerne Street, | Maidstone | ME14 1UE | GB",DORMANT - Nesvi Games,0.0
+6076f29cea2715001520c63a,Mark,Delling,5e42d382057f780018142634,Mark,Delling,markdelling8@zohomail.eu | 2 DIANE CLOSE | EXMOUTH | EX8 5QG | GB,DORMANT - kuzgun,0.0
+606c531e7a37680015801ab3,Charles,Usher,5e1997d693b6780018c8c674,Charles,Usher,"charlesu592@zohomail.eu | Greenacres, Fradley Lane, | Lichfield | WS13 8PD | GB",,0.0
+6065d560fbb3460015fb98fb,Francis,King,5e063ad0f48a8000183bc1f0,Francis,King,"laingh02@zohomail.eu | 43 TRAFALGAR ROAD, | SMETHWICK | B66 3SE | GB",DORMANT - Better Then Pasternak Company,0.0
+606ec3a88439220015634a04,Fergus,Macleod,5e1b446a93b6780018c8c724,FERGUS,MACLEOD,"fmacleod80@zohomail.eu | BENGEO OLD HOUSE, ST. LEONARDS ROAD | HERTFORD | SG143JW | GB",,0.0
+60585090fad788001555efb1,William,Downs,5c473c9c85818d7b5fe2ea48,William,Downs,areopagus203@gmail.com | 20a Roseangle | Dundee | DD1 4LR | GB,DORMANT - Rusetska Games,0.0
+606edf6514eb890015bd3193,Fergus,Macleod,5e1b446a93b6780018c8c724,FERGUS,MACLEOD,"fmacleod80@zohomail.eu | BENGEO OLD HOUSE, ST. LEONARDS ROAD | HERTFORD | SG143JW | GB",DORMANT - Yevdokiia Games,0.0
+60702309a69cd500159f1e78,Graham,Thornton,5e1dce467f4542001764aa18,Graham,Thornton,grahamthrntn@zohomail.eu | 10 Millfield Avenue | Newcastle upon Tyne | NE3 4SX | GB,DORMANT - oldpryshch,0.0
+607407072a0e9400159c5642,NICHOLAS,WITHEY,5e258c9a93b6780018c8cff9,NICHOLAS,WITHEY,"nwithey05@zohomail.eu | 52 GAYS ROAD, HANHAM, | BRISTOL | BS15 3JU | GB",,0.0
+607430c478790200153e86e7,ALEXANDER,HOBSON,5e2322556057ae0017e7ec4e,ALEXANDER,HOBSON,"weatherley202@zohomail.eu | 6 PARKWAY, | HUNTINGDON | PE29 6JB | GB",DORMANT - Krukland,0.0
+60744982f26ca90015b41220,Simon,Williams,5e302d76ca7728001709cd65,SIMON,WILLIAMS,olukanyinsolap@zohomail.eu | 5 Usher Close | Bedford | MK42 9DA | GB,DORMANT - Chebotkin Company,0.0
+6054a465544dff0015ffca5b,Joseph,Lewiston,5c1b9704f415214564bcf4b9,Joseph,Lewiston,"Aeternitas1225@gmail.com | 6 ANGERS CLOSE, WELLINGTON PARK | CAMBERLEY | GU15 1PU | GB",DORMANT - Mazan Prodaction,0.0
+60225d085f7a1200151b36bd,Frederick,Bacon,5b7e9efaa73f7a027c5515bf,Frederick,Bacon,"atmosphera212@gmail.com | 60 DOWLANS ROAD, BOOKHAM | LEATHERHEAD | KT23 4LE | GB",DORMANT - Riabchuk Games,0.0
+60225d085f7a1200151b36bd,Frederick,Bacon,64b2beebbedba60011a2d51e,Frederick,Bacon,"atmosphera212@gmail.com | 60 DOWLANS ROAD, BOOKHAM | LEATHERHEAD | KT23 4LE | GB",DORMANT - Riabchuk Games,0.0
+60228ee3c982120015fe3a7a,Timothy,Pearson,5b83ca0af3ed0b7869dd4685,Timothy,Pearson,"timothypearson089@gmail.com | Tigh na Craig, Perth Road | Crieff | PH7 3LR | GB",,0.0
+60228ee3c982120015fe3a7a,Timothy,Pearson,5e2062196057ae0017e7ea48,Timothy,Pearson,"timothypearson089@gmail.com | Tigh na Craig, Perth Road | Crieff | PH7 3LR | GB",,0.0
+6023d60eebad3c0015ff780d,Robert,Lord,5b76c8b91d83640f75a240f1,Robert,Lord,"atmosphera8@gmail.com | 12 DACRES ROAD, GREEN FIELD | OLDHAM | OL37HR | GB",DORMANT - Shubei Games,0.0
+60535148a9d54f0015f6f08b,Christopher,Hare,5bf80bf3c226ad7c3bd88d20,Christopher,Hare,"avverroys@gmail.com | 162C Tressillian Road, | London | SE4 1XY | GB",DORMANT - GoGoHamsterGames,0.0
+6049ddc7a9f5b900151b7839,HARTLEY,WOOLF,5b8545fc84107a788238dfb7,HARTLEY,WOOLF,"paramariboland@gmail.com | 2C SEYMOUR ROAD, HAMPTON HILL | London | TW12 1DD | GB",DORMANT - Sklada Inc,0.0
+604f24343f9ad40015309e0e,Jacob,Lloyd,5b965ea4d3dd443ba8ad45a4,Jacob,Lloyd,guddechristopher@gmail.com | 34 Glen Eldon Rd | Lytham Saint Annes | FY8 2AX | GB,DORMANT - Garan Games,0.0
+604f4e3d4f898b00151e298f,Sharon,Harris,5bd9b14febaf58797f4cba91,Sharon,Harris,"marakabara18@gmail.com | WESTALLS, ROSE HILL, BURNHAM, | SLOUGH | SL1 8LN | GB",DORMANT - Hnatovskyi Games,0.0
+5f4525ba5f92bb0016ad67c4,John,Law,60d1e4137374180017e373f0,John,Law,"socraticus079@zohomail.eu | 8 St. Ninians Avenue, | STRANRAER | DG9 7BD | GB",DORMANT - Myko,0.0
+5f410aa0d9b12800154a449c,HEATHER,HALE,60e328910e37a20017e8cb12,Heather,Hale,haleheather733@zohomail.eu | 8A Royal Crescent | EDINBURGH | EH3 6PZ | GB,DORMANT - Klym,0.0
+5d39aa7ec0ab1c001871b4fd,Blake,Eckert,5de82642923156001830e02b,Blake,Eckert,4682 Carrington Way | Hilliard | 43026 | US,"DORMANT - Casual Game Factory, Inc.",0.0
+5d81debc6db2940018d55867,Timur,Latfulin,5d2339316102cf001758609a,Timur,Latfulin,"Kalvarijskaya str. 21/3, room 3 | Minsk | 220004 | BY",,0.0
+5f3a52f3d9b12800154a4110,Bethany,Martin,6108f93f6dc11100176f2d3f,Bethany,Martin,"mbethany000@zohomail.eu | THE GRANGE, CHURCH STREET, | Nottingham | NG13 9EL | GB",DORMANT - Yakov Studio,0.0
+5e4ed59a35080300173bd91f,HEATHER,HALE,60e328910e37a20017e8cb12,Heather,Hale,haleheather733@zohomail.eu | 8A Royal Crescent | EDINBURGH | EH3 6PZ | GB,DORMANT - Heather Inc,0.0
+5e4577da002bb800174413fe,John,Law,60d1e4137374180017e373f0,John,Law,"socraticus079@zohomail.eu | 8 St. Ninians Avenue, | STRANRAER | DG9 7BD | GB",DORMANT - Socraticus,0.0
+5e3bfc1805f4f20011e32f9e,KATHRYN,COMER,60cb35ca751ffb00172a93ba,Kathryn,Comer,"kcomer921@zohomail.eu | 5 FAIRVIEW TERRACE, | YEOVIL | BA228EF | GB",DORMANT - KComer Inc,0.0
+60755df89c67950015c42136,Charles,Usher,5e1997d693b6780018c8c674,Charles,Usher,"charlesu592@zohomail.eu | Greenacres, Fradley Lane | Lichfield | WS13 8PD | GB",DORMANT - Kopolovets Corporation,0.0
+6078236a1861220015a5b871,Matthew,Knight,5e26f90e1039a900178cfef0,MATTHEW,KNIGHT,"matthewknight480@zohomail.eu | 2A Woodruff Avenue, | Guildford | GU1 1XS | GB",DORMANT - matsufox,0.0
+61efb3c5c27e9b00172b2209,Brandon,Wikoff,68e4b12e6d4c560304427fc1,Brandon,Wikoff,2208 W 50th St | Westwood Hills | 66205 | US,Adam Bellow,0.0
+61f5fc1931b32d00172db023,Jim,Walters,68e4c8f541fccb5b1d1af6b0,Jim,Walters,6522 Oxford Drive | Zionsville | 46077 | US,DORMANT - Supreme Gravity,0.0
+61f602784f72ed00174518fe,Mike,Hamelmann,68e4cc8d5c2c66c2398b67e0,Mike,Hamelmann,30 Williamsburg Ct. | Zionsville | 46077 | US,,0.0
+61efaf8571f1b70017b5e3c9,Chris,Herrin,68e4969c929af3ce1804ce6a,Chris,Herrin,775 BUCKWOOD DR | CHOCTAW | 73020 | US,DORMANT - Meka S,0.0
+6213411fe38a25001b1db574,Amber,Tegtmeyer,68e73263c3d07d29fcc829eb,Amber,Tegtmeyer,769 S Forest Drive | Terre Haute | 47803 | US,DORMANT - Aamir Hussain,0.0
+621ee82baec70c0014205091,Denny,Williams,68e9bcd294a2ed8b65446807,Denny,Williams,14805 N 148 East Ave | Collinsville | 74021 | US,DORMANT - Ghislain Pellegrin,0.0
+621f26ddaec70c0014205289,Timmy,Verschuren,68e9d83f4cac2a9dc324ec8f,Timmy,Verschuren,60 East Hanover ave b2 | Hanover | 7950 | US,DORMANT - Roei Barassi,0.0
+61efb1670931e300176c670c,Casey,Vohs,68e4af66929af3ce1804cf60,Casey,Vohs,4174 W 255th St | Louisburg | 66053 | US,DORMANT - Geert Docter,0.0
+61efad5dfcf04300170e8f1e,Craig,Griffith,68e494925c2c66c2398b64d4,Craig,Griffith,1821 Bermuda Dr. | Newcastle | 73065 | US,funcell Games Pvt Ltd,0.0
+6222c3900609470017168f0c,Phillip,Walker,68eb027f94a2ed8b6544732f,Phillip,Walker,3001 Oak Leaf Dr. | Adrian | 49221 | US,DORMANT - duong duc,0.0
+61e90d3dcc53a00017ae3a92,Jessica,Norfleet,68a691a4a36e231aa2a634ab,Jessica,Norfleet,9149 Harrison Run Pl | Indianapolis | 46256 | US,DORMANT - Alexander Blohme,0.0
+61e90d3dcc53a00017ae3a92,Jessica,Norfleet,68e1d59d41fccb5b1d1adaf8,Jessica,Norfleet,9149 Harrison Run Pl | Indianapolis | 46256 | US,DORMANT - Alexander Blohme,0.0
+61e123474a3cdf00170f2dc6,Derrick,Holmes,689c40eff5c1a414d4383f36,Derrick,Holmes,2265 Grand Prix Dr. Apt. E | Indianapolis | 46224 | US,DORMANT - Hector Peralta,0.0
+61e1279e202b9b0017cfa8ee,Jessica,Whitesell,689c5314b6fc10316a4434d3,Jessica,Whitesell,8405 N Yosemite Dr | Muncie | 47303 | US,DORMANT - Zero Point Ventures LLC,0.0
+61e1279e202b9b0017cfa8ee,Jessica,Whitesell,68db9cdbce776c94c147b371,Jessica,Whitesell,8405 N Yosemite Dr | Muncie | 47303 | US,DORMANT - Zero Point Ventures LLC,0.0
+61e1293094635f00175ec6b3,Jason,Troutman,689d32e15bd48dd7f5155415,Jason,Troutman,513 N L St | Duncan | 73533 | US,DORMANT - Francisco Reinosa Sanchez,0.0
+61e1293094635f00175ec6b3,Jason,Troutman,68dc7b75ce776c94c147bd22,Jason,Troutman,513 N L St | Duncan | 73533 | US,DORMANT - Francisco Reinosa Sanchez,0.0
+61e24153cbe9ca001758282f,Tania,Bengtsson,68dc99695c2c66c2398b18c1,Tania,Bengtsson,10239 Red Raspberry Lane | Granger | 46530 | US,DORMANT - Anthony Pauriche,0.0
+61e530fc94635f00175ec9ac,Adam,Kruckenberg,68a3f2b007ea9e2f1410e3fa,Adam,Kruckenberg,957 Carmen Road | Sugar Grove | 60554 | US,DORMANT - Tomato Boy LLC,0.0
+61e9138195a804001751b0ce,Jeff,Gibbs,68a6bdd507ea9e2f14111189,Jeff,Gibbs,17034 Flinchum Way E. | Noblesville | 46062 | US,DORMANT - Igor Zharii,0.0
+61e9138195a804001751b0ce,Jeff,Gibbs,68e1ec6d46a65763a2bad050,Jeff,Gibbs,17034 Flinchum Way E. | Noblesville | 46062 | US,DORMANT - Igor Zharii,0.0
+61ef6c77087c7b00176ebda4,Brian,Monahan,68e48637929af3ce1804cdc8,Brian,Monahan,9686 Bellflower Dr. | Zionsville | 46077 | US,DORMANT - Jeremy Sharvit,0.0
+61ee5ceca83be80017a8c942,Jessica,Olinger,68e33b016d4c560304426fc4,Jessica,Olinger,1498 West Olson Road | Rochester | 46975 | US,DORMANT - Chongbin Zhai,0.0
+61ee64ed9721ad0017d1c6f0,Adam,Heather,68aa7ec22b9f98f8f9ffd7f6,Adam,Heather,3230 n 123rd ter | kansas city | 66109 | US,DORMANT - Hadi Mohammadi Daniali,0.0
+61ee64ed9721ad0017d1c6f0,Adam,Heather,68e462a95c2c66c2398b62a7,Adam,Heather,3230 n 123rd ter | kansas city | 66109 | US,DORMANT - Hadi Mohammadi Daniali,0.0
+61ef625771f1b70017b5e36d,Ryan,Roberts,68e47914929af3ce1804cd19,Ryan,Roberts,1702 NE Oakridge Dr. | Claremore | 74017 | US,DORMANT - Mui Cao,0.0
+6220872c1acbf4001759d25e,Sharon,Rementer,68ea1f174cac2a9dc324f096,Sharon,Rementer,251 Ravenwood Drive | Cape May Court House | 8210 | US,"DORMANT - Primordial Art Studios, (Pty) Ltd",0.0
+62dd8db71d1d7d001a7f9435,Svetoslav,Bramchev,62e84a9ae85cb7001bb8b2fe,Svetoslav,Bramchev,"38  Str Damyan Gruev, Sofia, 1606 | Sofia | 1606 | BG",DORMANT - Techmobile Solutions LTD,0.0
+622eea728dd22300131b5148,Enrico,Cundari,6221c96aff9c39001a63f360,Enrico,Cundari,28 Tomahawk Trail | Denville | 7834 | US,DORMANT - Biser Markov,0.0
+622eea728dd22300131b5148,Enrico,Cundari,68ec999d28ef88362377af34,Enrico,Cundari,28 Tomahawk Trail | Denville | 7834 | US,DORMANT - Biser Markov,0.0
+623040ea06e94b00112164af,Brad,Barnett,68ecb7564cac2a9dc32505e8,Brad,Barnett,2603 Hampton Ave. | Tupelo | 38801 | US,DORMANT - Kamil Kuza,0.0
+62502f5c1278c90011d32806,ha,thoi,6221fa9f7e64d7001a023e70,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+62502f5c1278c90011d32806,ha,thoi,622235de1354050017624f6a,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+62502f5c1278c90011d32806,ha,thoi,62225c0f2bce1300171c0a9b,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+62502f5c1278c90011d32806,ha,thoi,6236b2b09d5a0f0018e835ac,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+62502f5c1278c90011d32806,ha,thoi,6236bfc79d5a0f0018e835c1,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+62502f5c1278c90011d32806,ha,thoi,62493ae2ec4817001976c3a9,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+62502f5c1278c90011d32806,ha,thoi,624d5e447ec26d00188d01a4,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+62502f5c1278c90011d32806,ha,thoi,628f85b5bc560a0010830832,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+62502f5c1278c90011d32806,ha,thoi,628f923b1038f30014d29d23,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+62502f5c1278c90011d32806,ha,thoi,62947f3e622563001a44cf5b,ha,thoi,thoihajp2021@gmail.com | que loc | quang nam | 563170 | VN,,0.0
+6267cef8d2cd9200184e4dc6,Fergus,Macleod,5e1b446a93b6780018c8c724,FERGUS,MACLEOD,"fmacleod80@zohomail.eu | BENGEO OLD HOUSE, ST. LEONARDS ROAD | HERTFORD | SG143JW | GB",DORMANT - Korolova Gaming,0.0
+6271279df2a1b7001852b56f,Simon,Williams,5e302d76ca7728001709cd65,SIMON,WILLIAMS,olukanyinsolap@zohomail.eu | 5 Usher Close | Bedford | MK42 9DA | GB,DORMANT - Shooting Field,0.0
+61e0f2f6fbc4490017d9a981,Kyle,Najera,689c31ffe74c64176245ad8c,Kyle,Najera,6021 s 60th west ave | Tulsa | 74107 | US,DORMANT - Nguyen Hoan,0.0
+61e0f2f6fbc4490017d9a981,Kyle,Najera,68db8e38929af3ce18047447,Kyle,Najera,6021 s 60th west ave | Tulsa | 74107 | US,DORMANT - Nguyen Hoan,0.0
+61e0f2f6fbc4490017d9a981,Kyle,Najera,68db92765c2c66c2398b0d46,Kyle,Najera,6021 s 60th west ave | Tulsa | 74107 | US,DORMANT - Nguyen Hoan,0.0
+61e0e190e46713001791d329,Tom,Harlow,61e0e6a7cbe9ca001758272a,Tom,Harlow,5720 Newhall Drive | INDIANAPOLIS | 46239 | US,DORMANT - Erick Boulay,0.0
+61e0e190e46713001791d329,Tom,Harlow,689c08a11922d2ece237dfc3,Tom,Harlow,5720 Newhall Drive | INDIANAPOLIS | 46239 | US,DORMANT - Erick Boulay,0.0
+61e0e190e46713001791d329,Tom,Harlow,68db8441929af3ce18047313,Tom,Harlow,5720 Newhall Drive | INDIANAPOLIS | 46239 | US,DORMANT - Erick Boulay,0.0
+61e0de1285bb970017131337,Bradley,Masters,68996c2bc73248162d31ae14,Bradley,Masters,5117 Oaks West Ct. | Fort Wayne | 46845 | US,DORMANT - Dariusz Mlodnicki,0.0
+61e0de1285bb970017131337,Bradley,Masters,68d500f7d5c74a3f8a3ee5de,Bradley,Masters,5117 Oaks West Ct. | Fort Wayne | 46845 | US,DORMANT - Dariusz Mlodnicki,0.0
+60e3d45d13bcb50017c45bd2,Tuan,Kiet,60b4a91246f08d001731c60e,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3d45d13bcb50017c45bd2,Tuan,Kiet,60e3b8531fdb430017410319,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3d45d13bcb50017c45bd2,Tuan,Kiet,60e3bd88c34dd60017592615,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3d45d13bcb50017c45bd2,Tuan,Kiet,60e3c19ac34dd6001759261d,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3d45d13bcb50017c45bd2,Tuan,Kiet,60e3c52d53cf84001770fc77,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3c94813bcb50017c45bc2,Tuan,Kiet,60b4a91246f08d001731c60e,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3c94813bcb50017c45bc2,Tuan,Kiet,60e3b8531fdb430017410319,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3c94813bcb50017c45bc2,Tuan,Kiet,60e3bd88c34dd60017592615,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3c94813bcb50017c45bc2,Tuan,Kiet,60e3c19ac34dd6001759261d,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3c94813bcb50017c45bc2,Tuan,Kiet,60e3c52d53cf84001770fc77,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3cc7ec34dd6001759262c,Tuan,Kiet,60b4a91246f08d001731c60e,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3cc7ec34dd6001759262c,Tuan,Kiet,60e3b8531fdb430017410319,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3cc7ec34dd6001759262c,Tuan,Kiet,60e3bd88c34dd60017592615,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3cc7ec34dd6001759262c,Tuan,Kiet,60e3c19ac34dd6001759261d,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3cc7ec34dd6001759262c,Tuan,Kiet,60e3c52d53cf84001770fc77,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3cf6677d78e001744cee0,Tuan,Kiet,60b4a91246f08d001731c60e,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3cf6677d78e001744cee0,Tuan,Kiet,60e3b8531fdb430017410319,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3cf6677d78e001744cee0,Tuan,Kiet,60e3bd88c34dd60017592615,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3cf6677d78e001744cee0,Tuan,Kiet,60e3c19ac34dd6001759261d,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3cf6677d78e001744cee0,Tuan,Kiet,60e3c52d53cf84001770fc77,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3d79a0e37a20017e8cb9c,Tuan,kiet,60b4a91246f08d001731c60e,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3d79a0e37a20017e8cb9c,Tuan,kiet,60e3b8531fdb430017410319,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3d79a0e37a20017e8cb9c,Tuan,kiet,60e3bd88c34dd60017592615,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3d79a0e37a20017e8cb9c,Tuan,kiet,60e3c19ac34dd6001759261d,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e3d79a0e37a20017e8cb9c,Tuan,kiet,60e3c52d53cf84001770fc77,Tuan,Kiet,Tuankiet1094@gmail.com | 441 ha huy tap | Da nang | 550000 | VN,,0.0
+60e9a96f77d78e001744d358,Mayuresh,Bhandari,60dfdb138d36370017709cc0,Mayuresh,Bhandari,"bhandari4812@gmail.com | Chandre ,Tal - Radhanagari ,Dist- Kolhapur | Kolhapur | 416221 | IN",,0.0
+61015f8f885bd3001740f8e2,Fiona,Long,60feddcac280bd0017e33693,Fiona,Long,"Flat 29 Meadow Court, Hackness Road | Manchester | M21 9HH | GB",DORMANT - Tymoshenko Corporation,0.0
+61df9c63eabd16001728b1c7,Eric,Kaschinske,689578be3e368059bc2b5433,Eric,Kaschinske,6502 Landmark Dr. | Fort Wayne | 46815 | US,Botabot Limited,0.0
+61df9c63eabd16001728b1c7,Eric,Kaschinske,68d4aeded5c74a3f8a3edf11,Eric,Kaschinske,6502 Landmark Dr. | Fort Wayne | 46815 | US,Botabot Limited,0.0
+61df9c63eabd16001728b1c7,Eric,Kaschinske,68d4b76ad5c74a3f8a3edfdf,Eric,Kaschinske,6502 Landmark Dr. | Fort Wayne | 46815 | US,Botabot Limited,0.0
+608153750f55890015dd1b26,Richard,Blyth,5e359d95b3a15300172602c1,RICHARD,BLYTH,timothyolufosoye@zohomail.eu | 40 HIGH STREET | BUDLEIGH SALTERTON | EX9 6LQ | GB,DORMANT - Ponomarov Company,0.0
+607edbb381af860015f0d860,Timothy,Pearson,5b83ca0af3ed0b7869dd4685,Timothy,Pearson,"timothypearson089@gmail.com | Tigh na Craig, Perth Road | Crieff | PH7 3LR | GB",DORMANT - Chepiha Industry,0.0
+607edbb381af860015f0d860,Timothy,Pearson,5e2062196057ae0017e7ea48,Timothy,Pearson,"timothypearson089@gmail.com | Tigh na Craig, Perth Road | Crieff | PH7 3LR | GB",DORMANT - Chepiha Industry,0.0
+607fda336079530015c5894a,FRANCIS,KING,5e063ad0f48a8000183bc1f0,Francis,King,"laingh02@zohomail.eu | 43 TRAFALGAR ROAD, | SMETHWICK | B66 3SE | GB",DORMANT - Savchenko Production Team,0.0
+607fe2366079530015c58956,YESEO,PARK,5b6a43823a5ab61db2c22984,Yeseo,PARK,"152, Pangyoyeok-ro, Bundang-gu | Seongnam-si | 13529 | KR",DORMANT - Kakao Games Corp.,0.0
+607fed6c6079530015c58963,YESEO,PARK,5b6a43823a5ab61db2c22984,Yeseo,PARK,"152, Pangyoyeok-ro, Bundang-gu | Seongnam-si | 13529 | KR",DORMANT - Kakao Games Corp.,0.0
+607ff260ec0f2d001591b2cd,YESEO,PARK,5b6a43823a5ab61db2c22984,Yeseo,PARK,"180011789948 | 152, Pangyoyeok-ro, Bundang-gu | Seongnam-si | 13529 | KR",DORMANT - Kakao Games Corp.,0.0
+607ff9e5ff34630016b7df6e,Nicholas,Harding,5e396e051cb30b00111af351,NICHOLAS,HARDING,christopheradams616@zohomail.eu | 46 POUND LANE | EXETER | EX3 0NA | GB,DORMANT - Karambola Evg,0.0
+607ff9e5ff34630016b7df6e,Nicholas,Harding,62723efdf2d4b90018ad8b73,Nicholas,Harding,christopheradams616@zohomail.eu | 46 POUND LANE | EXETER | EX3 0NA | GB,DORMANT - Karambola Evg,0.0
+6081839882eb7600153be4b9,NICHOLAS,WITHEY,5e258c9a93b6780018c8cff9,NICHOLAS,WITHEY,"nwithey05@zohomail.eu | 52 GAYS ROAD, HANHAM | BRISTOL | BS15 3JU | GB",DORMANT - Login Games,0.0
+609104b5b33a50001533d24e,ALEXANDER,HOBSON,5e2322556057ae0017e7ec4e,ALEXANDER,HOBSON,"weatherley202@zohomail.eu | 6 PARKWAY, | HUNTINGDON | PE29 6JB | GB",DORMANT - NewWay Production,0.0
+6093a645aeccd800157fe182,EUAN,PARK,5e38226fbf37cd0017440cc4,Euan,Park,aristokratikus4@zohomail.eu | 55 HILLVIEW DRIVE | GLASGOW | G76 7JQ | GB,DORMANT - CozyGarden,0.0
+609799957561710015b27972,Yaroslav,Svirsky,666f6292cbf9b5001145cf05,Yaroslav,Svirsky,9 Priory way | Datchet | SL39JQ | GB,DORMANT - qipgames,0.0
+61b9ec90c74d090017b105a1,Emilie,Harley,5b7c046dc8188a787c9174b5,Emilie,Harley,harleyemily855@gmail.com | 33 WOODLANDS PARK ROAD | London | N15 3SB | GB,DORMANT - Duboviy Corp,0.0
+61c933a1c8510c00178ebaa8,Jessica,Bennett,654c8a711f514a0011d4fe93,Jessica,Bennett,17832 Grassy Branch Rd | Westfield | 46074 | US,DORMANT - Chris Chen,0.0
+61c933a1c8510c00178ebaa8,Jessica,Bennett,688aee1294185532b391b4d8,Jessica,Bennett,17832 Grassy Branch Rd | Westfield | 46074 | US,DORMANT - Chris Chen,0.0
+61cacbfafe4ec600172e5f00,Nathan,Willey,688c3d3694185532b391c7e0,Nathan,Willey,2136 Friendship Dr | Indianapolis | 46217 | US,"DORMANT - Aesthetician Labs, LLC",0.0
+61de7c5baeb6060018703ad8,Jill,Trudo,688d5e35206ad6dea34bf883,Jill,Trudo,7609 North River Road | Freeland | 48623 | US,DORMANT - Mathias Leimhofer,0.0
+61de7c5baeb6060018703ad8,Jill,Trudo,68d35c38a6eceade8070ab82,Jill,Trudo,7609 North River Road | Freeland | 48623 | US,DORMANT - Mathias Leimhofer,0.0
+61de8a5d214d270017895302,Julie,Cwikla,688d73a6c446f77fe6eacc5b,Julie,Cwikla,3815 Bergerac Lane | Ocean Springs | 39564 | US,DORMANT - Dmitriy Kokorev,0.0
+61de8a5d214d270017895302,Julie,Cwikla,68d365517336158b495b0f75,Julie,Cwikla,3815 Bergerac Lane | Ocean Springs | 39564 | US,DORMANT - Dmitriy Kokorev,0.0
+61df958bc690c8001787c83e,John,Harb,68d49f851f9402a230fd2c24,John,Harb,55 Manor Rd. | Bloomfield Hills | 48304 | US,DORMANT - Dmitriy Bulaev,0.0
+6177bbf6d4173a0017f0fe77,Graham,Thornton,5e1dce467f4542001764aa18,Graham,Thornton,grahamthrntn@zohomail.eu | 10 Millfield Avenue | Newcastle upon Tyne | NE3 4SX | GB,DORMANT - advaycorp,0.0
+616d43468f3d8f0010e66c39,Matthew,Sheehy,5fad7f4997eada0015417ba9,MATTHEW,SHEEHY,msheehy299@zohomail.com | 1 Dove House Crescent | SLOUGH | SL2 2PZ | GB,DORMANT - riotprostud,0.0
+613f4c86a6f1100010dd0900,Liane,Cockram,5b685e3841c1e71dc51befaa,Liane,Cockram,liane.cockram@gmail.com | 125 Wellington Road | London | E6 6EB | GB,DORMANT - youthgames,0.0
+5b61b332f58790294f7f4096,MASH,PVT Ltd,5a71807ce9e0ac6c7e006ab5,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH PVT Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - phosphenesgames,0.0
+5b61b332f58790294f7f4096,MASH,PVT Ltd,5b3b8978283b1411c9734eff,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH PVT Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - phosphenesgames,0.0
+5b61b332f58790294f7f4096,MASH,PVT Ltd,5b4492a2f3ff661c61abbd6b,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH PVT Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - phosphenesgames,0.0
+5b61b332f58790294f7f4096,MASH,PVT Ltd,5b73cd0e274f5b2f7bc433d1,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH PVT Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - phosphenesgames,0.0
+5b61b332f58790294f7f4096,MASH,PVT Ltd,5bd325e1ed75b7795c488cff,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH PVT Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - phosphenesgames,0.0
+5b5ec77ba22b635d95871f94,sang,ngo,5b2e6998e21f355c8aab326c,Sang,Ngo,ngovusang04@outlook.com | 548 pham van dong | ho chi minh | 700000 | VN,DORMANT - lalon mamay,0.0
+5b5ec77ba22b635d95871f94,sang,ngo,5b3859000cbb6e2a49bb3e9d,sang,ngo,ngovusang04@outlook.com | 548 pham van dong | ho chi minh | 700000 | VN,DORMANT - lalon mamay,0.0
+5b5ec77ba22b635d95871f94,sang,ngo,5b4614ec0cbb6e2a49bc2354,Sang,Ngo,ngovusang04@outlook.com | 548 pham van dong | ho chi minh | 700000 | VN,DORMANT - lalon mamay,0.0
+5b5ec77ba22b635d95871f94,sang,ngo,5b53dfb746fa6705201b4727,sang,ngo,ngovusang04@outlook.com | 548 pham van dong | ho chi minh | 700000 | VN,DORMANT - lalon mamay,0.0
+5b5ec77ba22b635d95871f94,sang,ngo,5b557f9b7755d2213ea94bda,sang,ngo,ngovusang04@outlook.com | 548 pham van dong | ho chi minh | 700000 | VN,DORMANT - lalon mamay,0.0
+5b5ec77ba22b635d95871f94,sang,ngo,5b58456324475f0ca5458552,sang,ngo,ngovusang04@outlook.com | 548 pham van dong | ho chi minh | 700000 | VN,DORMANT - lalon mamay,0.0
+5b67b1efd060da7644ca7c02,Hung,Mai,5b37618f1e006711c328a975,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - henry jarnet,0.0
+5b67b1efd060da7644ca7c02,Hung,Mai,5b48634d0a8d077c9e57fd2b,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - henry jarnet,0.0
+5b67b1efd060da7644ca7c02,Hung,Mai,5b989c5e667da26fa141d594,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - henry jarnet,0.0
+5b67b1efd060da7644ca7c02,Hung,Mai,5b9e7d19ea805c073fedfca5,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - henry jarnet,0.0
+5b67b1efd060da7644ca7c02,Hung,Mai,5ba225adb6cf0004356719a8,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - henry jarnet,0.0
+5b7243e201271d0c233d6625,sang,ngo,5b2e6998e21f355c8aab326c,Sang,Ngo,548 pham van dong | ho chi minh | 700000 | VN,DORMANT - Stephenxp Xereas,0.0
+5b7243e201271d0c233d6625,sang,ngo,5b3859000cbb6e2a49bb3e9d,sang,ngo,548 pham van dong | ho chi minh | 700000 | VN,DORMANT - Stephenxp Xereas,0.0
+5b7243e201271d0c233d6625,sang,ngo,5b4614ec0cbb6e2a49bc2354,Sang,Ngo,548 pham van dong | ho chi minh | 700000 | VN,DORMANT - Stephenxp Xereas,0.0
+5b7243e201271d0c233d6625,sang,ngo,5b53dfb746fa6705201b4727,sang,ngo,548 pham van dong | ho chi minh | 700000 | VN,DORMANT - Stephenxp Xereas,0.0
+5b7243e201271d0c233d6625,sang,ngo,5b58456324475f0ca5458552,sang,ngo,548 pham van dong | ho chi minh | 700000 | VN,DORMANT - Stephenxp Xereas,0.0
+5b763ecb79cb08055bdd429c,Hung,Mai,5b37618f1e006711c328a975,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - Michellesh Campbell,0.0
+5b763ecb79cb08055bdd429c,Hung,Mai,5b48634d0a8d077c9e57fd2b,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - Michellesh Campbell,0.0
+5b763ecb79cb08055bdd429c,Hung,Mai,5b989c5e667da26fa141d594,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - Michellesh Campbell,0.0
+5b763ecb79cb08055bdd429c,Hung,Mai,5b9e7d19ea805c073fedfca5,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - Michellesh Campbell,0.0
+5b763ecb79cb08055bdd429c,Hung,Mai,5ba225adb6cf0004356719a8,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - Michellesh Campbell,0.0
+5b2fb848df617023a0c2da1b,Hung,Mai,5b37618f1e006711c328a975,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - Tuan Pham,0.0
+5b2fb848df617023a0c2da1b,Hung,Mai,5b48634d0a8d077c9e57fd2b,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - Tuan Pham,0.0
+5b2fb848df617023a0c2da1b,Hung,Mai,5b989c5e667da26fa141d594,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - Tuan Pham,0.0
+5b2fb848df617023a0c2da1b,Hung,Mai,5b9e7d19ea805c073fedfca5,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - Tuan Pham,0.0
+5b2fb848df617023a0c2da1b,Hung,Mai,5ba225adb6cf0004356719a8,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - Tuan Pham,0.0
+5ba22e11a4ae3604537a84eb,MASH,PVT Ltd,5a71807ce9e0ac6c7e006ab5,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH PVT Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - Gaming Speck Inc.,0.0
+5ba22e11a4ae3604537a84eb,MASH,PVT Ltd,5b3b8978283b1411c9734eff,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH PVT Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - Gaming Speck Inc.,0.0
+5ba22e11a4ae3604537a84eb,MASH,PVT Ltd,5b4492a2f3ff661c61abbd6b,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH PVT Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - Gaming Speck Inc.,0.0
+5ba22e11a4ae3604537a84eb,MASH,PVT Ltd,5b73cd0e274f5b2f7bc433d1,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH PVT Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - Gaming Speck Inc.,0.0
+5ba22e11a4ae3604537a84eb,MASH,PVT Ltd,5bd325e1ed75b7795c488cff,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH PVT Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - Gaming Speck Inc.,0.0
+5b7950ecf3ed0b7869dcf645,Hung,Mai,5b37618f1e006711c328a975,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - SHAWNpyWOODY,0.0
+5b7950ecf3ed0b7869dcf645,Hung,Mai,5b48634d0a8d077c9e57fd2b,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - SHAWNpyWOODY,0.0
+5b7950ecf3ed0b7869dcf645,Hung,Mai,5b989c5e667da26fa141d594,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - SHAWNpyWOODY,0.0
+5b7950ecf3ed0b7869dcf645,Hung,Mai,5b9e7d19ea805c073fedfca5,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - SHAWNpyWOODY,0.0
+5b7950ecf3ed0b7869dcf645,Hung,Mai,5ba225adb6cf0004356719a8,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - SHAWNpyWOODY,0.0
+5c8214b0719dae424ee82d72,MASH,PVT Ltd,5a71807ce9e0ac6c7e006ab5,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH PVT Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - Whooosh Games,0.0
+5c8214b0719dae424ee82d72,MASH,PVT Ltd,5b3b8978283b1411c9734eff,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH PVT Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - Whooosh Games,0.0
+5c8214b0719dae424ee82d72,MASH,PVT Ltd,5b4492a2f3ff661c61abbd6b,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH PVT Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - Whooosh Games,0.0
+5c8214b0719dae424ee82d72,MASH,PVT Ltd,5b73cd0e274f5b2f7bc433d1,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH PVT Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - Whooosh Games,0.0
+5c8214b0719dae424ee82d72,MASH,PVT Ltd,5bd325e1ed75b7795c488cff,MASH,PVT Ltd,PK61SCBL0000001717262801 | SUIT NO 22 2nd Floor Leeds Centre | Lahore | 54000 | PK | MASH PVT Ltd | 12/4/1988 7:00:00 PM | PK,DORMANT - Whooosh Games,0.0
+5b831e7dc563052f81ef62da,Helen,Simmons,5dff615293b6780018c8b207,Helen,Simmons,"simmonsh944@gmail.com | 16 Lucerne Street, | Maidstone | ME14 1UE | GB",DORMANT - Appmore,0.0
+5b817397b8f0b00f7b45472e,Hung,Mai,5b37618f1e006711c328a975,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - VincentmlYoung,0.0
+5b817397b8f0b00f7b45472e,Hung,Mai,5b48634d0a8d077c9e57fd2b,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - VincentmlYoung,0.0
+5b817397b8f0b00f7b45472e,Hung,Mai,5b989c5e667da26fa141d594,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - VincentmlYoung,0.0
+5b817397b8f0b00f7b45472e,Hung,Mai,5b9e7d19ea805c073fedfca5,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - VincentmlYoung,0.0
+5b817397b8f0b00f7b45472e,Hung,Mai,5ba225adb6cf0004356719a8,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - VincentmlYoung,0.0
+5b7d76fa52c5170f6e961fe4,Pavel,Tikhomirov,5b7d76f852c5170f6e961fe3,Pavel,Tikhomirov,blackjack.blackcity@gmail.com | blackjack.blackcity@gmail.com | 14 Serova str. office 12 | Krasnodar | 350880 | RU,,0.0
+5b7e39dc6ec8de0561557357,Hung,Mai,5b37618f1e006711c328a975,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - JessicaszWright,0.0
+5b7e39dc6ec8de0561557357,Hung,Mai,5b48634d0a8d077c9e57fd2b,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - JessicaszWright,0.0
+5b7e39dc6ec8de0561557357,Hung,Mai,5b989c5e667da26fa141d594,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - JessicaszWright,0.0
+5b7e39dc6ec8de0561557357,Hung,Mai,5b9e7d19ea805c073fedfca5,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - JessicaszWright,0.0
+5b7e39dc6ec8de0561557357,Hung,Mai,5ba225adb6cf0004356719a8,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - JessicaszWright,0.0
+5b7e3add45fac70568885220,Hung,Mai,5b37618f1e006711c328a975,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - troyhbmunroe,0.0
+5b7e3add45fac70568885220,Hung,Mai,5b48634d0a8d077c9e57fd2b,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - troyhbmunroe,0.0
+5b7e3add45fac70568885220,Hung,Mai,5b989c5e667da26fa141d594,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - troyhbmunroe,0.0
+5b7e3add45fac70568885220,Hung,Mai,5b9e7d19ea805c073fedfca5,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - troyhbmunroe,0.0
+5b7e3add45fac70568885220,Hung,Mai,5ba225adb6cf0004356719a8,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - troyhbmunroe,0.0
+5b9350e0c5f2c440dd751e60,Hung,Mai,5b37618f1e006711c328a975,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - susanpncox,0.0
+5b9350e0c5f2c440dd751e60,Hung,Mai,5b48634d0a8d077c9e57fd2b,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - susanpncox,0.0
+5b9350e0c5f2c440dd751e60,Hung,Mai,5b989c5e667da26fa141d594,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - susanpncox,0.0
+5b9350e0c5f2c440dd751e60,Hung,Mai,5b9e7d19ea805c073fedfca5,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - susanpncox,0.0
+5b9350e0c5f2c440dd751e60,Hung,Mai,5ba225adb6cf0004356719a8,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - susanpncox,0.0
+5b8f3a3dc5f2c440dd74e4cb,Hung,Mai,5b37618f1e006711c328a975,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - luea0sweezerjvuu4x,0.0
+5b8f3a3dc5f2c440dd74e4cb,Hung,Mai,5b48634d0a8d077c9e57fd2b,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - luea0sweezerjvuu4x,0.0
+5b8f3a3dc5f2c440dd74e4cb,Hung,Mai,5b989c5e667da26fa141d594,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - luea0sweezerjvuu4x,0.0
+5b8f3a3dc5f2c440dd74e4cb,Hung,Mai,5b9e7d19ea805c073fedfca5,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - luea0sweezerjvuu4x,0.0
+5b8f3a3dc5f2c440dd74e4cb,Hung,Mai,5ba225adb6cf0004356719a8,Hung,Mai,"maiphuhung@gmail.com | 329 Nguyen Trai street, Nguyen Cu Trinh ward, District 1 | Ho Chi Minh | 700000 | VN",DORMANT - luea0sweezerjvuu4x,0.0
+5b8d02340f399f63433580a6,Tung,Pham,5b2fb2188e90ef5184da13d1,Tung,Pham,tunguitvn@gmail.com | Ho Chi Minh | Ho Chi Minh | 700000 | VN,DORMANT - SamanthamuReszler,0.0
+5b8d02340f399f63433580a6,Tung,Pham,5b97e2d8abdbc240d1d44ffd,Tung,Pham,tunguitvn@gmail.com | Ho Chi Minh | Ho Chi Minh | 700000 | VN,DORMANT - SamanthamuReszler,0.0
+5b8d02340f399f63433580a6,Tung,Pham,5b9a0091bb99de634a8a6ee8,Tung,Pham,tunguitvn@gmail.com | Ho Chi Minh | Ho Chi Minh | 700000 | VN,DORMANT - SamanthamuReszler,0.0

@@ -1,1 +1,8 @@
 .env
+.DS_Store
+**/.DS_Store
+
+# Large generated outputs (exceed GitHub file size limits)
+output/rtb_blocked_app_audit.csv
+output/accel_blocklist_audit/p3_level_advertiser_app.csv
+output/accel_blocklist_audit/p3_level_customer.csv

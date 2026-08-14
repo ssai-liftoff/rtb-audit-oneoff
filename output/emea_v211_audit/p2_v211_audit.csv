@@ -1,0 +1,15 @@
+Level,Account ID,Account Name,App ID,App Name,Spend,V2-11 Blocked At,V2-16 (Dating) Blocked,Has Exemption,Num Apps with Exemption,Apps with Exemption,Exempted Domains,Exemption Details
+account,684c3af4806ba9001147f9cd,Livesport sro,,,259128.0,account,True,False,,,,
+account,670cfa366f113e00119a799f,Vinted,,,151376.0,account,True,False,,,,
+account,561e8d946b8d90f61a002087,Rovio,,,110751.0,account,True,True,3,"Angry Birds 2 iOS, Angry Birds 2 Android, Angry Birds Friends iOS","pinterest.com, tiktok.com","Angry Birds 2 iOS [pinterest.com, tiktok.com] | Angry Birds 2 Android [pinterest.com, tiktok.com] | Angry Birds Friends iOS [pinterest.com, tiktok.com]"
+account,6920858f3fcd392133e22a59,Rakuten Viber,,,104820.0,account,True,False,,,,
+account,6570788bee73b50011dbb6f6,Eyecon Global Ltd,,,100825.0,account,True,False,,,,
+account,61c991a5fe4ec600172e5e08,MOOVIT APP GLOBAL LTD,,,55233.0,account,True,False,,,,
+account,602ad40427689c0015fb2d9e,PhotoCircle Inc.,,,24277.0,account,True,False,,,,
+account,65241b8db3ff7d001153bca8,Onefootball Gmbh,,,18523.0,account,True,False,,,,
+account,693a98f538cf425060b4c773,Mediafigaro,,,5848.0,account,True,False,,,,
+account,68c94077c9fade0c8c4b5be8,LETGO MOBİL İNTERNET SERVİSLERİ VE,,,3206.0,account,True,False,,,,
+app,56d55c72562b9c353800000d,Voodoo,62154ba2c1aeb964ddda691c,Wizz - Make new friends - iOS,2555.0,app,True,False,,,,
+account,689d90db26a6852357e6b80a,Forza Football,,,873.0,account,True,False,,,,
+app,5a53889945eaab512501251e,AddApptr GmbH,6712299e3a31561437ca14cb,ForzaFootball_ForzaiOS_iOS,501.0,app,True,False,,,,
+app,56d55c72562b9c353800000d,Voodoo,63a48926a39f3b1ed03f0375,Wizz,188.0,app,True,False,,,,

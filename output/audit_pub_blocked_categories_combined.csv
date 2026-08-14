@@ -1,0 +1,700 @@
+pub_account,pub_account_id,region,am_name,pub_app,pub_app_id,pub_market_id,pub_daily_spend,level,block_type,block_value,category_name,network_share,category_daily_spend,est_uplift_daily
+OAKEVER GAMES PTE LTD,5b975fcedc73276356309362,APAC,Aria Gao,,,,215511.1818,account,category,V1-6,Gambling,0.04606324,205701.4536,9927.1426
+Easybrain Ltd,57d1b461ae2b57d903000027,EMEA,Dina Eraksan,,,,96866.0668,account,category,V1-6,Gambling,0.04606324,205701.4536,4461.9646
+Activision Blizzard Media (King),622b9915ac4bf1001715b790,Americas,Kasey Geist,,,,87292.3779,account,category,V1-6,Gambling,0.04606324,205701.4536,4020.9695
+jiayou,606c7bac7a37680015801ad8,APAC,Sunton Sun,Block Blast-ios,624d1d920ea4f6b17766ae63,1617391485,83765.1469,app,category,V1-6,Gambling,0.04606324,205701.4536,3858.4938
+Skywork AI PTELTD,67c01767cc8ae200116e5d00,APAC,Ronald Long,,,,79135.9541,account,category,V1-6,Gambling,0.04606324,205701.4536,3645.2582
+Lessmore UG (haftungsbeschränkt),6107c3b4abaef100175b9029,EMEA,Tori Edwards,,,,72656.859,account,category,V1-6,Gambling,0.04606324,205701.4536,3346.8101
+OAKEVER GAMES PTE LTD,5b975fcedc73276356309362,APAC,Aria Gao,,,,215511.1818,account,category,V2-11,Society,0.01449973,64750.4676,3124.8546
+Duolingo,68799f38babc2000110fe539,Americas,Matthew Hong,,,,45204.0952,account,category,V1-6,Gambling,0.04606324,205701.4536,2082.2469
+The Weather Company,685efaf2892f9d0011d7b87f,Americas,Lisa Tolentino,,,,31265.5923,account,category,V1-6,Gambling,0.04606324,205701.4536,1440.1944
+Particle Media Inc,69379d46192ce0aadaecc874,Americas,Natalie Kenyon,NewsBreak: Local News & Alerts,69437e6fed3b627e3079edb8,com.particlenews.newsbreak,26677.5134,app,category,V1-6,Gambling,0.04606324,205701.4536,1228.8526
+SmartNews,67d0848db62d6b0011ccb35e,Americas,Lisa Tolentino,,,,17169.5169,account,category,V2-10,Personal Finance,0.06907844,308478.8828,1186.0435
+Meitu China,66f36da16f113e0011999ff8,APAC,Aria Gao,,,,24447.8325,account,category,V1-6,Gambling,0.04606324,205701.4536,1126.1463
+"Shanghai Linguan Data Co., Ltd.",5d3a5de9ddc71000189c7a84,APAC,Seven Tu,,,,22605.3511,account,category,V1-6,Gambling,0.04606324,205701.4536,1041.2756
+X-FLOW LTD,5b1526a7de961d3317b1d475,EMEA,Kseniia Fesenko,,,,21298.0749,account,category,V1-6,Gambling,0.04606324,205701.4536,981.0583
+Vinted,670cfa366f113e00119a799f,EMEA,Dumitru Cazacu,,,,20742.455,account,category,V1-6,Gambling,0.04606324,205701.4536,955.4646
+Moon Active,561e8d966b8d90f61a0033c4,EMEA,Tori Edwards,,,,20497.8373,account,category,V1-6,Gambling,0.04606324,205701.4536,944.1967
+POLIGON PTE LTD,67a5bd8b7e5a1b00114a860e,APAC,Sunton Sun,Melolo,67a5cb9db7c0c84dcaf1eead,com.worldance.drama,18886.5754,app,category,V1-6,Gambling,0.04606324,205701.4536,869.9768
+Chesscom LLC,6863fe9df000940011f80bcb,Americas,Lisa Tolentino,,,,4584.3269,account,category,V2-20,Video & Computer Games,0.18240529,814554.8596,836.2055
+Particle Media Inc,69379d46192ce0aadaecc874,Americas,Natalie Kenyon,NewsBreak: Local News & Alerts,69437e3201d2a42bf6087b94,1132762804,17572.2189,app,category,V1-6,Gambling,0.04606324,205701.4536,809.4333
+Livesport sro,684c3af4806ba9001147f9cd,EMEA,Louis Wallworth,,,,17567.0336,account,category,V1-6,Gambling,0.04606324,205701.4536,809.1944
+SmartNews,67d0848db62d6b0011ccb35e,Americas,Lisa Tolentino,,,,17169.5169,account,category,V1-6,Gambling,0.04606324,205701.4536,790.8835
+BYTEDANCE PTE LTD,64c3551f1e5137001122d418,APAC,Sunton Sun,,,,16165.4767,account,category,V1-6,Gambling,0.04606324,205701.4536,744.6342
+Super Unlimited Inc.,629f58df585252001b83d5f1,Americas,Ary Bai,,,,14620.1457,account,category,V1-6,Gambling,0.04606324,205701.4536,673.4512
+Bigo,63f725cfaa034900149db38c,APAC,Harper Zhang,,,,14349.4671,account,category,V1-6,Gambling,0.04606324,205701.4536,660.9829
+Mattel163 Limited,5b0fc58f19829714e5ad0d2f,APAC,Aria Gao,,,,9455.6047,account,category,V2-10,Personal Finance,0.06907844,308478.8828,653.1784
+Badoo,5aafdd4a0520357fabf54aa6,EMEA,Beth Taylor-Lowen,,,,13667.4902,account,category,V1-6,Gambling,0.04606324,205701.4536,629.5688
+Rakuten Viber,6920858f3fcd392133e22a59,EMEA,Tori Edwards,,,,13432.4778,account,category,V1-6,Gambling,0.04606324,205701.4536,618.7434
+STORYMATRIX PTE LTD,65532f6b6cdf5900118d1f51,APAC,Aria Gao,,,,13271.1524,account,category,V1-6,Gambling,0.04606324,205701.4536,611.3122
+Supercell,561e8d936b8d90f61a000ade,EMEA,Hadil Salameh,,,,12295.0462,account,category,V1-6,Gambling,0.04606324,205701.4536,566.3496
+Microsoft Casual Games,579643ec6c081adf5c00004c,Americas,Matthew Hong,,,,34068.2322,account,category,V2-11,Society,0.01449973,64750.4676,493.9803
+FALCON GLOBAL LTD.,5a57133a3610bbb671016ff3,APAC,Nam Trinh,,,,10046.5933,account,category,V1-6,Gambling,0.04606324,205701.4536,462.7786
+Mattel163 Limited,5b0fc58f19829714e5ad0d2f,APAC,Aria Gao,,,,9455.6047,account,category,V1-6,Gambling,0.04606324,205701.4536,435.5558
+Voodoo,56d55c72562b9c353800000d,EMEA,Hadil Salameh,,,,29726.8704,account,category,V2-11,Society,0.01449973,64750.4676,431.0317
+Sofa IT doo,67b5b2c077bd1c00117b9adc,EMEA,Dumitru Cazacu,,,,9215.4959,account,category,V1-6,Gambling,0.04606324,205701.4536,424.4956
+HANGZHOU JF SOFTWARE CO LTD,658a2fc2ab2b4800112923f1,APAC,Aria Gao,,,,28602.2985,account,category,V2-11,Society,0.01449973,64750.4676,414.7257
+OAKEVER GAMES PTE LTD,5b975fcedc73276356309362,APAC,Aria Gao,,,,215511.1818,account,category,V2-16,Dating,0.00189451,8460.2061,408.2892
+Code Dish GmbH,64075f57d6da1900141e5aba,EMEA,Hadil Salameh,,,,8839.2381,account,category,V1-6,Gambling,0.04606324,205701.4536,407.1639
+INJOY TECHNOLOGY PTE.LTD.,5f687c6436ca1e0016d5fd6d,APAC,Seven Tu,,,,8432.6714,account,category,V1-6,Gambling,0.04606324,205701.4536,388.4361
+Meitu China,66f36da16f113e0011999ff8,APAC,Aria Gao,,,,24447.8325,account,category,V2-11,Society,0.01449973,64750.4676,354.487
+Electronic Arts,561e8d936b8d90f61a0006b6,Americas,Kasey Geist,,,,7340.4433,account,category,V1-6,Gambling,0.04606324,205701.4536,338.1246
+Wattpad,56b2844d24342c3622000032,Americas,Matthew Hong,,,,7071.1224,account,category,V1-6,Gambling,0.04606324,205701.4536,325.7188
+LY Corporation,5efeed113191d60018f0f4e0,APAC,Ives Cui,,,,6925.4959,account,category,V1-6,Gambling,0.04606324,205701.4536,319.0108
+Vinted,670cfa366f113e00119a799f,EMEA,Dumitru Cazacu,,,,20742.455,account,category,V2-11,Society,0.01449973,64750.4676,300.7601
+RobTop Games AB,6276c973f70e7c001895be79,EMEA,Louis Wallworth,,,,6442.4452,account,category,V1-6,Gambling,0.04606324,205701.4536,296.7599
+SYBO Games,5c52bd6ffbeb402419bef87d,EMEA,Louis Wallworth,,,,6325.6752,account,category,V1-6,Gambling,0.04606324,205701.4536,291.3811
+BeSoccer,680748860437920011951532,EMEA,Louis Wallworth,,,,6139.9099,account,category,V1-6,Gambling,0.04606324,205701.4536,282.8241
+Scopely,561e8d966b8d90f61a003414,Americas,Natalie Kenyon,Scrabble Go,59e7db9b598ece421700ded4,1215933788,6051.7925,app,category,V1-6,Gambling,0.04606324,205701.4536,278.7652
+Pocket Entertainment Services LLC,6315b8713c59f7001bacf8fb,Americas,Rutvij Jadav,,,,5824.9237,account,category,V1-6,Gambling,0.04606324,205701.4536,268.3148
+Sliide,643d1561e09b08001442e672,EMEA,Beth Taylor-Lowen,,,,5662.4732,account,category,V1-6,Gambling,0.04606324,205701.4536,260.8318
+InMobi,626a9cd05d54fa0018b746b3,Americas,Rutvij Jadav,,,,5331.4531,account,category,V1-6,Gambling,0.04606324,205701.4536,245.584
+Chesscom LLC,6863fe9df000940011f80bcb,Americas,Lisa Tolentino,,,,4584.3269,account,category,V1-6,Gambling,0.04606324,205701.4536,211.1689
+SHUNYOU PTE LTD,655c62f25942160011cb5305,APAC,Harper Zhang,ShortTV,65714019a5cc307500171031,6464002625,4505.8774,app,category,V1-6,Gambling,0.04606324,205701.4536,207.5553
+FGFF,561e8d976b8d90f61a00418e,Americas,Ary Bai,color by number FGFF,5a540f51d49ac43a0c011741,1317978215,4469.4502,app,category,V1-6,Gambling,0.04606324,205701.4536,205.8773
+GeoTechnologies Inc.,5f45fb2f150074001547df11,APAC,Nam Trinh,,,,4318.6085,account,category,V1-6,Gambling,0.04606324,205701.4536,198.9291
+Rakuten Viber,6920858f3fcd392133e22a59,EMEA,Tori Edwards,,,,13432.4778,account,category,V2-11,Society,0.01449973,64750.4676,194.7673
+Bitmango,561e8d936b8d90f61a001412,APAC,Ives Cui,,,,4192.2792,account,category,V1-6,Gambling,0.04606324,205701.4536,193.11
+jiayou,606c7bac7a37680015801ad8,APAC,Sunton Sun,Block Blast-ios,624d1d920ea4f6b17766ae63,1617391485,83765.1469,app,category,V1-3,Credit & debit cards,0.00225694,10078.6819,189.0533
+Fanatee Games,561e8d976b8d90f61a003d3f,Americas,Jack Dove,,,,3925.8853,account,category,V1-6,Gambling,0.04606324,205701.4536,180.839
+Samsung Electronics,677bd16443e94a0011b752b2,Americas,Jack Dove,Gaming Hub,6837cbfb71e5cc220d1c9a6b,com.samsung.android.game.gamehome,2529.0936,app,category,V2-10,Personal Finance,0.06907844,308478.8828,174.7058
+Eyecon Global Ltd,6570788bee73b50011dbb6f6,EMEA,Dina Eraksan,,,,11756.1215,account,category,V2-11,Society,0.01449973,64750.4676,170.4606
+Gravity Labs,677cecb33b9ea20011273987,APAC,Ives Cui,,,,3655.412,account,category,V1-6,Gambling,0.04606324,205701.4536,168.3801
+GenDigital,64678a9ed7125400115d9869,EMEA,Louis Wallworth,,,,3639.7895,account,category,V1-6,Gambling,0.04606324,205701.4536,167.6605
+Mediafigaro,693a98f538cf425060b4c773,EMEA,Tori Edwards,,,,2371.9858,account,category,V2-10,Personal Finance,0.06907844,308478.8828,163.8531
+jiayou,606c7bac7a37680015801ad8,APAC,Sunton Sun,Block Blast-ios,624d1d920ea4f6b17766ae63,1617391485,83765.1469,app,category,V2-16,Dating,0.00189451,8460.2061,158.6943
+HIGAME Jsc,62664065ca13b50011fb00a2,APAC,Nam Trinh,,,,3429.6237,account,category,V1-6,Gambling,0.04606324,205701.4536,157.9796
+OAKEVER GAMES PTE LTD,5b975fcedc73276356309362,APAC,Aria Gao,,,,215511.1818,account,category,V2-21,Weight loss,0.00071221,3180.4493,153.4883
+Mackolik,641d8986be2b36001370ca2a,EMEA,Louis Wallworth,,,,3132.2769,account,category,V1-6,Gambling,0.04606324,205701.4536,144.2828
+nerByte GMBH,561e8d936b8d90f61a000662,EMEA,Hadil Salameh,,,,3127.5933,account,category,V1-6,Gambling,0.04606324,205701.4536,144.0671
+MOOVIT APP GLOBAL LTD,61c991a5fe4ec600172e5e08,EMEA,Beth Taylor-Lowen,Moovit iOS,61c9990776261dfb959407aa,498477945,3120.989,app,category,V1-6,Gambling,0.04606324,205701.4536,143.7629
+Lessmore UG (haftungsbeschränkt),6107c3b4abaef100175b9029,EMEA,Tori Edwards,,,,72656.859,account,category,V2-16,Dating,0.00189451,8460.2061,137.6495
+Mattel163 Limited,5b0fc58f19829714e5ad0d2f,APAC,Aria Gao,,,,9455.6047,account,category,V2-11,Society,0.01449973,64750.4676,137.1037
+FGFF,561e8d976b8d90f61a00418e,Americas,Ary Bai,Block Craft: City Building Simulator - Android,5785519ef95609d93c00007b,com.fungames.blockcraft,2857.5866,app,category,V1-6,Gambling,0.04606324,205701.4536,131.6297
+Bitsmedia Pte Ltd,630d8dbfb1095d001bb0f04a,APAC,Ives Cui,,,,2809.8509,account,category,V1-6,Gambling,0.04606324,205701.4536,129.4308
+MAG Interactive,561e8d936b8d90f61a001260,EMEA,Hadil Salameh,,,,2784.4307,account,category,V1-6,Gambling,0.04606324,205701.4536,128.2599
+Trebel Music,59bbfb5389df7b9d3b000840,Americas,Ary Bai,,,,2710.5596,account,category,V1-6,Gambling,0.04606324,205701.4536,124.8571
+OZION TECH PTE LTD,655377ea6cdf5900118d252a,APAC,Aria Gao,,,,2697.9992,account,category,V1-6,Gambling,0.04606324,205701.4536,124.2786
+LOTUM Media GmbH,561e8d936b8d90f61a0014ca,EMEA,Hadil Salameh,,,,2583.5049,account,category,V1-6,Gambling,0.04606324,205701.4536,119.0046
+Tripledot Studios,5c05196699e4374b87bda3b9,EMEA,Tori Edwards,,,,61597.6411,account,category,V2-16,Dating,0.00189451,8460.2061,116.6977
+Samsung Electronics,677bd16443e94a0011b752b2,Americas,Jack Dove,Gaming Hub,6837cbfb71e5cc220d1c9a6b,com.samsung.android.game.gamehome,2529.0936,app,category,V1-6,Gambling,0.04606324,205701.4536,116.4982
+BALABOOM PTE LTD,63e0726b0dce2900138bf123,APAC,Ronald Long,,,,2498.5692,account,category,V1-6,Gambling,0.04606324,205701.4536,115.0922
+Rovio,561e8d946b8d90f61a002087,EMEA,Dina Eraksan,Angry Birds Dream Blast (Spender),651283dcb30c764e0a120808,1432579280,611.8371,app,category,V2-20,Video & Computer Games,0.18240529,814554.8596,111.6023
+"Gstarsoft Co.,ltd",604ec2ae5a93950016a63fdd,APAC,Ronald Long,,,,2415.1051,account,category,V1-6,Gambling,0.04606324,205701.4536,111.2476
+Mediafigaro,693a98f538cf425060b4c773,EMEA,Tori Edwards,,,,2371.9858,account,category,V1-6,Gambling,0.04606324,205701.4536,109.2613
+UCWeb Singapore Pte Ltd,688b3725c446f77fe6eaaff8,APAC,Seven Tu,uc browser,68ef8349bea871f37200c0f0,com.UCMobile.intl,2346.659,app,category,V1-6,Gambling,0.04606324,205701.4536,108.0947
+WeWard,5dcc0df6a4305a00173b9cf8,EMEA,Tori Edwards,,,,2308.353,account,category,V1-6,Gambling,0.04606324,205701.4536,106.3302
+jiayou,606c7bac7a37680015801ad8,APAC,Sunton Sun,Block Juggle—GP,633549fb3901c096a37b2893,com.block.juggle,53701.3297,app,category,V2-16,Dating,0.00189451,8460.2061,101.738
+Alpred SL,682b575afc11e60011201e88,EMEA,Dumitru Cazacu,,,,2200.6746,account,category,V1-6,Gambling,0.04606324,205701.4536,101.3702
+Fingersoft Oy,561e8d956b8d90f61a003365,EMEA,Hadil Salameh,,,,2198.8669,account,category,V1-6,Gambling,0.04606324,205701.4536,101.2869
+Free VPN Planet SRL,668fb233514c00001146f038,EMEA,Kseniia Fesenko,,,,2152.3042,account,category,V1-6,Gambling,0.04606324,205701.4536,99.1421
+TabTale LTD,59e4bb543f0fa9a20900afa3,EMEA,Dina Eraksan,Glow: Fashion Idol iOS_CL,641854429091f900e1111e9a,6446197181,2131.8358,app,category,V1-6,Gambling,0.04606324,205701.4536,98.1993
+CrazyMaple Studio,59baf611f2287a750a0034c2,APAC,Harper Zhang,,,,43416.0099,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,97.9875
+Lihuhu,5d8880f1444f7200181b5e1d,APAC,Nam Trinh,,,,2096.2355,account,category,V1-6,Gambling,0.04606324,205701.4536,96.5594
+Soner Kara,561e8d936b8d90f61a0014bb,EMEA,Dina Eraksan,,,,2008.3557,account,category,V1-6,Gambling,0.04606324,205701.4536,92.5114
+FGFF,561e8d976b8d90f61a00418e,Americas,Ary Bai,Block Craft 3D: City Building Simulator,56cb247c4c275f425b000054,981633844,1998.6435,app,category,V1-6,Gambling,0.04606324,205701.4536,92.064
+FARSUN PTE LTD,66aafef7514c00001147c0c9,APAC,Harper Zhang,,,,1906.1867,account,category,V1-6,Gambling,0.04606324,205701.4536,87.8051
+Duolingo,68799f38babc2000110fe539,Americas,Matthew Hong,,,,45204.0952,account,category,V2-16,Dating,0.00189451,8460.2061,85.6398
+AddApptr GmbH,5a53889945eaab512501251e,EMEA,Dina Eraksan,IT-PM_Futbin_iOS,627a7fad9a5916612c6cb77e,1080465358,1788.8926,app,category,V1-6,Gambling,0.04606324,205701.4536,82.4022
+individual,622f2440e19c1e00147fc083,,Sales Ops,,,,1729.3434,account,category,V1-6,Gambling,0.04606324,205701.4536,79.6592
+OfferUp,650360eb0950ee00114dc484,Americas,Kasey Geist,,,,42039.6321,account,category,V2-16,Dating,0.00189451,8460.2061,79.6447
+Aged Studio Limited,5fc7301f7a7f0200153979c7,APAC,Seven Tu,,,,1715.1944,account,category,V1-6,Gambling,0.04606324,205701.4536,79.0074
+"Big Blue Bubble, Inc.",561e8d946b8d90f61a00183b,Americas,Ary Bai,,,,1696.8818,account,category,V1-6,Gambling,0.04606324,205701.4536,78.1639
+Sliide,643d1561e09b08001442e672,EMEA,Beth Taylor-Lowen,T-Mobile Play,68d40d4f63e6cee0292ae24b,com.tmobile.m1,1119.1264,app,category,V2-10,Personal Finance,0.06907844,308478.8828,77.3075
+InMobi,626a9cd05d54fa0018b746b3,Americas,Rutvij Jadav,,,,5331.4531,account,category,V2-11,Society,0.01449973,64750.4676,77.3046
+Sonderads,64b7f29fcca9af0011fd585d,EMEA,Kseniia Fesenko,,,,1646.0609,account,category,V1-6,Gambling,0.04606324,205701.4536,75.8229
+Citymapper (Via),663c90f772fce00011b7f353,EMEA,Louis Wallworth,,,,1635.5829,account,category,V1-6,Gambling,0.04606324,205701.4536,75.3402
+Veraxen Ltd,561e8d936b8d90f61a00134a,EMEA,Kseniia Fesenko,Jigsaw Collection HD,524ad17f92fcd29365000006,642831690,1626.5089,app,category,V1-6,Gambling,0.04606324,205701.4536,74.9223
+Gametion,561e8d956b8d90f61a0026fb,Americas,Rutvij Jadav,,,,1609.0563,account,category,V1-6,Gambling,0.04606324,205701.4536,74.1183
+First Touch Games,6247027c20721a0018bb6528,EMEA,Louis Wallworth,Score! Hero,6478799b11f74ed45246d305,847492141,1600.8679,app,category,V1-6,Gambling,0.04606324,205701.4536,73.7412
+ikame,5cdc50a461a35300113a8971,APAC,Nam Trinh,,,,1561.0769,account,category,V1-6,Gambling,0.04606324,205701.4536,71.9083
+dely Inc.,62a1815d11112f001a291752,APAC,Ives Cui,,,,1547.6525,account,category,V1-6,Gambling,0.04606324,205701.4536,71.2899
+SuperSonic Studios,5e3692d21cd3cb0018dd4329,EMEA,Beth Taylor-Lowen,,,,1546.7492,account,category,V1-6,Gambling,0.04606324,205701.4536,71.2483
+Mobility Ware,561e8d936b8d90f61a000455,Americas,Natalie Kenyon,,,,99938.5051,account,category,V2-21,Weight loss,0.00071221,3180.4493,71.1768
+IEC Global Pty Ltd.,5b1f351e3eddeb10ce7fa54c,APAC,Nam Trinh,,,,1536.7433,account,category,V1-6,Gambling,0.04606324,205701.4536,70.7874
+Mobility Ware,561e8d936b8d90f61a000455,Americas,Natalie Kenyon,,,,99938.5051,account,category,V2-2,News,0.00069802,3117.0847,69.7587
+Easybrain Ltd,57d1b461ae2b57d903000027,EMEA,Dina Eraksan,,,,96866.0668,account,category,V2-21,Weight loss,0.00071221,3180.4493,68.9886
+PhotoCircle Inc.,602ad40427689c0015fb2d9e,EMEA,Louis Wallworth,,,,1474.4478,account,category,V1-6,Gambling,0.04606324,205701.4536,67.9178
+Chesscom LLC,6863fe9df000940011f80bcb,Americas,Lisa Tolentino,,,,4584.3269,account,category,V2-11,Society,0.01449973,64750.4676,66.4715
+Microsoft Casual Games,579643ec6c081adf5c00004c,Americas,Matthew Hong,,,,34068.2322,account,category,V2-16,Dating,0.00189451,8460.2061,64.5428
+Playsimple Games,568b8cb3bb2089a80600000a,Americas,Rutvij Jadav,Crossword Jam : Fun Brain Game,5c6bcec910122f720df1553b,1269540854,1400.6844,app,category,V1-6,Gambling,0.04606324,205701.4536,64.5201
+LiveScore,68f9f5db75ceafc7a8ee6155,EMEA,Hadil Salameh,,,,1398.1988,account,category,V1-6,Gambling,0.04606324,205701.4536,64.4056
+Transsion OEM,6788b18b06da640011023eaf,APAC,Sunton Sun,palmplaystore,678a0872a18672e70722ee72,com.transsnet.store,1395.6915,app,category,V1-6,Gambling,0.04606324,205701.4536,64.2901
+Activision Blizzard Media (King),622b9915ac4bf1001715b790,Americas,Kasey Geist,,,,87292.3779,account,category,V2-21,Weight loss,0.00071221,3180.4493,62.1701
+Opera Software Ireland,676405dff3fa5d00114fee22,EMEA,Tori Edwards,Opera for Android with AI,677393b087298a2a13dc7d1b,com.opera.browser,1326.2083,app,category,V1-6,Gambling,0.04606324,205701.4536,61.0894
+The Weather Company,685efaf2892f9d0011d7b87f,Americas,Lisa Tolentino,,,,31265.5923,account,category,V2-16,Dating,0.00189451,8460.2061,59.2331
+Pixocial Technology (Singapore) Pte,65d1b497a3d8e10011923d10,APAC,Aria Gao,,,,1273.6634,account,category,V1-6,Gambling,0.04606324,205701.4536,58.6691
+Activision Blizzard Media,67e466df11985900110edd85,Americas,Kasey Geist,,,,1272.5692,account,category,V1-6,Gambling,0.04606324,205701.4536,58.6187
+深圳市乔安科技有限公司,681c54531d9e25001144b6b4,APAC,Harper Zhang,,,,1249.5234,account,category,V1-6,Gambling,0.04606324,205701.4536,57.5571
+Voodoo,56d55c72562b9c353800000d,EMEA,Hadil Salameh,,,,29726.8704,account,category,V2-16,Dating,0.00189451,8460.2061,56.318
+Grindr,5b2aad55ec47af23be0124fc,Americas,Kasey Geist,,,,29268.7004,account,category,V2-16,Dating,0.00189451,8460.2061,55.45
+HANGZHOU JF SOFTWARE CO LTD,658a2fc2ab2b4800112923f1,APAC,Aria Gao,,,,28602.2985,account,category,V2-16,Dating,0.00189451,8460.2061,54.1875
+OAKEVER GAMES PTE LTD,5b975fcedc73276356309362,APAC,Aria Gao,,,,215511.1818,account,category,V1-7,Government & politics,0.00024485,1093.4115,52.768
+Particle Media Inc,69379d46192ce0aadaecc874,Americas,Natalie Kenyon,NewsBreak: Local News & Alerts,69437e6fed3b627e3079edb8,com.particlenews.newsbreak,26677.5134,app,category,V2-16,Dating,0.00189451,8460.2061,50.5409
+RobTop Games AB,6276c973f70e7c001895be79,EMEA,Louis Wallworth,Geometry Dash Lite,6276cb2872361e0c07c98cec,698255242,3471.3525,app,category,V2-11,Society,0.01449973,64750.4676,50.3337
+MICHAT PTE. LIMITED,6376f00f3d02dc001b2940b6,APAC,Harper Zhang,,,,1049.5125,account,category,V1-6,Gambling,0.04606324,205701.4536,48.3439
+株式会社MIXI,686c8b9cf56dd70011f46f36,APAC,Ives Cui,,,,686.8186,account,category,V2-10,Personal Finance,0.06907844,308478.8828,47.4444
+Meitu China,66f36da16f113e0011999ff8,APAC,Aria Gao,,,,24447.8325,account,category,V2-16,Dating,0.00189451,8460.2061,46.3168
+madarsoft,6228871f2435180014928c15,,Sales Ops,,,,978.1377,account,category,V1-6,Gambling,0.04606324,205701.4536,45.0562
+FGFF,561e8d976b8d90f61a00418e,Americas,Ary Bai,Color by Number: Coloring Book Free - Pixel Art,5a9d7e3baa237ef24900b88e,com.tfgco.apps.coloring.free.color.by.number,965.0543,app,category,V1-6,Gambling,0.04606324,205701.4536,44.4535
+Tripledot Studios,5c05196699e4374b87bda3b9,EMEA,Tori Edwards,,,,61597.6411,account,category,V2-21,Weight loss,0.00071221,3180.4493,43.8702
+MotionVolt Game Ltd,5746d3108e99b7da740000ad,,Sales Ops,,,,623.1111,account,category,V2-10,Personal Finance,0.06907844,308478.8828,43.0435
+OLXin,6708be1b66b8da0011c36828,Americas,Rutvij Jadav,,,,894.907,account,category,V1-6,Gambling,0.04606324,205701.4536,41.2223
+X-FLOW LTD,5b1526a7de961d3317b1d475,EMEA,Kseniia Fesenko,,,,21298.0749,account,category,V2-16,Dating,0.00189451,8460.2061,40.3495
+Transsion OEM,6788b18b06da640011023eaf,APAC,Sunton Sun,moviebox,6791e248ffda0af1dd8c4549,com.community.oneroom,864.2144,app,category,V1-6,Gambling,0.04606324,205701.4536,39.8085
+Vinted,670cfa366f113e00119a799f,EMEA,Dumitru Cazacu,,,,20742.455,account,category,V2-16,Dating,0.00189451,8460.2061,39.2969
+OZION TECH PTE LTD,655377ea6cdf5900118d252a,APAC,Aria Gao,,,,2697.9992,account,category,V2-11,Society,0.01449973,64750.4676,39.1203
+Moon Active,561e8d966b8d90f61a0033c4,EMEA,Tori Edwards,,,,20497.8373,account,category,V2-16,Dating,0.00189451,8460.2061,38.8335
+SUBSUP PTE. LTD.,65d36866a3d8e10011925549,APAC,Seven Tu,,,,2659.2468,account,category,V2-11,Society,0.01449973,64750.4676,38.5584
+HK01 Company Limited,680ef700e2291a001165c3eb,APAC,Aria Gao,,,,536.7588,account,category,V2-10,Personal Finance,0.06907844,308478.8828,37.0785
+BYTEDANCE PTE LTD,64c3551f1e5137001122d418,APAC,Sunton Sun,,,,16165.4767,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,36.4846
+Yandex Inc.,6297c4bc012073001b3df035,EMEA,Kseniia Fesenko,tds-easyapp_com-anoshenko-android-solitaires,69297e78b88dcb4daa968fa5,com.anoshenko.android.solitaires,776.0801,app,category,V1-6,Gambling,0.04606324,205701.4536,35.7488
+Automattic,668545a239a54a0011299e6e,Americas,Matthew Hong,,,,18332.7787,account,category,V2-16,Dating,0.00189451,8460.2061,34.7317
+Mediafigaro,693a98f538cf425060b4c773,EMEA,Tori Edwards,,,,2371.9858,account,category,V2-11,Society,0.01449973,64750.4676,34.3932
+LLC East-Games,62ea666c62b76e001b3eca4f,EMEA,Kseniia Fesenko,,,,739.3919,account,category,V1-6,Gambling,0.04606324,205701.4536,34.0588
+Particle Media Inc,69379d46192ce0aadaecc874,Americas,Natalie Kenyon,NewsBreak: Local News & Alerts,69437e3201d2a42bf6087b94,1132762804,17572.2189,app,category,V2-16,Dating,0.00189451,8460.2061,33.2908
+Livesport sro,684c3af4806ba9001147f9cd,EMEA,Louis Wallworth,,,,17567.0336,account,category,V2-16,Dating,0.00189451,8460.2061,33.281
+"GSN Games, Inc.",561e8d946b8d90f61a002092,Americas,Natalie Kenyon,Solitaire TriPeaks iOS,556f747e67c16c382100006e,892521917,709.1952,app,category,V1-6,Gambling,0.04606324,205701.4536,32.6678
+SmartNews,67d0848db62d6b0011ccb35e,Americas,Lisa Tolentino,,,,17169.5169,account,category,V2-16,Dating,0.00189451,8460.2061,32.5279
+Scopely,561e8d966b8d90f61a003414,Americas,Natalie Kenyon,New YAHTZEE® With Buddies,5915396ce3b1195326000413,1206967173,705.3155,app,category,V1-6,Gambling,0.04606324,205701.4536,32.4891
+Duolingo,68799f38babc2000110fe539,Americas,Matthew Hong,,,,45204.0952,account,category,V2-21,Weight loss,0.00071221,3180.4493,32.1946
+Loom Games Oyun Yazilim ve Pazarlam,68ed0a0c4cac2a9dc3250a10,EMEA,Dina Eraksan,,,,16861.0836,account,category,V2-16,Dating,0.00189451,8460.2061,31.9436
+株式会社MIXI,686c8b9cf56dd70011f46f36,APAC,Ives Cui,,,,686.8186,account,category,V1-6,Gambling,0.04606324,205701.4536,31.6371
+Puzzle1Studio,5d130cdf37472100170775e1,APAC,Ives Cui,,,,679.9213,account,category,V1-6,Gambling,0.04606324,205701.4536,31.3194
+Zynga,56c3a378adccd1cb7e00000a,Americas,Lisa Tolentino,Harry Potter,5ea35bf014514a0001c0cd9e,com.zynga.pottermatch,665.7495,app,category,V1-6,Gambling,0.04606324,205701.4536,30.6666
+Yandex Inc.,6297c4bc012073001b3df035,EMEA,Kseniia Fesenko,imelab_olcorporationolai,66ebfd8df2fa5bc8304f9dd6,1450480822,660.725,app,category,V1-6,Gambling,0.04606324,205701.4536,30.4351
+Scopely,561e8d966b8d90f61a003414,Americas,Natalie Kenyon,Wheel of Fortune - iOS,579c0497be7334703a000072,898040123,657.6067,app,category,V1-6,Gambling,0.04606324,205701.4536,30.2915
+Playspare,5f6830b5352f2900152f8a5a,Americas,Rutvij Jadav,,,,639.6305,account,category,V1-6,Gambling,0.04606324,205701.4536,29.4635
+HEYTAP PTE LTD,69539cc1215711e3530d17f8,APAC,Sunton Sun,海外全搜,69cb38b78a916d2a3115581c,com.oppo.quicksearchbox,633.0199,app,category,V1-6,Gambling,0.04606324,205701.4536,29.1589
+MotionVolt Game Ltd,5746d3108e99b7da740000ad,,Sales Ops,,,,623.1111,account,category,V1-6,Gambling,0.04606324,205701.4536,28.7025
+AbiGroup,57fb4876297c8ce634000039,APAC,Nam Trinh,,,,614.3522,account,category,V1-6,Gambling,0.04606324,205701.4536,28.2991
+Rovio,561e8d946b8d90f61a002087,EMEA,Dina Eraksan,Angry Birds Dream Blast (Spender),651283dcb30c764e0a120808,1432579280,611.8371,app,category,V1-6,Gambling,0.04606324,205701.4536,28.1832
+STARY PTE. LTD.,610a5420abaef100175b924d,APAC,Harper Zhang,,,,608.0752,account,category,V1-6,Gambling,0.04606324,205701.4536,28.0099
+Super Unlimited Inc.,629f58df585252001b83d5f1,Americas,Ary Bai,,,,14620.1457,account,category,V2-16,Dating,0.00189451,8460.2061,27.6981
+Severex,57c05f735b2bd4fa24000030,,Sales Ops,,,,595.6902,account,category,V1-6,Gambling,0.04606324,205701.4536,27.4394
+TabTale LTD,59e4bb543f0fa9a20900afa3,EMEA,Dina Eraksan,Glow: Fashion Idol Google_CL,64185442e87be9678a7bc049,com.crazylabs.fashion.squad,590.0246,app,category,V1-6,Gambling,0.04606324,205701.4536,27.1784
+ADONE PTE. LTD.,6140b93df325530017ebcca3,APAC,Nam Trinh,,,,575.0241,account,category,V1-6,Gambling,0.04606324,205701.4536,26.4875
+AnyMind Group,60c71d9d6b22ac0017d0bca4,APAC,Nam Trinh,,,,570.8736,account,category,V1-6,Gambling,0.04606324,205701.4536,26.2963
+Gamebasics BV,561e8d936b8d90f61a000c29,,Sales Ops,,,,564.0222,account,category,V1-6,Gambling,0.04606324,205701.4536,25.9807
+Badoo,5aafdd4a0520357fabf54aa6,EMEA,Beth Taylor-Lowen,,,,13667.4902,account,category,V2-16,Dating,0.00189451,8460.2061,25.8933
+Scopely,561e8d966b8d90f61a003414,Americas,Natalie Kenyon,Stumble Guys,6413698f6e7664ba85e052b5,1541153375,555.163,app,category,V1-6,Gambling,0.04606324,205701.4536,25.5726
+Rakuten Viber,6920858f3fcd392133e22a59,EMEA,Tori Edwards,,,,13432.4778,account,category,V2-16,Dating,0.00189451,8460.2061,25.448
+Super Free Games,5c2e46140360b14200b6259c,Americas,Ary Bai,Word Collect iOS,5c9a92cf986bfc0017807c86,1299956969,548.987,app,category,V1-6,Gambling,0.04606324,205701.4536,25.2881
+TabTale LTD,59e4bb543f0fa9a20900afa3,EMEA,Dina Eraksan,Amaze iOS_CL,5c8661882c668752470f7fc5,1452526406,547.8733,app,category,V1-6,Gambling,0.04606324,205701.4536,25.2368
+HK01 Company Limited,680ef700e2291a001165c3eb,APAC,Aria Gao,,,,536.7588,account,category,V1-6,Gambling,0.04606324,205701.4536,24.7248
+MadBox,5b5ec3e8337f272131edc824,EMEA,Hadil Salameh,Pocket Champs (Android),60ccb4ca950f6127ef6c8e16,com.pocketchamps.game,532.2222,app,category,V1-6,Gambling,0.04606324,205701.4536,24.5159
+"PeopleFun, Inc.",561e8d976b8d90f61a0045d7,Americas,Matthew Hong,,,,32951.596,account,category,V2-5,Uncategorized,0.00074294,3317.6945,24.481
+Mobility Ware,561e8d936b8d90f61a000455,Americas,Natalie Kenyon,,,,99938.5051,account,category,V1-7,Government & politics,0.00024485,1093.4115,24.47
+Microsoft Casual Games,579643ec6c081adf5c00004c,Americas,Matthew Hong,,,,34068.2322,account,category,V2-21,Weight loss,0.00071221,3180.4493,24.2636
+Onefootball Gmbh,65241b8db3ff7d001153bca8,EMEA,Tori Edwards,,,,1667.6437,account,category,V2-11,Society,0.01449973,64750.4676,24.1804
+Rounds,65e71ba517069f0011a36cfa,EMEA,Tori Edwards,,,,519.8101,account,category,V1-6,Gambling,0.04606324,205701.4536,23.9441
+Yandex Inc.,6297c4bc012073001b3df035,EMEA,Kseniia Fesenko,yurihead_com-infoshell-recradio,691db66d63ddd979c47b5da1,com.infoshell.recradio,518.9565,app,category,V1-6,Gambling,0.04606324,205701.4536,23.9048
+Ketchapp,561e8d956b8d90f61a0030cf,EMEA,Hadil Salameh,,,,517.3778,account,category,V1-6,Gambling,0.04606324,205701.4536,23.8321
+Easybrain Ltd,57d1b461ae2b57d903000027,EMEA,Dina Eraksan,,,,96866.0668,account,category,V1-7,Government & politics,0.00024485,1093.4115,23.7177
+Teamsnap,69834b2ea3ac73e99b7077db,Americas,Matthew Hong,,,,511.7224,account,category,V1-6,Gambling,0.04606324,205701.4536,23.5716
+"PeopleFun, Inc.",561e8d976b8d90f61a0045d7,Americas,Matthew Hong,,,,32951.596,account,category,V2-21,Weight loss,0.00071221,3180.4493,23.4683
+FALCON GLOBAL LTD.,5a57133a3610bbb671016ff3,APAC,Nam Trinh,,,,10046.5933,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,22.6746
+Eyecon Global Ltd,6570788bee73b50011dbb6f6,EMEA,Dina Eraksan,,,,11756.1215,account,category,V2-16,Dating,0.00189451,8460.2061,22.2721
+MOOVIT APP GLOBAL LTD,61c991a5fe4ec600172e5e08,EMEA,Beth Taylor-Lowen,Moovit Android,61c9994ec3aa9ecb8f64d131,com.tranzmate,1495.6836,app,category,V2-11,Society,0.01449973,64750.4676,21.687
+jiayou,606c7bac7a37680015801ad8,APAC,Sunton Sun,Block Blast-ios,624d1d920ea4f6b17766ae63,1617391485,83765.1469,app,category,V1-7,Government & politics,0.00024485,1093.4115,20.5099
+FGFF,561e8d976b8d90f61a00418e,Americas,Ary Bai,,,,10290.7346,account,category,V2-16,Dating,0.00189451,8460.2061,19.496
+Skywork AI PTELTD,67c01767cc8ae200116e5d00,APAC,Ronald Long,,,,79135.9541,account,category,V1-7,Government & politics,0.00024485,1093.4115,19.3765
+Particle Media Inc,69379d46192ce0aadaecc874,Americas,Natalie Kenyon,NewsBreak: Local News & Alerts,69437e6fed3b627e3079edb8,com.particlenews.newsbreak,26677.5134,app,category,V2-21,Weight loss,0.00071221,3180.4493,18.9999
+Particle Media Inc,69379d46192ce0aadaecc874,Americas,Natalie Kenyon,NewsBreak: Local News & Alerts,69437e6fed3b627e3079edb8,com.particlenews.newsbreak,26677.5134,app,category,V2-2,News,0.00069802,3117.0847,18.6213
+InstaShot,561e8d976b8d90f61a003fcf,APAC,Harper Zhang,,,,8194.0566,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,18.4935
+Mattel163 Limited,5b0fc58f19829714e5ad0d2f,APAC,Aria Gao,,,,9455.6047,account,category,V2-16,Dating,0.00189451,8460.2061,17.9138
+Lessmore UG (haftungsbeschränkt),6107c3b4abaef100175b9029,EMEA,Tori Edwards,,,,72656.859,account,category,V1-7,Government & politics,0.00024485,1093.4115,17.7901
+Code Dish GmbH,64075f57d6da1900141e5aba,EMEA,Hadil Salameh,,,,8839.2381,account,category,V2-16,Dating,0.00189451,8460.2061,16.7461
+StepUp App,69a33528e458622da39fd9d8,,Sales Ops,,,,1089.0686,account,category,V2-11,Society,0.01449973,64750.4676,15.7912
+Rovio,561e8d946b8d90f61a002087,EMEA,Dina Eraksan,,,,8225.591,account,category,V2-16,Dating,0.00189451,8460.2061,15.5835
+InstaShot,561e8d976b8d90f61a003fcf,APAC,Harper Zhang,,,,8194.0566,account,category,V2-16,Dating,0.00189451,8460.2061,15.5238
+MICHAT PTE. LIMITED,6376f00f3d02dc001b2940b6,APAC,Harper Zhang,,,,1049.5125,account,category,V2-11,Society,0.01449973,64750.4676,15.2177
+X-FLOW LTD,5b1526a7de961d3317b1d475,EMEA,Kseniia Fesenko,,,,21298.0749,account,category,V2-21,Weight loss,0.00071221,3180.4493,15.1686
+Vinted,670cfa366f113e00119a799f,EMEA,Dumitru Cazacu,,,,20742.455,account,category,V2-21,Weight loss,0.00071221,3180.4493,14.7729
+Moon Active,561e8d966b8d90f61a0033c4,EMEA,Tori Edwards,,,,20497.8373,account,category,V2-21,Weight loss,0.00071221,3180.4493,14.5987
+Poly.AI Android,6698b45b60e2ea00114aa807,APAC,Seven Tu,,,,7266.6563,account,category,V2-16,Dating,0.00189451,8460.2061,13.7668
+Microsoft Casual Games,579643ec6c081adf5c00004c,Americas,Matthew Hong,Solitaire Collection Windows,57979405fb0fb7fc6e0000a2,9wzdncrfhwd2,18238.6068,app,category,V2-5,Uncategorized,0.00074294,3317.6945,13.5502
+HURELAX PTE LTD,67b5bff30471850011443643,APAC,Sunton Sun,,,,54667.7897,account,category,V1-7,Government & politics,0.00024485,1093.4115,13.3854
+Mobility Ware,561e8d936b8d90f61a000455,Americas,Natalie Kenyon,,,,99938.5051,account,category,V2-3,Shooting,0.00013337,595.5994,13.3292
+Particle Media Inc,69379d46192ce0aadaecc874,Americas,Natalie Kenyon,,,,54313.4299,account,category,V1-7,Government & politics,0.00024485,1093.4115,13.2987
+OLXin,6708be1b66b8da0011c36828,Americas,Rutvij Jadav,,,,894.907,account,category,V2-11,Society,0.01449973,64750.4676,12.9759
+Easybrain Ltd,57d1b461ae2b57d903000027,EMEA,Dina Eraksan,,,,96866.0668,account,category,V2-3,Shooting,0.00013337,595.5994,12.9194
+Lion Studios,5f064bf93191d60018f0fd5a,Americas,Matthew Hong,,,,17974.8562,account,category,V2-21,Weight loss,0.00071221,3180.4493,12.8018
+SmartNews,67d0848db62d6b0011ccb35e,Americas,Lisa Tolentino,,,,17169.5169,account,category,V2-5,Uncategorized,0.00074294,3317.6945,12.7559
+X-FLOW LTD,5b1526a7de961d3317b1d475,EMEA,Kseniia Fesenko,,,,21298.0749,account,category,V2-9,Contests & Freebies,0.00059238,2645.3317,12.6165
+Sofa IT doo,67b5b2c077bd1c00117b9adc,EMEA,Dumitru Cazacu,Sofascore IOS,67b5f7021be9345ad181a7d8,1176147574,6612.598,app,category,V2-16,Dating,0.00189451,8460.2061,12.5277
+Particle Media Inc,69379d46192ce0aadaecc874,Americas,Natalie Kenyon,NewsBreak: Local News & Alerts,69437e3201d2a42bf6087b94,1132762804,17572.2189,app,category,V2-21,Weight loss,0.00071221,3180.4493,12.515
+Particle Media Inc,69379d46192ce0aadaecc874,Americas,Natalie Kenyon,NewsBreak: Local News & Alerts,69437e3201d2a42bf6087b94,1132762804,17572.2189,app,category,V2-2,News,0.00069802,3117.0847,12.2657
+SmartNews,67d0848db62d6b0011ccb35e,Americas,Lisa Tolentino,,,,17169.5169,account,category,V2-21,Weight loss,0.00071221,3180.4493,12.2282
+RobTop Games AB,6276c973f70e7c001895be79,EMEA,Louis Wallworth,,,,6442.4452,account,category,V2-16,Dating,0.00189451,8460.2061,12.2053
+SmartNews,67d0848db62d6b0011ccb35e,Americas,Lisa Tolentino,,,,17169.5169,account,category,V2-2,News,0.00069802,3117.0847,11.9846
+SYBO Games,5c52bd6ffbeb402419bef87d,EMEA,Louis Wallworth,,,,6325.6752,account,category,V2-16,Dating,0.00189451,8460.2061,11.9841
+Loom Games Oyun Yazilim ve Pazarlam,68ed0a0c4cac2a9dc3250a10,EMEA,Dina Eraksan,,,,16861.0836,account,category,V2-2,News,0.00069802,3117.0847,11.7693
+Activision Blizzard Media (King),622b9915ac4bf1001715b790,Americas,Kasey Geist,,,,87292.3779,account,category,V2-3,Shooting,0.00013337,595.5994,11.6425
+Scopely,561e8d966b8d90f61a003414,Americas,Natalie Kenyon,Scrabble Go,59e7db9b598ece421700ded4,1215933788,6051.7925,app,category,V2-16,Dating,0.00189451,8460.2061,11.4652
+Duolingo,68799f38babc2000110fe539,Americas,Matthew Hong,,,,45204.0952,account,category,V1-7,Government & politics,0.00024485,1093.4115,11.0682
+Pocket Entertainment Services LLC,6315b8713c59f7001bacf8fb,Americas,Rutvij Jadav,,,,5824.9237,account,category,V2-16,Dating,0.00189451,8460.2061,11.0354
+Super Unlimited Inc.,629f58df585252001b83d5f1,Americas,Ary Bai,,,,14620.1457,account,category,V2-5,Uncategorized,0.00074294,3317.6945,10.8619
+Supercent,6159d295979b9a001749fd59,APAC,Ives Cui,,,,4733.1052,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,10.6824
+CrazyMaple Studio,59baf611f2287a750a0034c2,APAC,Harper Zhang,,,,43416.0099,account,category,V1-7,Government & politics,0.00024485,1093.4115,10.6304
+"Zedge, Inc.",5af5b8f9e408f136156e7cae,EMEA,Dumitru Cazacu,,,,15062.7056,account,category,V2-2,News,0.00069802,3117.0847,10.514
+Super Unlimited Inc.,629f58df585252001b83d5f1,Americas,Ary Bai,,,,14620.1457,account,category,V2-21,Weight loss,0.00071221,3180.4493,10.4126
+Bigo,63f725cfaa034900149db38c,APAC,Harper Zhang,,,,14349.4671,account,category,V2-21,Weight loss,0.00071221,3180.4493,10.2198
+SmartNews,67d0848db62d6b0011ccb35e,Americas,Lisa Tolentino,,,,17169.5169,account,category,V2-9,Contests & Freebies,0.00059238,2645.3317,10.1708
+InMobi,626a9cd05d54fa0018b746b3,Americas,Rutvij Jadav,,,,5331.4531,account,category,V2-16,Dating,0.00189451,8460.2061,10.1005
+Scopely,561e8d966b8d90f61a003414,Americas,Natalie Kenyon,,,,13489.8832,account,category,V2-5,Uncategorized,0.00074294,3317.6945,10.0222
+Flow Games Bilisim Yazilim ve Pazar,69fa1edb63ed3b5eefe8c177,EMEA,Dina Eraksan,Cannon Fest,69fa1fa13d225f31f458c6ed,6748084174,5084.917,app,category,V2-16,Dating,0.00189451,8460.2061,9.6335
+Scopely,561e8d966b8d90f61a003414,Americas,Natalie Kenyon,,,,13489.8832,account,category,V2-21,Weight loss,0.00071221,3180.4493,9.6076
+Bitmango,561e8d936b8d90f61a001412,APAC,Ives Cui,,,,4192.2792,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,9.4617
+Opera Software Ireland,676405dff3fa5d00114fee22,EMEA,Tori Edwards,,,,4735.5364,account,category,V2-16,Dating,0.00189451,8460.2061,8.9715
+MOOVIT APP GLOBAL LTD,61c991a5fe4ec600172e5e08,EMEA,Beth Taylor-Lowen,,,,4616.6726,account,category,V2-16,Dating,0.00189451,8460.2061,8.7464
+Chesscom LLC,6863fe9df000940011f80bcb,Americas,Lisa Tolentino,,,,4584.3269,account,category,V2-16,Dating,0.00189451,8460.2061,8.6851
+Super Unlimited Inc.,629f58df585252001b83d5f1,Americas,Ary Bai,,,,14620.1457,account,category,V2-9,Contests & Freebies,0.00059238,2645.3317,8.6606
+Eyecon Global Ltd,6570788bee73b50011dbb6f6,EMEA,Dina Eraksan,,,,11756.1215,account,category,V2-21,Weight loss,0.00071221,3180.4493,8.3728
+Microsoft Casual Games,579643ec6c081adf5c00004c,Americas,Matthew Hong,,,,34068.2322,account,category,V1-7,Government & politics,0.00024485,1093.4115,8.3416
+MX Player,62f234d9f81a3c001bde7c25,Americas,Rutvij Jadav,,,,4312.7341,account,category,V2-16,Dating,0.00189451,8460.2061,8.1705
+Zynga,56c3a378adccd1cb7e00000a,Americas,Lisa Tolentino,Toon Blast,6268445fe544d565a3f73230,1176027022,4308.4236,app,category,V2-16,Dating,0.00189451,8460.2061,8.1624
+Bitmango,561e8d936b8d90f61a001412,APAC,Ives Cui,,,,4192.2792,account,category,V2-16,Dating,0.00189451,8460.2061,7.9423
+HK01 Company Limited,680ef700e2291a001165c3eb,APAC,Aria Gao,,,,536.7588,account,category,V2-11,Society,0.01449973,64750.4676,7.7829
+HIGAME Jsc,62664065ca13b50011fb00a2,APAC,Nam Trinh,,,,3429.6237,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,7.7405
+The Weather Company,685efaf2892f9d0011d7b87f,Americas,Lisa Tolentino,,,,31265.5923,account,category,V1-7,Government & politics,0.00024485,1093.4115,7.6554
+CharacterAI,698a6771eea67583ba0bada3,Americas,Jack Dove,,,,30091.3834,account,category,V1-7,Government & politics,0.00024485,1093.4115,7.3679
+Microfun,58adf6988e52ab4d320004d1,APAC,Ronald Long,,,,3852.5195,account,category,V2-16,Dating,0.00189451,8460.2061,7.2987
+Voodoo,56d55c72562b9c353800000d,EMEA,Hadil Salameh,,,,29726.8704,account,category,V1-7,Government & politics,0.00024485,1093.4115,7.2786
+Grindr,5b2aad55ec47af23be0124fc,Americas,Kasey Geist,,,,29268.7004,account,category,V1-7,Government & politics,0.00024485,1093.4115,7.1665
+FALCON GLOBAL LTD.,5a57133a3610bbb671016ff3,APAC,Nam Trinh,,,,10046.5933,account,category,V2-21,Weight loss,0.00071221,3180.4493,7.1552
+nerByte GMBH,561e8d936b8d90f61a000662,EMEA,Hadil Salameh,,,,3127.5933,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,7.0588
+HANGZHOU JF SOFTWARE CO LTD,658a2fc2ab2b4800112923f1,APAC,Aria Gao,,,,28602.2985,account,category,V1-7,Government & politics,0.00024485,1093.4115,7.0033
+Gravity Labs,677cecb33b9ea20011273987,APAC,Ives Cui,,,,3655.412,account,category,V2-16,Dating,0.00189451,8460.2061,6.9252
+Saygames LTD,5fc671cbba624b0015a61bf1,EMEA,Beth Taylor-Lowen,,,,28277.6248,account,category,V1-7,Government & politics,0.00024485,1093.4115,6.9238
+GenDigital,64678a9ed7125400115d9869,EMEA,Louis Wallworth,,,,3639.7895,account,category,V2-16,Dating,0.00189451,8460.2061,6.8956
+Mattel163 Limited,5b0fc58f19829714e5ad0d2f,APAC,Aria Gao,,,,9455.6047,account,category,V2-21,Weight loss,0.00071221,3180.4493,6.7343
+Code Dish GmbH,64075f57d6da1900141e5aba,EMEA,Hadil Salameh,,,,8839.2381,account,category,V2-5,Uncategorized,0.00074294,3317.6945,6.567
+Amanotes (PT),567acc79dea141ea32000008,APAC,Nam Trinh,,,,2857.7609,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,6.4498
+Unity - Americas,64afadea4da41800114faaeb,Americas,Jack Dove,,,,26328.747,account,category,V1-7,Government & politics,0.00024485,1093.4115,6.4466
+LINE Digital Frontier,64131058280ea30014b0ed99,APAC,Ives Cui,,,,3389.366,account,category,V2-16,Dating,0.00189451,8460.2061,6.4212
+Zynga,56c3a378adccd1cb7e00000a,Americas,Lisa Tolentino,WWF1 - iOS,5e6868c8ffd487601beebc7a,321916506,3268.0585,app,category,V2-16,Dating,0.00189451,8460.2061,6.1914
+Bertheussen IT,561e8d936b8d90f61a0014d2,EMEA,Dumitru Cazacu,,,,8652.7953,account,category,V2-21,Weight loss,0.00071221,3180.4493,6.1626
+Duolingo,68799f38babc2000110fe539,Americas,Matthew Hong,,,,45204.0952,account,category,V2-3,Shooting,0.00013337,595.5994,6.0291
+Meitu China,66f36da16f113e0011999ff8,APAC,Aria Gao,,,,24447.8325,account,category,V1-7,Government & politics,0.00024485,1093.4115,5.9861
+Rovio,561e8d946b8d90f61a002087,EMEA,Dina Eraksan,,,,8225.591,account,category,V2-21,Weight loss,0.00071221,3180.4493,5.8583
+Samsung Electronics,677bd16443e94a0011b752b2,Americas,Jack Dove,Gaming Hub,6837cbfb71e5cc220d1c9a6b,com.samsung.android.game.gamehome,2529.0936,app,category,V1-3,Credit & debit cards,0.00225694,10078.6819,5.708
+Badoo,5aafdd4a0520357fabf54aa6,EMEA,Beth Taylor-Lowen,Badoo - Free Chat & Dating App,5ae1d7c5cf3ad762761bbca1,com.badoo.mobile,7615.9672,app,category,V2-5,Uncategorized,0.00074294,3317.6945,5.6582
+Mediafigaro,693a98f538cf425060b4c773,EMEA,Tori Edwards,,,,2371.9858,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,5.3534
+Bitsmedia Pte Ltd,630d8dbfb1095d001bb0f04a,APAC,Ives Cui,,,,2809.8509,account,category,V2-16,Dating,0.00189451,8460.2061,5.3233
+MAG Interactive,561e8d936b8d90f61a001260,EMEA,Hadil Salameh,,,,2784.4307,account,category,V2-16,Dating,0.00189451,8460.2061,5.2751
+X-FLOW LTD,5b1526a7de961d3317b1d475,EMEA,Kseniia Fesenko,,,,21298.0749,account,category,V1-7,Government & politics,0.00024485,1093.4115,5.2148
+"Guangzhou Hongshi information Technology Co., Ltd.",67e22d64b039580011378f33,APAC,Ronald Long,,,,21025.6991,account,category,V1-7,Government & politics,0.00024485,1093.4115,5.1481
+Trebel Music,59bbfb5389df7b9d3b000840,Americas,Ary Bai,,,,2710.5596,account,category,V2-16,Dating,0.00189451,8460.2061,5.1352
+OZION TECH PTE LTD,655377ea6cdf5900118d252a,APAC,Aria Gao,,,,2697.9992,account,category,V2-16,Dating,0.00189451,8460.2061,5.1114
+Vinted,670cfa366f113e00119a799f,EMEA,Dumitru Cazacu,,,,20742.455,account,category,V1-7,Government & politics,0.00024485,1093.4115,5.0788
+Moon Active,561e8d966b8d90f61a0033c4,EMEA,Tori Edwards,,,,20497.8373,account,category,V1-7,Government & politics,0.00024485,1093.4115,5.0189
+Chengdu Xishangmeishu technology Co,674d6cfd2f5be200113e4217,APAC,Aria Gao,,,,20415.0592,account,category,V1-7,Government & politics,0.00024485,1093.4115,4.9986
+Flightradar24 AB,6862932aaff9d800114174ac,EMEA,Hadil Salameh,,,,20154.5437,account,category,V1-7,Government & politics,0.00024485,1093.4115,4.9348
+Sofa IT doo,67b5b2c077bd1c00117b9adc,EMEA,Dumitru Cazacu,Sofascore android,67b5f446390c720c73a0e3f3,com.sofascore.results,2602.8979,app,category,V2-16,Dating,0.00189451,8460.2061,4.9312
+Xiaomi Group,66d6b6896f113e001198b89c,APAC,Sunton Sun,,,,19912.0602,account,category,V1-7,Government & politics,0.00024485,1093.4115,4.8755
+Gimica GmbH,619b548fc9c9c1001796f1f6,EMEA,Dina Eraksan,,,,19736.8968,account,category,V1-7,Government & politics,0.00024485,1093.4115,4.8326
+Samsung Electronics,677bd16443e94a0011b752b2,Americas,Jack Dove,Gaming Hub,6837cbfb71e5cc220d1c9a6b,com.samsung.android.game.gamehome,2529.0936,app,category,V2-16,Dating,0.00189451,8460.2061,4.7914
+Microsoft Casual Games,579643ec6c081adf5c00004c,Americas,Matthew Hong,,,,34068.2322,account,category,V2-3,Shooting,0.00013337,595.5994,4.5438
+INNOVATIVE CONNECTING PTE.LIMITED,5d76031d57ec4f0017743734,APAC,Harper Zhang,Pro,5da6812659f5670018ae7124,free.vpn.unblock.proxy.vpn.master.pro,2394.3661,app,category,V2-16,Dating,0.00189451,8460.2061,4.5362
+Zynga,56c3a378adccd1cb7e00000a,Americas,Lisa Tolentino,Toon Blast,62684259b7fb3d4fd5c5fb13,net.peakgames.toonblast,2384.5116,app,category,V2-16,Dating,0.00189451,8460.2061,4.5175
+Badoo,5aafdd4a0520357fabf54aa6,EMEA,Beth Taylor-Lowen,Badoo - The Dating App,5aafe5c62567717fa575bfc1,351331194,6051.523,app,category,V2-5,Uncategorized,0.00074294,3317.6945,4.4959
+Mediafigaro,693a98f538cf425060b4c773,EMEA,Tori Edwards,,,,2371.9858,account,category,V2-16,Dating,0.00189451,8460.2061,4.4938
+Automattic,668545a239a54a0011299e6e,Americas,Matthew Hong,,,,18332.7787,account,category,V1-7,Government & politics,0.00024485,1093.4115,4.4888
+"PeopleFun, Inc.",561e8d976b8d90f61a0045d7,Americas,Matthew Hong,,,,32951.596,account,category,V2-3,Shooting,0.00013337,595.5994,4.3949
+WeWard,5dcc0df6a4305a00173b9cf8,EMEA,Tori Edwards,,,,2308.353,account,category,V2-16,Dating,0.00189451,8460.2061,4.3732
+Pocket Entertainment Services LLC,6315b8713c59f7001bacf8fb,Americas,Rutvij Jadav,,,,5824.9237,account,category,V2-5,Uncategorized,0.00074294,3317.6945,4.3276
+INNOVATIVE CONNECTING PTE.LIMITED,5d76031d57ec4f0017743734,APAC,Harper Zhang,,,,17638.3593,account,category,V1-7,Government & politics,0.00024485,1093.4115,4.3188
+SmartNews,67d0848db62d6b0011ccb35e,Americas,Lisa Tolentino,,,,17169.5169,account,category,V1-7,Government & politics,0.00024485,1093.4115,4.204
+Pocket Entertainment Services LLC,6315b8713c59f7001bacf8fb,Americas,Rutvij Jadav,,,,5824.9237,account,category,V2-21,Weight loss,0.00071221,3180.4493,4.1485
+Loom Games Oyun Yazilim ve Pazarlam,68ed0a0c4cac2a9dc3250a10,EMEA,Dina Eraksan,,,,16861.0836,account,category,V1-7,Government & politics,0.00024485,1093.4115,4.1284
+Scatterlab,65f02b00af81650011344521,APAC,Ives Cui,,,,16746.5071,account,category,V1-7,Government & politics,0.00024485,1093.4115,4.1004
+Free VPN Planet SRL,668fb233514c00001146f038,EMEA,Kseniia Fesenko,,,,2152.3042,account,category,V2-16,Dating,0.00189451,8460.2061,4.0776
+Snackbox Inc,6649f6de557b6e0011539536,Americas,Ary Bai,,,,16269.4911,account,category,V1-7,Government & politics,0.00024485,1093.4115,3.9836
+ToGather Fun Limited,634d301fa3774b001b7c0dbc,APAC,Harper Zhang,,,,16197.4201,account,category,V1-7,Government & politics,0.00024485,1093.4115,3.9659
+InMobi,626a9cd05d54fa0018b746b3,Americas,Rutvij Jadav,,,,5331.4531,account,category,V2-5,Uncategorized,0.00074294,3317.6945,3.9609
+"Big Blue Bubble, Inc.",561e8d946b8d90f61a00183b,Americas,Ary Bai,,,,1696.8818,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,3.8298
+HANGZHOU JF SOFTWARE CO LTD,658a2fc2ab2b4800112923f1,APAC,Aria Gao,,,,28602.2985,account,category,V2-3,Shooting,0.00013337,595.5994,3.8148
+Soner Kara,561e8d936b8d90f61a0014bb,EMEA,Dina Eraksan,,,,2008.3557,account,category,V2-16,Dating,0.00189451,8460.2061,3.8049
+InMobi,626a9cd05d54fa0018b746b3,Americas,Rutvij Jadav,,,,5331.4531,account,category,V2-21,Weight loss,0.00071221,3180.4493,3.7971
+PE Digital GmbH,561e8d936b8d90f61a000d42,EMEA,Dumitru Cazacu,,,,2000.6922,account,category,V2-16,Dating,0.00189451,8460.2061,3.7903
+Onefootball Gmbh,65241b8db3ff7d001153bca8,EMEA,Tori Edwards,,,,1667.6437,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,3.7638
+株式会社GOODROID,5b69051b3a5ab61db2c22189,APAC,Ives Cui,,,,14772.2403,account,category,V1-7,Government & politics,0.00024485,1093.4115,3.617
+Super Unlimited Inc.,629f58df585252001b83d5f1,Americas,Ary Bai,,,,14620.1457,account,category,V1-7,Government & politics,0.00024485,1093.4115,3.5797
+NETSTORY PTE LTD,66bf1c62ddea6f0011b313a9,APAC,Harper Zhang,,,,14594.0761,account,category,V1-7,Government & politics,0.00024485,1093.4115,3.5734
+Zynga,56c3a378adccd1cb7e00000a,Americas,Lisa Tolentino,Toy Blast,626841d0d03ae7f7395fdc62,890378044,1859.9849,app,category,V2-16,Dating,0.00189451,8460.2061,3.5238
+ikame,5cdc50a461a35300113a8971,APAC,Nam Trinh,,,,1561.0769,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,3.5233
+Bigo,63f725cfaa034900149db38c,APAC,Harper Zhang,,,,14349.4671,account,category,V1-7,Government & politics,0.00024485,1093.4115,3.5135
+Chesscom LLC,6863fe9df000940011f80bcb,Americas,Lisa Tolentino,,,,4584.3269,account,category,V2-5,Uncategorized,0.00074294,3317.6945,3.4059
+Badoo,5aafdd4a0520357fabf54aa6,EMEA,Beth Taylor-Lowen,,,,13667.4902,account,category,V1-7,Government & politics,0.00024485,1093.4115,3.3465
+Scopely,561e8d966b8d90f61a003414,Americas,Natalie Kenyon,,,,13489.8832,account,category,V1-7,Government & politics,0.00024485,1093.4115,3.303
+Rakuten Viber,6920858f3fcd392133e22a59,EMEA,Tori Edwards,,,,13432.4778,account,category,V1-7,Government & politics,0.00024485,1093.4115,3.2889
+individual,622f2440e19c1e00147fc083,,Sales Ops,,,,1729.3434,account,category,V2-16,Dating,0.00189451,8460.2061,3.2763
+Chesscom LLC,6863fe9df000940011f80bcb,Americas,Lisa Tolentino,,,,4584.3269,account,category,V2-21,Weight loss,0.00071221,3180.4493,3.265
+"Big Blue Bubble, Inc.",561e8d946b8d90f61a00183b,Americas,Ary Bai,,,,1696.8818,account,category,V2-16,Dating,0.00189451,8460.2061,3.2148
+Onefootball Gmbh,65241b8db3ff7d001153bca8,EMEA,Tori Edwards,,,,1667.6437,account,category,V2-16,Dating,0.00189451,8460.2061,3.1594
+InMobi,626a9cd05d54fa0018b746b3,Americas,Rutvij Jadav,,,,5331.4531,account,category,V2-9,Contests & Freebies,0.00059238,2645.3317,3.1582
+TabTale LTD,59e4bb543f0fa9a20900afa3,EMEA,Dina Eraksan,,,,12725.3072,account,category,V1-7,Government & politics,0.00024485,1093.4115,3.1158
+Bitmango,561e8d936b8d90f61a001412,APAC,Ives Cui,,,,4192.2792,account,category,V2-5,Uncategorized,0.00074294,3317.6945,3.1146
+Citymapper (Via),663c90f772fce00011b7f353,EMEA,Louis Wallworth,,,,1635.5829,account,category,V2-16,Dating,0.00189451,8460.2061,3.0986
+Zynga,56c3a378adccd1cb7e00000a,Americas,Lisa Tolentino,Toon Blast,6268445fe544d565a3f73230,1176027022,4308.4236,app,category,V2-21,Weight loss,0.00071221,3180.4493,3.0685
+Gametion,561e8d956b8d90f61a0026fb,Americas,Rutvij Jadav,,,,1609.0563,account,category,V2-16,Dating,0.00189451,8460.2061,3.0484
+Outfit7,561e8d946b8d90f61a001509,EMEA,Tori Edwards,,,,12276.9088,account,category,V1-7,Government & politics,0.00024485,1093.4115,3.006
+Bitmango,561e8d936b8d90f61a001412,APAC,Ives Cui,,,,4192.2792,account,category,V2-21,Weight loss,0.00071221,3180.4493,2.9858
+ikame,5cdc50a461a35300113a8971,APAC,Nam Trinh,,,,1561.0769,account,category,V2-16,Dating,0.00189451,8460.2061,2.9575
+SuperSonic Studios,5e3692d21cd3cb0018dd4329,EMEA,Beth Taylor-Lowen,,,,1546.7492,account,category,V2-16,Dating,0.00189451,8460.2061,2.9303
+Audiomack Inc.,5f73ab8ec84db80016b354bb,Americas,Lisa Tolentino,,,,11688.983,account,category,V1-7,Government & politics,0.00024485,1093.4115,2.8621
+Fanatee Games,561e8d976b8d90f61a003d3f,Americas,Jack Dove,,,,3925.8853,account,category,V2-21,Weight loss,0.00071221,3180.4493,2.796
+PhotoCircle Inc.,602ad40427689c0015fb2d9e,EMEA,Louis Wallworth,,,,1474.4478,account,category,V2-16,Dating,0.00189451,8460.2061,2.7934
+Moon Active,561e8d966b8d90f61a0033c4,EMEA,Tori Edwards,,,,20497.8373,account,category,V2-3,Shooting,0.00013337,595.5994,2.7339
+Zynga,56c3a378adccd1cb7e00000a,Americas,Lisa Tolentino,Toy Blast,62684160e2a0ef078b8fc737,net.peakgames.amy,1409.5637,app,category,V2-16,Dating,0.00189451,8460.2061,2.6704
+"Locket Labs, Inc",638badabfc61bb001443e715,Americas,Lisa Tolentino,,,,10899.1854,account,category,V1-7,Government & politics,0.00024485,1093.4115,2.6687
+Wooga,561e8d936b8d90f61a00059f,EMEA,Hadil Salameh,,,,1152.719,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,2.6016
+深圳技威时代科技有限公司,69c2321c4bae0d5981c00b17,APAC,Aria Gao,,,,10332.1701,account,category,V1-7,Government & politics,0.00024485,1093.4115,2.5298
+Sliide,643d1561e09b08001442e672,EMEA,Beth Taylor-Lowen,T-Mobile Play,68d40d4f63e6cee0292ae24b,com.tmobile.m1,1119.1264,app,category,V1-3,Credit & debit cards,0.00225694,10078.6819,2.5258
+FGFF,561e8d976b8d90f61a00418e,Americas,Ary Bai,,,,10290.7346,account,category,V1-7,Government & politics,0.00024485,1093.4115,2.5197
+"Everyday Health, Inc",64ecb0b0006b5a0011e57f9a,,Sales Ops,,,,1328.7126,account,category,V2-16,Dating,0.00189451,8460.2061,2.5173
+Bitmango,561e8d936b8d90f61a001412,APAC,Ives Cui,,,,4192.2792,account,category,V2-9,Contests & Freebies,0.00059238,2645.3317,2.4834
+"Correa Pallet, Inc",6940fbf7aa92acbac5362ff8,APAC,Seven Tu,,,,1310.2788,account,category,V2-16,Dating,0.00189451,8460.2061,2.4823
+FALCON GLOBAL LTD.,5a57133a3610bbb671016ff3,APAC,Nam Trinh,,,,10046.5933,account,category,V1-7,Government & politics,0.00024485,1093.4115,2.4599
+"SEEKEEHORIZON TECHNOLOGY (HK) CO,",68fa0d672fef766b2dac5f75,APAC,Seven Tu,,,,9894.3667,account,category,V1-7,Government & politics,0.00024485,1093.4115,2.4226
+Pixocial Technology (Singapore) Pte,65d1b497a3d8e10011923d10,APAC,Aria Gao,,,,1273.6634,account,category,V2-16,Dating,0.00189451,8460.2061,2.413
+Activision Blizzard Media,67e466df11985900110edd85,Americas,Kasey Geist,,,,1272.5692,account,category,V2-16,Dating,0.00189451,8460.2061,2.4109
+MICHAT PTE. LIMITED,6376f00f3d02dc001b2940b6,APAC,Harper Zhang,,,,1049.5125,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,2.3687
+深圳市乔安科技有限公司,681c54531d9e25001144b6b4,APAC,Harper Zhang,,,,1249.5234,account,category,V2-16,Dating,0.00189451,8460.2061,2.3672
+Tripledot Studios,5c05196699e4374b87bda3b9,EMEA,Tori Edwards,Solitaire - A Classic Card Game,5c093910a4a7ea3d70999820,com.tripledot.solitaire,9640.0133,app,category,V1-7,Government & politics,0.00024485,1093.4115,2.3604
+WONDERFUL TYCOON LIMITED,683bc1bb4c15ca0011ad2b91,APAC,Sunton Sun,,,,9607.5382,account,category,V1-7,Government & politics,0.00024485,1093.4115,2.3524
+Mattel163 Limited,5b0fc58f19829714e5ad0d2f,APAC,Aria Gao,,,,9455.6047,account,category,V1-7,Government & politics,0.00024485,1093.4115,2.3152
+SmartNews,67d0848db62d6b0011ccb35e,Americas,Lisa Tolentino,,,,17169.5169,account,category,V2-3,Shooting,0.00013337,595.5994,2.29
+Dapps Pte Ltd,69fb02a08f95e24c6f99ed31,,Sales Ops,,,,1188.8272,account,category,V2-16,Dating,0.00189451,8460.2061,2.2523
+Loom Games Oyun Yazilim ve Pazarlam,68ed0a0c4cac2a9dc3250a10,EMEA,Dina Eraksan,,,,16861.0836,account,category,V2-3,Shooting,0.00013337,595.5994,2.2488
+Code Dish GmbH,64075f57d6da1900141e5aba,EMEA,Hadil Salameh,,,,8839.2381,account,category,V1-7,Government & politics,0.00024485,1093.4115,2.1643
+StepUp App,69a33528e458622da39fd9d8,,Sales Ops,,,,1089.0686,account,category,V2-16,Dating,0.00189451,8460.2061,2.0633
+Agile Quadrant Media Limited,697702c10199fcad0554f955,APAC,Harper Zhang,,,,8370.5752,account,category,V1-7,Government & politics,0.00024485,1093.4115,2.0495
+"Digital Charms, Inc.",661d55e1a81a0e0011db7a84,,Sales Ops,,,,1077.4013,account,category,V2-16,Dating,0.00189451,8460.2061,2.0412
+Rovio,561e8d946b8d90f61a002087,EMEA,Dina Eraksan,,,,8225.591,account,category,V1-7,Government & politics,0.00024485,1093.4115,2.014
+InstaShot,561e8d976b8d90f61a003fcf,APAC,Harper Zhang,,,,8194.0566,account,category,V1-7,Government & politics,0.00024485,1093.4115,2.0063
+MAG Interactive,561e8d936b8d90f61a001260,EMEA,Hadil Salameh,,,,2784.4307,account,category,V2-21,Weight loss,0.00071221,3180.4493,1.9831
+"SHORT DRAMA CO, LIMITED",68b15a7cc3df44b6b016cb9f,APAC,Ronald Long,,,,7940.6062,account,category,V1-7,Government & politics,0.00024485,1093.4115,1.9443
+Trebel Music,59bbfb5389df7b9d3b000840,Americas,Ary Bai,,,,2710.5596,account,category,V2-21,Weight loss,0.00071221,3180.4493,1.9305
+OZION TECH PTE LTD,655377ea6cdf5900118d252a,APAC,Aria Gao,,,,2697.9992,account,category,V2-21,Weight loss,0.00071221,3180.4493,1.9215
+madarsoft,6228871f2435180014928c15,,Sales Ops,,,,978.1377,account,category,V2-16,Dating,0.00189451,8460.2061,1.8531
+Onefootball Gmbh,65241b8db3ff7d001153bca8,EMEA,Tori Edwards,,,,1667.6437,account,category,V2-7,Food & Drink,0.00109212,4876.988,1.8213
+Samsung Electronics,677bd16443e94a0011b752b2,Americas,Jack Dove,Gaming Hub,6837cbfb71e5cc220d1c9a6b,com.samsung.android.game.gamehome,2529.0936,app,category,V2-21,Weight loss,0.00071221,3180.4493,1.8012
+Scopely,561e8d966b8d90f61a003414,Americas,Natalie Kenyon,,,,13489.8832,account,category,V2-3,Shooting,0.00013337,595.5994,1.7992
+Big Cake Group Limited,5bd009e27e1105796809759b,APAC,Aria Gao,,,,946.7097,account,category,V2-16,Dating,0.00189451,8460.2061,1.7936
+Rakuten Viber,6920858f3fcd392133e22a59,EMEA,Tori Edwards,,,,13432.4778,account,category,V2-3,Shooting,0.00013337,595.5994,1.7915
+Yandex Inc.,6297c4bc012073001b3df035,EMEA,Kseniia Fesenko,tds-easyapp_com-anoshenko-android-solitaires,69297e78b88dcb4daa968fa5,com.anoshenko.android.solitaires,776.0801,app,category,V1-3,Credit & debit cards,0.00225694,10078.6819,1.7516
+WeWard,5dcc0df6a4305a00173b9cf8,EMEA,Tori Edwards,WeWard,5dcc118aa641b70018d331eb,com.weward,762.3143,app,category,V1-3,Credit & debit cards,0.00225694,10078.6819,1.7205
+OLXin,6708be1b66b8da0011c36828,Americas,Rutvij Jadav,,,,894.907,account,category,V2-16,Dating,0.00189451,8460.2061,1.6954
+Mediafigaro,693a98f538cf425060b4c773,EMEA,Tori Edwards,,,,2371.9858,account,category,V2-2,News,0.00069802,3117.0847,1.6557
+Gameberry Labs Private Limited,62f4b9c1a0cd3e00172cfe1c,Americas,Rutvij Jadav,,,,6739.3326,account,category,V1-7,Government & politics,0.00024485,1093.4115,1.6501
+SKplanet,5fbcac40ba624b0015a61709,APAC,Ives Cui,,,,845.3237,account,category,V2-16,Dating,0.00189451,8460.2061,1.6015
+Fingersoft Oy,561e8d956b8d90f61a003365,EMEA,Hadil Salameh,,,,2198.8669,account,category,V2-21,Weight loss,0.00071221,3180.4493,1.566
+The Byte Combat (HongKong) Limited,6641b3748ffbbf0011f15c05,APAC,Seven Tu,,,,6380.1504,account,category,V1-7,Government & politics,0.00024485,1093.4115,1.5622
+株式会社MIXI,686c8b9cf56dd70011f46f36,APAC,Ives Cui,,,,686.8186,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,1.5501
+GlowMind Tech Limited,696df09b3eafeed3e7b21d7e,APAC,Seven Tu,,,,6271.4685,account,category,V1-7,Government & politics,0.00024485,1093.4115,1.5356
+Puzzle1Studio,5d130cdf37472100170775e1,APAC,Ives Cui,,,,679.9213,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,1.5345
+Samsung Electronics,677bd16443e94a0011b752b2,Americas,Jack Dove,Gaming Hub,6837cbfb71e5cc220d1c9a6b,com.samsung.android.game.gamehome,2529.0936,app,category,V2-9,Contests & Freebies,0.00059238,2645.3317,1.4982
+IP Timoshkov,561e8d936b8d90f61a0013cf,,Sales Ops,,,,655.6076,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,1.4797
+Yandex Inc.,6297c4bc012073001b3df035,EMEA,Kseniia Fesenko,tds-easyapp_com-anoshenko-android-solitaires,69297e78b88dcb4daa968fa5,com.anoshenko.android.solitaires,776.0801,app,category,V2-16,Dating,0.00189451,8460.2061,1.4703
+Soner Kara,561e8d936b8d90f61a0014bb,EMEA,Dina Eraksan,,,,2008.3557,account,category,V2-21,Weight loss,0.00071221,3180.4493,1.4304
+Pocket Entertainment Services LLC,6315b8713c59f7001bacf8fb,Americas,Rutvij Jadav,,,,5824.9237,account,category,V1-7,Government & politics,0.00024485,1093.4115,1.4262
+Neron\'s Brother Sàrl,610a97385335b40017097b19,,Sales Ops,,,,752.1409,account,category,V2-16,Dating,0.00189451,8460.2061,1.4249
+Sliide,643d1561e09b08001442e672,EMEA,Beth Taylor-Lowen,Metro Play,68efa5a24ebb41ab326d8070,com.metro.minus1,1949.7244,app,category,V2-21,Weight loss,0.00071221,3180.4493,1.3886
+AbiGroup,57fb4876297c8ce634000039,APAC,Nam Trinh,,,,614.3522,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,1.3866
+STARY PTE. LTD.,610a5420abaef100175b924d,APAC,Harper Zhang,,,,608.0752,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,1.3724
+"GSN Games, Inc.",561e8d946b8d90f61a002092,Americas,Natalie Kenyon,Solitaire TriPeaks iOS,556f747e67c16c382100006e,892521917,709.1952,app,category,V2-16,Dating,0.00189451,8460.2061,1.3436
+Chai Research Corp,662686e7216c0b00118aef81,Americas,Natalie Kenyon,,,,5437.6743,account,category,V1-7,Government & politics,0.00024485,1093.4115,1.3314
+Zynga,56c3a378adccd1cb7e00000a,Americas,Lisa Tolentino,Toy Blast,626841d0d03ae7f7395fdc62,890378044,1859.9849,app,category,V2-21,Weight loss,0.00071221,3180.4493,1.3247
+InMobi,626a9cd05d54fa0018b746b3,Americas,Rutvij Jadav,,,,5331.4531,account,category,V1-7,Government & politics,0.00024485,1093.4115,1.3054
+株式会社MIXI,686c8b9cf56dd70011f46f36,APAC,Ives Cui,,,,686.8186,account,category,V2-16,Dating,0.00189451,8460.2061,1.3012
+ADONE PTE. LTD.,6140b93df325530017ebcca3,APAC,Nam Trinh,,,,575.0241,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,1.2978
+AnyMind Group,60c71d9d6b22ac0017d0bca4,APAC,Nam Trinh,,,,570.8736,account,category,V1-3,Credit & debit cards,0.00225694,10078.6819,1.2884
+Puzzle1Studio,5d130cdf37472100170775e1,APAC,Ives Cui,,,,679.9213,account,category,V2-16,Dating,0.00189451,8460.2061,1.2881
+Mattel163 Limited,5b0fc58f19829714e5ad0d2f,APAC,Aria Gao,,,,9455.6047,account,category,V2-3,Shooting,0.00013337,595.5994,1.2611
+Yandex Inc.,6297c4bc012073001b3df035,EMEA,Kseniia Fesenko,imelab_olcorporationolai,66ebfd8df2fa5bc8304f9dd6,1450480822,660.725,app,category,V2-16,Dating,0.00189451,8460.2061,1.2518
+IP Timoshkov,561e8d936b8d90f61a0013cf,,Sales Ops,,,,655.6076,account,category,V2-16,Dating,0.00189451,8460.2061,1.2421
+Standard Game Limited,66c45f2c053da00011d69728,APAC,Harper Zhang,,,,4978.0587,account,category,V1-7,Government & politics,0.00024485,1093.4115,1.2189
+"Big Blue Bubble, Inc.",561e8d946b8d90f61a00183b,Americas,Ary Bai,,,,1696.8818,account,category,V2-21,Weight loss,0.00071221,3180.4493,1.2085
+MotionVolt Game Ltd,5746d3108e99b7da740000ad,,Sales Ops,,,,623.1111,account,category,V2-16,Dating,0.00189451,8460.2061,1.1805
+Code Dish GmbH,64075f57d6da1900141e5aba,EMEA,Hadil Salameh,,,,8839.2381,account,category,V2-3,Shooting,0.00013337,595.5994,1.1789
+Onefootball Gmbh,65241b8db3ff7d001153bca8,EMEA,Tori Edwards,,,,1667.6437,account,category,V2-2,News,0.00069802,3117.0847,1.164
+Veraxen Ltd,561e8d936b8d90f61a00134a,EMEA,Kseniia Fesenko,Jigsaw Collection HD,524ad17f92fcd29365000006,642831690,1626.5089,app,category,V2-2,News,0.00069802,3117.0847,1.1353
+MOOVIT APP GLOBAL LTD,61c991a5fe4ec600172e5e08,EMEA,Beth Taylor-Lowen,,,,4616.6726,account,category,V1-7,Government & politics,0.00024485,1093.4115,1.1304
+The Meet Group,5a1aede25cc4979d7400c935,Americas,Natalie Kenyon,,,,596.5599,account,category,V2-16,Dating,0.00189451,8460.2061,1.1302
+Severex,57c05f735b2bd4fa24000030,,Sales Ops,,,,595.6902,account,category,V2-16,Dating,0.00189451,8460.2061,1.1285
+Chesscom LLC,6863fe9df000940011f80bcb,Americas,Lisa Tolentino,,,,4584.3269,account,category,V1-7,Government & politics,0.00024485,1093.4115,1.1225
+InstaShot,561e8d976b8d90f61a003fcf,APAC,Harper Zhang,,,,8194.0566,account,category,V2-3,Shooting,0.00013337,595.5994,1.0929
+Tripledot Studios,5c05196699e4374b87bda3b9,EMEA,Tori Edwards,Solitaire - A Classic Card Game iOS,5c093969f7a1953d6377362b,1191435163,4430.7527,app,category,V1-7,Government & politics,0.00024485,1093.4115,1.0849
+AnyMind Group,60c71d9d6b22ac0017d0bca4,APAC,Nam Trinh,,,,570.8736,account,category,V2-16,Dating,0.00189451,8460.2061,1.0815
+Equinox Enterprises‌ Technology Lim,69dca1d80e0891e59aa248e0,APAC,Harper Zhang,,,,4410.2403,account,category,V1-7,Government & politics,0.00024485,1093.4115,1.0798
+GeoTechnologies Inc.,5f45fb2f150074001547df11,APAC,Nam Trinh,,,,4318.6085,account,category,V1-7,Government & politics,0.00024485,1093.4115,1.0574
+Appvestor ApS,6666afb99ec3300011cdf91d,EMEA,Hadil Salameh,,,,4228.1525,account,category,V1-7,Government & politics,0.00024485,1093.4115,1.0353
+Bitmango,561e8d936b8d90f61a001412,APAC,Ives Cui,,,,4192.2792,account,category,V1-7,Government & politics,0.00024485,1093.4115,1.0265
+Flow,6808dbeef6158900110477ca,APAC,Harper Zhang,,,,4163.4343,account,category,V1-7,Government & politics,0.00024485,1093.4115,1.0194
+HK01 Company Limited,680ef700e2291a001165c3eb,APAC,Aria Gao,,,,536.7588,account,category,V2-16,Dating,0.00189451,8460.2061,1.0169
+InfenitePlay LTD,5d53cf81ff5bd700186c5f35,APAC,Nam Trinh,,,,4068.4454,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.9962
+Rounds,65e71ba517069f0011a36cfa,EMEA,Tori Edwards,,,,519.8101,account,category,V2-16,Dating,0.00189451,8460.2061,0.9848
+Yandex Inc.,6297c4bc012073001b3df035,EMEA,Kseniia Fesenko,yurihead_com-infoshell-recradio,691db66d63ddd979c47b5da1,com.infoshell.recradio,518.9565,app,category,V2-16,Dating,0.00189451,8460.2061,0.9832
+Ketchapp,561e8d956b8d90f61a0030cf,EMEA,Hadil Salameh,,,,517.3778,account,category,V2-16,Dating,0.00189451,8460.2061,0.9802
+Electronic Arts,561e8d936b8d90f61a0006b6,Americas,Kasey Geist,,,,7340.4433,account,category,V2-3,Shooting,0.00013337,595.5994,0.979
+Social Chain Inc.,65d4907595c34900110c9204,Americas,Jack Dove,,,,3977.0741,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.9738
+Teamsnap,69834b2ea3ac73e99b7077db,Americas,Matthew Hong,,,,511.7224,account,category,V2-16,Dating,0.00189451,8460.2061,0.9695
+Citymapper (Via),663c90f772fce00011b7f353,EMEA,Louis Wallworth,,,,1635.5829,account,category,V2-9,Contests & Freebies,0.00059238,2645.3317,0.9689
+Rewards Game,5b84c65ca73f7a027c553f4a,EMEA,Tori Edwards,,,,3916.7448,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.959
+GMOTownWiFi,609cb17937f3bf001593dd55,APAC,Nam Trinh,,,,3855.1789,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.9439
+Opera Software Ireland,676405dff3fa5d00114fee22,EMEA,Tori Edwards,Opera for Android with AI,677393b087298a2a13dc7d1b,com.opera.browser,1326.2083,app,category,V2-2,News,0.00069802,3117.0847,0.9257
+Gravity Labs,677cecb33b9ea20011273987,APAC,Ives Cui,,,,3655.412,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.895
+深圳市乔安科技有限公司,681c54531d9e25001144b6b4,APAC,Harper Zhang,,,,1249.5234,account,category,V2-21,Weight loss,0.00071221,3180.4493,0.8899
+Pixocial Technology (Singapore) Pte,65d1b497a3d8e10011923d10,APAC,Aria Gao,,,,1273.6634,account,category,V2-2,News,0.00069802,3117.0847,0.889
+"EaseVibe Technology Co, Limited",685a4add8cccbe0011f6c96c,APAC,Seven Tu,,,,3461.4205,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.8475
+PCA Bear LLC,5ec6f4dbdae5f50015c2980b,EMEA,Kseniia Fesenko,,,,3451.2868,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.845
+SYBO Games,5c52bd6ffbeb402419bef87d,EMEA,Louis Wallworth,,,,6325.6752,account,category,V2-3,Shooting,0.00013337,595.5994,0.8437
+HIGAME Jsc,62664065ca13b50011fb00a2,APAC,Nam Trinh,,,,3429.6237,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.8397
+Wooga,561e8d936b8d90f61a00059f,EMEA,Hadil Salameh,,,,1152.719,account,category,V2-21,Weight loss,0.00071221,3180.4493,0.821
+Big Duck Games,561e8d946b8d90f61a0016d5,Americas,Ary Bai,Flow Free iOS,535ec3d2808374a74e0000e8,526641427,1134.8606,app,category,V2-21,Weight loss,0.00071221,3180.4493,0.8083
+Sliide,643d1561e09b08001442e672,EMEA,Beth Taylor-Lowen,T-Mobile Play,68d40d4f63e6cee0292ae24b,com.tmobile.m1,1119.1264,app,category,V2-21,Weight loss,0.00071221,3180.4493,0.797
+Tripledot Studios,5c05196699e4374b87bda3b9,EMEA,Tori Edwards,Blackjack Casino iOS,5df90b5c66091a78d5815e82,1472419762,3254.6322,app,category,V1-7,Government & politics,0.00024485,1093.4115,0.7969
+香港像素躍動科技有限公司,6a26737de6f5b8e17bdcb8df,APAC,Aria Gao,,,,3216.1655,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.7875
+Samsung Electronics,677bd16443e94a0011b752b2,Americas,Jack Dove,,,,3194.3684,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.7821
+Pocket Entertainment Services LLC,6315b8713c59f7001bacf8fb,Americas,Rutvij Jadav,,,,5824.9237,account,category,V2-3,Shooting,0.00013337,595.5994,0.7769
+nerByte GMBH,561e8d936b8d90f61a000662,EMEA,Hadil Salameh,,,,3127.5933,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.7658
+shenzhen kangyou jiankang Technolog,674445ddd02cf30011f20eea,APAC,Aria Gao,,,,3089.6115,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.7565
+Sliide,643d1561e09b08001442e672,EMEA,Beth Taylor-Lowen,,,,5662.4732,account,category,V2-3,Shooting,0.00013337,595.5994,0.7552
+Webforce,696a2d72a3f5d61ac707c85a,,Sales Ops,,,,3029.2885,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.7417
+VPNABLE LTD,643c740fc34c0300130c743e,EMEA,Kseniia Fesenko,,,,3010.4073,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.7371
+InMobi,626a9cd05d54fa0018b746b3,Americas,Rutvij Jadav,,,,5331.4531,account,category,V2-3,Shooting,0.00013337,595.5994,0.7111
+Superplay,60112a3ed3c4a000156a31d9,EMEA,Beth Taylor-Lowen,,,,2876.964,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.7044
+Amanotes (PT),567acc79dea141ea32000008,APAC,Nam Trinh,,,,2857.7609,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.6997
+HONG KONG LAIYALING NETWORK TECHNOL,69c343956cffa56c03badbb0,,Sales Ops,,,,2817.2036,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.6898
+Bitsmedia Pte Ltd,630d8dbfb1095d001bb0f04a,APAC,Ives Cui,,,,2809.8509,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.688
+MAG Interactive,561e8d936b8d90f61a001260,EMEA,Hadil Salameh,,,,2784.4307,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.6818
+TANGE TECHNOLOGY (SINGAPORE) PTELT,6908648bf5a7288c87f52a5b,APAC,Sunton Sun,,,,2767.6252,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.6777
+Playsimple Games,568b8cb3bb2089a80600000a,Americas,Rutvij Jadav,Daily Themed Crossword - A Fun crossword iOS,5af55340bfc6be4ab9a686f0,1197354394,2756.8539,app,category,V1-7,Government & politics,0.00024485,1093.4115,0.675
+Trebel Music,59bbfb5389df7b9d3b000840,Americas,Ary Bai,,,,2710.5596,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.6637
+OZION TECH PTE LTD,655377ea6cdf5900118d252a,APAC,Aria Gao,,,,2697.9992,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.6606
+Azur Games,59fb487bbe77065f5800afc3,EMEA,Tori Edwards,,,,928.2547,account,category,V2-2,News,0.00069802,3117.0847,0.6479
+AxesInMotion,561e8d956b8d90f61a002f2c,EMEA,Hadil Salameh,,,,896.803,account,category,V2-21,Weight loss,0.00071221,3180.4493,0.6387
+LOTUM Media GmbH,561e8d936b8d90f61a0014ca,EMEA,Hadil Salameh,,,,2583.5049,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.6326
+Ganko srl,68b57bc85828fa59037e71c3,EMEA,Hadil Salameh,,,,2499.4671,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.612
+Chesscom LLC,6863fe9df000940011f80bcb,Americas,Lisa Tolentino,,,,4584.3269,account,category,V2-3,Shooting,0.00013337,595.5994,0.6114
+JuTong,6823ff6a9886e60011610e2b,APAC,Aria Gao,,,,2483.0484,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.608
+"KAUCHE, Inc",679afd4877bd1c00117aaefd,APAC,Nam Trinh,,,,2481.7669,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.6077
+Intelligence Stream INC,69c62dd58cf790e099c02480,APAC,Aria Gao,,,,2459.8968,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.6023
+Playsimple Games,568b8cb3bb2089a80600000a,Americas,Rutvij Jadav,Word Search Explorer : Fun Game,63dd0e73ff93460cff697297,1602508478,2455.9444,app,category,V1-7,Government & politics,0.00024485,1093.4115,0.6013
+"Gamincat, Inc.",561e8d936b8d90f61a00046c,APAC,Ives Cui,,,,2408.649,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5898
+Mediafigaro,693a98f538cf425060b4c773,EMEA,Tori Edwards,,,,2371.9858,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5808
+UCWeb Singapore Pte Ltd,688b3725c446f77fe6eaaff8,APAC,Seven Tu,,,,2346.659,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5746
+WeWard,5dcc0df6a4305a00173b9cf8,EMEA,Tori Edwards,,,,2308.353,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5652
+9D Technologies,65c3655fa3d8e100119171ba,Americas,Rutvij Jadav,,,,2298.2069,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5627
+Kami (HK) Limited,673afd953fa40700118c0ff2,APAC,Sunton Sun,,,,2292.3454,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5613
+Triumph Arcade,6834f4309886e6001161ae5e,,,,,,2284.0564,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5593
+Transsion OEM,6788b18b06da640011023eaf,APAC,Sunton Sun,,,,2259.9059,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5533
+DailyTube,624fd1d81bad4b0011a0d52c,APAC,Seven Tu,,,,2243.9347,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5494
+CYPHER GAMES YAZILIM PAZARLAMA ANON,6a38fde93ccf56e7838442b5,,,,,,2241.145,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5487
+Solitaire Grand Harvest,5ce6bee4142941540d1c9d36,EMEA,Beth Taylor-Lowen,,,,2219.6219,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5435
+smart jam,5ec639e58150da0015b5c467,,Sales Ops,,,,2205.9079,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5401
+BIGO TECHNOLOGY PTE LTD,64ba3523d63483001120ba5e,APAC,Harper Zhang,,,,2204.0222,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5397
+Alpred SL,682b575afc11e60011201e88,EMEA,Dumitru Cazacu,,,,2200.6746,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5388
+Fingersoft Oy,561e8d956b8d90f61a003365,EMEA,Hadil Salameh,,,,2198.8669,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5384
+Innplay Labs,621e7a3f257d5f001422669b,EMEA,Beth Taylor-Lowen,,,,2168.4518,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5309
+"Shenzhen AOE Network Technology Co., Ltd.",59f943ef3f415d7d580076a0,APAC,Seven Tu,,,,2168.0511,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5308
+Free VPN Planet SRL,668fb233514c00001146f038,EMEA,Kseniia Fesenko,,,,2152.3042,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.527
+Leap Games,65b2753cc0bb0b00110566e7,,Sales Ops,,,,2114.7847,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.5178
+株式会社MIXI,686c8b9cf56dd70011f46f36,APAC,Ives Cui,,,,686.8186,account,category,V2-5,Uncategorized,0.00074294,3317.6945,0.5103
+Puzzle1Studio,5d130cdf37472100170775e1,APAC,Ives Cui,,,,679.9213,account,category,V2-5,Uncategorized,0.00074294,3317.6945,0.5051
+kakaopay,69db7b997dbb2c94758de027,APAC,Ives Cui,,,,2024.7305,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.4958
+Soner Kara,561e8d936b8d90f61a0014bb,EMEA,Dina Eraksan,,,,2008.3557,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.4917
+TRINAVA PTE LTD,6991423beea67583ba0c1965,APAC,Harper Zhang,,,,1993.9486,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.4882
+IP Timoshkov,561e8d936b8d90f61a0013cf,,Sales Ops,,,,655.6076,account,category,V2-5,Uncategorized,0.00074294,3317.6945,0.4871
+Puzzle1Studio,5d130cdf37472100170775e1,APAC,Ives Cui,,,,679.9213,account,category,V2-21,Weight loss,0.00071221,3180.4493,0.4842
+Vicok Limited New,64684dd7d7125400115d9e39,APAC,Aria Gao,,,,1940.9693,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.4752
+Shenyang Yicheng Network Technology,6866251bdd4af80011a68567,APAC,Seven Tu,,,,1924.3591,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.4712
+Wind's Choice Tech Limited,6540ac3b1ad27200118e909d,APAC,Ronald Long,,,,1920.4612,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.4702
+FARSUN PTE LTD,66aafef7514c00001147c0c9,APAC,Harper Zhang,,,,1906.1867,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.4667
+"Hongxing Media Co, Limited",66cd942b3db5f70011e66947,APAC,Sunton Sun,,,,1900.9894,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.4655
+Bingo Blitz,5c530ada487e8c31b1ba7791,,Sales Ops,,,,1886.7624,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.462
+Timehop,5898dc668d35674f40000046,Americas,Ary Bai,,,,1871.3394,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.4582
+Truecaller,561e8d946b8d90f61a001514,Americas,Rutvij Jadav,,,,1845.9792,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.452
+JustPlay GmbH,67c057525a9de100115b66ec,EMEA,Dina Eraksan,,,,1815.028,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.4444
+MotionVolt Game Ltd,5746d3108e99b7da740000ad,,Sales Ops,,,,623.1111,account,category,V2-21,Weight loss,0.00071221,3180.4493,0.4438
+Kolibri Games (fka Fluffy Fairy),577a61dcda179a9c3f000089,EMEA,Dina Eraksan,,,,1727.3364,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.4229
+Aged Studio Limited,5fc7301f7a7f0200153979c7,APAC,Seven Tu,,,,1715.1944,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.42
+"Big Blue Bubble, Inc.",561e8d946b8d90f61a00183b,Americas,Ary Bai,,,,1696.8818,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.4155
+Gamma Play,5ed15ca4662ff10016409214,EMEA,Hadil Salameh,,,,1694.9064,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.415
+Playsimple Games,568b8cb3bb2089a80600000a,Americas,Rutvij Jadav,Word Trip iOS,5bebfb1c4de124001080db05,1214223596,1683.7419,app,category,V1-7,Government & politics,0.00024485,1093.4115,0.4123
+Onefootball Gmbh,65241b8db3ff7d001153bca8,EMEA,Tori Edwards,,,,1667.6437,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.4083
+株式会社MIXI,686c8b9cf56dd70011f46f36,APAC,Ives Cui,,,,686.8186,account,category,V2-9,Contests & Freebies,0.00059238,2645.3317,0.4069
+AnyMind Group,60c71d9d6b22ac0017d0bca4,APAC,Nam Trinh,,,,570.8736,account,category,V2-21,Weight loss,0.00071221,3180.4493,0.4066
+Sonderads,64b7f29fcca9af0011fd585d,EMEA,Kseniia Fesenko,,,,1646.0609,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.403
+Puzzle1Studio,5d130cdf37472100170775e1,APAC,Ives Cui,,,,679.9213,account,category,V2-9,Contests & Freebies,0.00059238,2645.3317,0.4028
+Playsimple Games,568b8cb3bb2089a80600000a,Americas,Rutvij Jadav,Word Search Explorer,625d3d93b090bdfbd3c527c0,in.playsimple.wordsearch,1639.7783,app,category,V1-7,Government & politics,0.00024485,1093.4115,0.4015
+Playsimple Games,568b8cb3bb2089a80600000a,Americas,Rutvij Jadav,Tile Match -Triple puzzle game,64ee188a4ca99f72ba7c5d70,in.playsimple.triple.tile.matchgame.pair.three.puzzle.object.royale,1639.763,app,category,V1-7,Government & politics,0.00024485,1093.4115,0.4015
+Veraxen Ltd,561e8d936b8d90f61a00134a,EMEA,Kseniia Fesenko,Jigsaw Collection HD,524ad17f92fcd29365000006,642831690,1626.5089,app,category,V1-7,Government & politics,0.00024485,1093.4115,0.3983
+厦门神桌信息科技有限公司,68c149fb167d908cf140905e,APAC,Seven Tu,,,,1600.2124,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3918
+IP Timoshkov,561e8d936b8d90f61a0013cf,,Sales Ops,,,,655.6076,account,category,V2-9,Contests & Freebies,0.00059238,2645.3317,0.3884
+Goodgame Studios,6093fd75b33a50001533d418,EMEA,Hadil Salameh,,,,552.9318,account,category,V2-2,News,0.00069802,3117.0847,0.386
+ikame,5cdc50a461a35300113a8971,APAC,Nam Trinh,,,,1561.0769,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3822
+Zentertain,561e8d946b8d90f61a0017d9,Americas,Matthew Hong,Cooking Madness,5f2327451c80d20001311b3a,1323901884,529.6747,app,category,V2-21,Weight loss,0.00071221,3180.4493,0.3772
+"Guangzhou Yourong Data Network Co., LTD",63059267cf2375001ae03848,APAC,Aria Gao,,,,1534.8315,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3758
+Bitsmedia Pte Ltd,630d8dbfb1095d001bb0f04a,APAC,Ives Cui,,,,2809.8509,account,category,V2-3,Shooting,0.00013337,595.5994,0.3748
+HK01 Company Limited,680ef700e2291a001165c3eb,APAC,Aria Gao,,,,536.7588,account,category,V2-2,News,0.00069802,3117.0847,0.3747
+Tripledot Studios,5c05196699e4374b87bda3b9,EMEA,Tori Edwards,Triple Tile,60a4e1d7cf4957c21093d8e3,1572661625,1527.6428,app,category,V1-7,Government & politics,0.00024485,1093.4115,0.374
+JAGAT TECHNOLOGY PTE LTD,659e4bc13d46f600110781db,APAC,Ronald Long,,,,1519.7422,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3721
+Rounds,65e71ba517069f0011a36cfa,EMEA,Tori Edwards,,,,519.8101,account,category,V2-21,Weight loss,0.00071221,3180.4493,0.3702
+"PSYNET Co,Ltd",681c05e62331ea0011439df0,APAC,Ives Cui,,,,1510.6681,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3699
+Yandex Inc.,6297c4bc012073001b3df035,EMEA,Kseniia Fesenko,yurihead_com-infoshell-recradio,691db66d63ddd979c47b5da1,com.infoshell.recradio,518.9565,app,category,V2-21,Weight loss,0.00071221,3180.4493,0.3696
+Joy Media AG,69a2f4704c0d69d44ce44e6d,,Sales Ops,,,,1490.1053,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3649
+Wink Tech,63fc7f1c3ad98c0014e9d076,,Sales Ops,,,,1484.8249,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3636
+Playsimple Games,568b8cb3bb2089a80600000a,Americas,Rutvij Jadav,Crossword Jam,5c505bc01d8afc08c9a4e14e,in.playsimple.tripcross,1484.1206,app,category,V1-7,Government & politics,0.00024485,1093.4115,0.3634
+Moonfrog Labs Pvt. Ltd.,57e3bb936c2966b53500009f,Americas,Rutvij Jadav,,,,1480.2967,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3625
+gomo,62fc92193e90d2001bf7eb00,APAC,Sunton Sun,,,,1471.8061,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3604
+Kuku FM,694a7a072325f894f1e4e141,Americas,Rutvij Jadav,,,,1467.4444,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3593
+"App Lab Studios, LLC",65ca6ad44e9fff0011d273b7,Americas,Ary Bai,,,,1467.0611,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3592
+Tripledot Studios,5c05196699e4374b87bda3b9,EMEA,Tori Edwards,Triple Tile,60a4e1e3cf4957c21093d8e8,com.tripledot.triple.tile.match.pair.game.three.master.object,1461.2637,app,category,V1-7,Government & politics,0.00024485,1093.4115,0.3578
+Mostafa Vafi,674ae9323800780011af68ca,,Sales Ops,,,,1460.9502,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3577
+Infinity,642fcca2b04a200010798b74,APAC,Nam Trinh,,,,1452.7781,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3557
+AKRURA PTE LTD,6438b601943a92001427793d,APAC,Nam Trinh,,,,1438.0561,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3521
+LIANKE DIGITAL INTELLIGENCE LIMITED,6a213e2e2e7e292a6e52dc9a,APAC,Ronald Long,,,,1411.3687,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3456
+Playsimple Games,568b8cb3bb2089a80600000a,Americas,Rutvij Jadav,Crossword Jam : Fun Brain Game,5c6bcec910122f720df1553b,1269540854,1400.6844,app,category,V1-7,Government & politics,0.00024485,1093.4115,0.343
+LiveScore,68f9f5db75ceafc7a8ee6155,EMEA,Hadil Salameh,,,,1398.1988,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3423
+Rotatelab,6647d1649965a7001157bc8a,,Sales Ops,,,,1393.6713,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3412
+Meta Innovation Limited,69ead3c0a33b05d61de6186b,APAC,Aria Gao,,,,1376.2884,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.337
+"GSN Games, Inc.",561e8d946b8d90f61a002092,Americas,Natalie Kenyon,,,,1375.1253,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3367
+BALABOOM PTE LTD,63e0726b0dce2900138bf123,APAC,Ronald Long,,,,2498.5692,account,category,V2-3,Shooting,0.00013337,595.5994,0.3332
+Afflike OÜ,6936de53192ce0aadaecc0c6,,Sales Ops,,,,1352.1026,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3311
+"Everyday Health, Inc",64ecb0b0006b5a0011e57f9a,,Sales Ops,,,,1328.7126,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3253
+"Correa Pallet, Inc",6940fbf7aa92acbac5362ff8,APAC,Seven Tu,,,,1310.2788,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3208
+INNOVATIVE CONNECTING PTE.LIMITED,5d76031d57ec4f0017743734,APAC,Harper Zhang,Pro,5da6812659f5670018ae7124,free.vpn.unblock.proxy.vpn.master.pro,2394.3661,app,category,V2-3,Shooting,0.00013337,595.5994,0.3193
+FEIJIA TECHNOLOGY LIMITED,63230fa0d6e567001b15e305,,Sales Ops,,,,1298.5527,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.318
+HK01 Company Limited,680ef700e2291a001165c3eb,APAC,Aria Gao,,,,536.7588,account,category,V2-9,Contests & Freebies,0.00059238,2645.3317,0.318
+Mediafigaro,693a98f538cf425060b4c773,EMEA,Tori Edwards,,,,2371.9858,account,category,V2-3,Shooting,0.00013337,595.5994,0.3164
+vivo,67a971203635740011a99501,APAC,Sunton Sun,,,,1286.5963,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.315
+UCWeb Singapore Pte Ltd,688b3725c446f77fe6eaaff8,APAC,Seven Tu,uc browser,68ef8349bea871f37200c0f0,com.UCMobile.intl,2346.659,app,category,V2-3,Shooting,0.00013337,595.5994,0.313
+Pixocial Technology (Singapore) Pte,65d1b497a3d8e10011923d10,APAC,Aria Gao,,,,1273.6634,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3119
+Activision Blizzard Media,67e466df11985900110edd85,Americas,Kasey Geist,,,,1272.5692,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3116
+Chongqing JiguJigu  Network Technol,6875f522babc2000110fb14e,APAC,Seven Tu,,,,1268.6212,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3106
+FlintCast s.r.o.,5e05c0a26057ae0017e7d51c,EMEA,Beth Taylor-Lowen,,,,1265.4288,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3098
+Inspired Square FZE,5d9454a0a212f000180a7d7b,Americas,Rutvij Jadav,,,,1255.8621,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3075
+SocialLoop LLC,65de2ed395c34900110d36bb,,Sales Ops,,,,1254.1167,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3071
+深圳市乔安科技有限公司,681c54531d9e25001144b6b4,APAC,Harper Zhang,,,,1249.5234,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3059
+BOM NEGOCIO ATIVIDADES DE INTERNET,69986b1e026acf48a90fdd4b,Americas,Ary Bai,,,,1225.2415,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.3
+Dapps Pte Ltd,69fb02a08f95e24c6f99ed31,,Sales Ops,,,,1188.8272,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2911
+Nordcurrent,561e8d946b8d90f61a001f18,EMEA,Kseniia Fesenko,,,,1184.2585,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.29
+Wooga,561e8d936b8d90f61a00059f,EMEA,Hadil Salameh,,,,1152.719,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2822
+CloudBirds,65d47091444f8f0011416ee7,,Sales Ops,,,,1136.4314,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2783
+HEARTSNET PTE LTD,6943c0c727e1a44402a2712f,APAC,Sunton Sun,,,,1124.1814,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2753
+Instabridge Sweden AB,58665aa0444a4aeb0d000130,EMEA,Dina Eraksan,,,,1118.1645,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2738
+Soner Kara,561e8d936b8d90f61a0014bb,EMEA,Dina Eraksan,,,,2008.3557,account,category,V2-3,Shooting,0.00013337,595.5994,0.2679
+StepUp App,69a33528e458622da39fd9d8,,Sales Ops,,,,1089.0686,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2667
+"Digital Charms, Inc.",661d55e1a81a0e0011db7a84,,Sales Ops,,,,1077.4013,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2638
+BACKGARDON INFORMATION LIMITED,6925ce915b68cb80b689803c,APAC,Seven Tu,,,,1062.4263,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2601
+MadBox,5b5ec3e8337f272131edc824,EMEA,Hadil Salameh,,,,1058.9943,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2593
+BEEFUN PTE LTD,686e09cb49fa94001121cd60,,Sales Ops,,,,1041.566,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.255
+Atom Apps LLC,698a14ac910ce7b2f1f5662b,,Sales Ops,,,,1034.6112,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2533
+Sky work,6698d32f7c55ea0011aabb4f,APAC,Ronald Long,,,,1020.2945,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2498
+bridgeworks,68f4da512fef766b2dac1581,,Sales Ops,,,,1009.3981,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2472
+madarsoft,6228871f2435180014928c15,,Sales Ops,,,,978.1377,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2395
+Novus Tech Apps PTY LTD,6756d5101e787500114ab99c,,Sales Ops,,,,961.7203,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2355
+Dream Games,5f3414f3b421040016eb5132,EMEA,Dina Eraksan,,,,954.2543,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2336
+Azur Games,59fb487bbe77065f5800afc3,EMEA,Tori Edwards,,,,928.2547,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2273
+"Big Blue Bubble, Inc.",561e8d946b8d90f61a00183b,Americas,Ary Bai,,,,1696.8818,account,category,V2-3,Shooting,0.00013337,595.5994,0.2263
+720 Media LLC,6256ab6a408c570018e1ef24,,Sales Ops,,,,922.5231,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2259
+Candivore,6298c12ee18acf001be07064,EMEA,Tori Edwards,,,,915.8431,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2242
+Happy Dayzzz,5fadec8fd8ff880015e844d9,APAC,Nam Trinh,,,,903.0591,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2211
+OLXin,6708be1b66b8da0011c36828,Americas,Rutvij Jadav,,,,894.907,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2191
+Citymapper (Via),663c90f772fce00011b7f353,EMEA,Louis Wallworth,,,,1635.5829,account,category,V2-3,Shooting,0.00013337,595.5994,0.2181
+Edusystems OU,605332ccfc1a6f00150aab5d,,Sales Ops,,,,882.0633,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.216
+"MACADAM TECHNOLOGIES, S.L.",63340ea7b82cec00137c42f8,EMEA,Tori Edwards,,,,879.7941,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2154
+Gametion,561e8d956b8d90f61a0026fb,Americas,Rutvij Jadav,,,,1609.0563,account,category,V2-3,Shooting,0.00013337,595.5994,0.2146
+Honor Technologies Germany GmbH,69de35d17dbb2c94758e086d,APAC,Sunton Sun,,,,867.6737,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2125
+"Hongkong VeePai Technology Co, Lim",66c8631b3db5f70011e64805,APAC,Sunton Sun,,,,861.8848,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.211
+Yanadoo,65fa476ea576f30011b05d36,APAC,Ives Cui,,,,845.2418,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.207
+NOVAGE COMMUNICATIONS PTE LTD,67bc0dade07afc0011689ab9,,Sales Ops,,,,837.6774,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2051
+MobiSystems Ltd,67e409397b1b830011800180,,Sales Ops,,,,823.7722,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.2017
+JEDY APPS TECHNOLOGY LTD,66e545690f05bd0011e185b8,EMEA,Dina Eraksan,,,,814.1257,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1993
+FunCraft,604a7ccb4f898b00151e2797,EMEA,Tori Edwards,,,,803.6666,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1968
+SyndarkStudio,561e8d946b8d90f61a001e51,,Sales Ops,,,,792.4662,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.194
+BOBODOO PTE LTD,66489a52557b6e0011538fab,APAC,Nam Trinh,,,,791.5147,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1938
+Azalp Technologies Private Limited,693ff17dacc6e5cd2311ae4b,,Sales Ops,,,,789.1831,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1932
+WERAISER TECH SDN BHD,66d849c60514b700113ccef3,,Sales Ops,,,,764.8976,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1873
+Mornhouse LTD,66e148cb6c51490011ca574a,,Sales Ops,,,,761.1242,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1864
+Syncme,68ca90f7cdcaeb20374f5716,EMEA,Dina Eraksan,,,,760.3257,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1862
+Neron\'s Brother Sàrl,610a97385335b40017097b19,,Sales Ops,,,,752.1409,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1842
+Chongqing Jianxiaoyi Technology Co,691f18db3fcd392133e21961,,Sales Ops,,,,750.3843,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1837
+JOYDREAM LIMITED,66682afd3c533100115dea8e,,Sales Ops,,,,749.6893,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1836
+"GSN Games, Inc.",561e8d946b8d90f61a002092,Americas,Natalie Kenyon,,,,1375.1253,account,category,V2-3,Shooting,0.00013337,595.5994,0.1834
+LLC East-Games,62ea666c62b76e001b3eca4f,EMEA,Kseniia Fesenko,,,,739.3919,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.181
+AppQuantum,5c6a96f373ca3d6bbe3fff38,EMEA,Kseniia Fesenko,,,,736.7819,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1804
+Kooply ZYP,62d1322c42406e001be69514,,Sales Ops,,,,729.7717,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1787
+"Everyday Health, Inc",64ecb0b0006b5a0011e57f9a,,Sales Ops,,,,1328.7126,account,category,V2-3,Shooting,0.00013337,595.5994,0.1772
+Legendary Software Labs LLC,561e8d946b8d90f61a001541,,Sales Ops,,,,721.5764,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1767
+HONG KONG JINGKEI TRADING COMPANY L,693cdc3aaa92acbac5360f24,,Sales Ops,,,,716.5466,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1754
+vigame,561e8d976b8d90f61a00409c,APAC,Ronald Long,,,,714.3864,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1749
+TAPCLAP,5e072f709b72ee0018763bc3,EMEA,Kseniia Fesenko,,,,708.6913,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1735
+Astral Game,66cc1f476f113e00119863ee,,Sales Ops,,,,707.9673,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1733
+ActionFit,5e5381e2bd20d800170948e8,APAC,Ives Cui,,,,696.7948,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1706
+"ALBONA, Inc",67a71a4dce727c001181b80d,APAC,Nam Trinh,,,,695.7231,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1703
+Activision Blizzard Media,67e466df11985900110edd85,Americas,Kasey Geist,,,,1272.5692,account,category,V2-3,Shooting,0.00013337,595.5994,0.1697
+FlintCast s.r.o.,5e05c0a26057ae0017e7d51c,EMEA,Beth Taylor-Lowen,,,,1265.4288,account,category,V2-3,Shooting,0.00013337,595.5994,0.1688
+株式会社MIXI,686c8b9cf56dd70011f46f36,APAC,Ives Cui,,,,686.8186,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1682
+深圳市乔安科技有限公司,681c54531d9e25001144b6b4,APAC,Harper Zhang,,,,1249.5234,account,category,V2-3,Shooting,0.00013337,595.5994,0.1667
+"HK Wanhua Network Tech Co, Limited",67a2e105ce727c001181897c,APAC,Harper Zhang,,,,680.8393,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1667
+Puzzle1Studio,5d130cdf37472100170775e1,APAC,Ives Cui,,,,679.9213,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1665
+East End Technologies Ltd.,654511291f514a0011d49c74,,Sales Ops,,,,678.7954,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1662
+SHRINKFOREARN SOLUTION & CONST PVT,668f645b39a54a001129efc1,,Sales Ops,,,,672.8885,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1648
+"TuneIn, Inc.",62ed34b9c7573a0017012671,,Sales Ops,,,,670.1928,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1641
+CNRS,62bfddc4553335001b671041,APAC,Ives Cui,,,,670.0967,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1641
+BEABLE TECHNOLOGY PTE LTD,666abf90cbf9b5001145b243,APAC,Seven Tu,,,,658.8393,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1613
+IP Timoshkov,561e8d936b8d90f61a0013cf,,Sales Ops,,,,655.6076,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1605
+LUCKY BIRD LIMITED,679868362d6d8a00115eb04b,APAC,Ronald Long,,,,651.1868,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1594
+Playspare,5f6830b5352f2900152f8a5a,Americas,Rutvij Jadav,,,,639.6305,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1566
+HEYTAP PTE LTD,69539cc1215711e3530d17f8,APAC,Sunton Sun,,,,633.0199,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.155
+Bounce,630ef0afa06121001bbb55a9,APAC,Nam Trinh,,,,627.6054,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1537
+Cittamobi,65f1ab3f0ab4250011ef36b5,,Sales Ops,,,,625.3845,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1531
+MotionVolt Game Ltd,5746d3108e99b7da740000ad,,Sales Ops,,,,623.1111,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1526
+Playsimple Games,568b8cb3bb2089a80600000a,Americas,Rutvij Jadav,PlaySimple Cryptogram,66e16cd7d7770a6a369725c3,in.playsimple.cryptogram,614.3112,app,category,V1-7,Government & politics,0.00024485,1093.4115,0.1504
+AbiGroup,57fb4876297c8ce634000039,APAC,Nam Trinh,,,,614.3522,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1504
+STARY PTE. LTD.,610a5420abaef100175b924d,APAC,Harper Zhang,,,,608.0752,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1489
+Severex,57c05f735b2bd4fa24000030,,Sales Ops,,,,595.6902,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1459
+Moyoung,691300ff50bffb2bb3a10d66,APAC,Harper Zhang,,,,591.9152,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1449
+BlockPuzzleGame,5c4698f387314c74d39455da,APAC,Nam Trinh,,,,586.3385,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1436
+Lokiliug103@gmail.com,614d6b2d47bd8d00170030ca,,Sales Ops,,,,586.2264,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1435
+App Lock LLC,67af94af2d6d8a00115f77e7,,Sales Ops,,,,584.3129,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1431
+"Uprise, Inc",64fece6f27f7020011a8b65f,APAC,Ives Cui,,,,579.5277,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1419
+ADONE PTE. LTD.,6140b93df325530017ebcca3,APAC,Nam Trinh,,,,575.0241,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1408
+"Pogo Technologies, Inc",649dcc52cc1081001190a228,,,,,,573.8935,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1405
+MICHAT PTE. LIMITED,6376f00f3d02dc001b2940b6,APAC,Harper Zhang,,,,1049.5125,account,category,V2-3,Shooting,0.00013337,595.5994,0.14
+AnyMind Group,60c71d9d6b22ac0017d0bca4,APAC,Nam Trinh,,,,570.8736,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1398
+YUKILASHSG,6915398050bffb2bb3a12605,APAC,Aria Gao,,,,565.8988,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1386
+LinQ inc,680b0906f615890011048c59,APAC,Ives Cui,,,,564.4588,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1382
+Wellresion Limited,645382d9ff6cc5001440b5a1,APAC,Ronald Long,,,,563.829,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1381
+BALIU MOBILE OU,695dd01f2334b471dc1dec59,,Sales Ops,,,,560.4372,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1372
+合肥维方科技有限公司,61a48b142787820017b43e27,,Sales Ops,,,,553.3379,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1355
+Goodgame Studios,6093fd75b33a50001533d418,EMEA,Hadil Salameh,,,,552.9318,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1354
+Everblessed Technology Inc,684804f4806ba900114788aa,,Sales Ops,,,,551.9597,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1351
+Riseup Infotech,67347bc8d694410011b7e2ef,,Sales Ops,,,,551.2447,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.135
+BIRDLINK HK LIMITED,68b95a589a39b4828a65a39e,,Sales Ops,,,,548.769,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1344
+广州唯寻网络科技有限公司,695f2ae70199fcad0553cb4d,,Sales Ops,,,,546.2888,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1338
+BoostVision,6582b6cb32ddea0011e06caf,APAC,Seven Tu,,,,545.7886,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1336
+Sweat Foundation,6422c3cb80513f00143dca6e,,Sales Ops,,,,543.7498,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1331
+HK01 Company Limited,680ef700e2291a001165c3eb,APAC,Aria Gao,,,,536.7588,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1314
+Unbing Technology Holdings Ltd,67b440da04718500114423f1,,Sales Ops,,,,534.1392,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1308
+Playsimple Games,568b8cb3bb2089a80600000a,Americas,Rutvij Jadav,Crossword Explorer,61fbd43bbb5dc5ef7a216388,1512407890,534.354,app,category,V1-7,Government & politics,0.00024485,1093.4115,0.1308
+Mobidev Vietnam Technology Joint Stock Company,6096c425afa24b0015e74f6f,,Sales Ops,,,,532.0469,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1303
+fluct,653b61bc1f514a0011d4160d,APAC,Nam Trinh,,,,530.3941,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1299
+Nocturnal Games,6489be1351d9b2001171762b,,Sales Ops,,,,528.4292,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1294
+YJMOBI TECHNOLOGY LIMITED,65d8443ea3d8e1001192a39d,APAC,Sunton Sun,,,,528.5238,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1294
+WINDFLY TECHNOLOGY LIMITED,68cd1ed00f90835398be25f1,,Sales Ops,,,,526.0709,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1288
+Brainmobi Technologies,6486da2ba6bfa20014cb5d31,,Sales Ops,,,,520.5287,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1275
+Yazio GmbH,69930b23eea67583ba0c3092,EMEA,Kseniia Fesenko,,,,520.0902,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1273
+Rounds,65e71ba517069f0011a36cfa,EMEA,Tori Edwards,,,,519.8101,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1273
+Teamsnap,69834b2ea3ac73e99b7077db,Americas,Matthew Hong,,,,511.7224,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1253
+individual,629d92e3affdb4001b645f5a,,Sales Ops,,,,506.6644,account,category,V1-7,Government & politics,0.00024485,1093.4115,0.1241
+Neron\'s Brother Sàrl,610a97385335b40017097b19,,Sales Ops,,,,752.1409,account,category,V2-3,Shooting,0.00013337,595.5994,0.1003
+MotionVolt Game Ltd,5746d3108e99b7da740000ad,,Sales Ops,,,,623.1111,account,category,V2-3,Shooting,0.00013337,595.5994,0.0831
+Severex,57c05f735b2bd4fa24000030,,Sales Ops,,,,595.6902,account,category,V2-3,Shooting,0.00013337,595.5994,0.0794
+AnyMind Group,60c71d9d6b22ac0017d0bca4,APAC,Nam Trinh,,,,570.8736,account,category,V2-3,Shooting,0.00013337,595.5994,0.0761
+HK01 Company Limited,680ef700e2291a001165c3eb,APAC,Aria Gao,,,,536.7588,account,category,V2-3,Shooting,0.00013337,595.5994,0.0716
+Rounds,65e71ba517069f0011a36cfa,EMEA,Tori Edwards,,,,519.8101,account,category,V2-3,Shooting,0.00013337,595.5994,0.0693
